@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-// @ts-ignore
-import ReactPannellum, { getConfig } from "react-pannellum";
+
+//import ReactPannellum, { getConfig } from "react-pannellum";
 
 class SphereViewer extends Component {
   click() {
-    console.log(getConfig());
+    //  console.log(getConfig());
   }
 
   render() {
@@ -28,7 +28,9 @@ class SphereViewer extends Component {
     };
     return (
       <div>
-        <ReactPannellum
+        {/*
+        
+         <ReactPannellum
           id="1"
           sceneId="firstScene"
           imageSource="https://d2vm0afvtrg4mc.cloudfront.net/aarif/1.jpg"
@@ -36,6 +38,8 @@ class SphereViewer extends Component {
           config={config}
           style={style}
         />
+      
+    */}
       </div>
     );
   }
