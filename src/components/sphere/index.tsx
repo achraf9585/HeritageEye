@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+// @ts-ignore
 import ReactPannellum, { getConfig } from "react-pannellum";
 
 class SphereViewer extends Component {
