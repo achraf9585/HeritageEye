@@ -1,0 +1,496 @@
+{
+  "infos": {
+    "id": "thee-ain-ancient-village",
+    "title": "Thee Ain Ancient Village",
+    "shortDescription": "Thee Ain is one of the most important heritage villages in the Kingdom. Its 58 palaces are built out of stone on a mountain of white quartz. The Village includes a mosque where the five prayers and Friday prayers are performed.",
+    "longDescription": "Thee Ain is one of the most important heritage villages in the Kingdom. Its 58 palaces are built out of stone on a mountain of white quartz. The Village includes a mosque where the five prayers and Friday prayers are performed.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/theeain_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/p_theeain.png",
+      "url": "/images/sites/p_theeain.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "",
+      "names": ["1"],
+      "modals": [
+        {
+          "title": "The passageway",
+          "text": "It is the main path for moving to all houses. It starts from the northern side to the southern side of the Village.",
+          "image": null,
+          "position": [
+            -68.62215180101863, -6.596698675503873, 49.552939860139084
+          ]
+        }
+      ],
+      "positions": [
+        [-79.35597388362068, -16.136247380944795, 25.500214301904716]
+      ],
+      "nextCameraPositions": [
+        [0.09845412270012674, -0.0021503826454879033, 0.01738279545488516]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/1.jpg",
+      "links": [1],
+      "cameraPosition": [
+        -0.09346993390296901, -0.01900618066071237, 0.030035588105894864
+      ]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "names": ["2", "0"],
+      "modals": [],
+      "positions": [
+        [84.87162843989455, -2.1819818807073132, 0.23588351521475678],
+        [-76.11693058039936, -19.37862597271895, -32.22874081356779]
+      ],
+      "nextCameraPositions": [
+        [-0.040989557248369626, -0.017629638711222872, -0.08949330721061984],
+        [0.09186615600119323, -0.0021503826454879697, -0.03944597870559707]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/2.jpg",
+      "links": [2, 0],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["1", "3"],
+      "modals": [],
+      "positions": [
+        [32.473568419126096, -25.790338020821096, 74.08330323966479],
+        [-35.85168371690105, -14.462277790850044, -75.58775890158127]
+      ],
+      "nextCameraPositions": [
+        [-0.08937419164162937, -0.02295944934269602, -0.03853722297059668],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/3.jpg",
+      "links": [1, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["2", "4", "5", "11"],
+      "modals": [
+        {
+          "title": "The Village's courtyard",
+          "text": "It is a yard located in the middle of the Village's passageway and serves as the intersection of its streets. The courtyard overlooks the Village's farms on the western side and is surrounded by buildings on the other sides.",
+          "image": null,
+          "position": [
+            -26.09940930985829, 5.601971973680354, -80.59434684692583
+          ]
+        }
+      ],
+      "positions": [
+        [-76.48157819242026, -23.050931769079444, 28.761654016658195],
+        [84.08745996732485, -11.327311008165745, 3.000183589020924],
+        [83.15289351573885, -11.69763246480386, -12.52085039757934],
+        [20.815337673493477, -0.4495430318737363, -82.30753081341304]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.08528293183580894, 0.01237093285050158, -0.050732450738133546],
+        [ -0.08546383475993763 , -0.007929134375616652 , 0.051313368396349625],
+        [0.056855049249215556, -0.015531856149255691, 0.08078530076336972]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/4.jpg",
+      "links": [2, 4, 5, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["3"],
+      "modals": [
+        {
+          "title": "The Village",
+          "text": "Thee Ain Village is of paramount importance because of its tangible and intangible heritage. It was nominated for the 2018 World Heritage List. It needed documentation to cast light on the treasures hidden therein that are witness to past civilizations. It is known for its buildings, forts, wonderful styles, and traditions. There are also proposals for environmental and functional treatment to make it safe and appropriate for visits and other functional uses.",
+          "image": null,
+          "position": [
+            66.50761308698874, 0.9320365490105819, 52.762474442947735
+          ]
+        }
+      ],
+      "positions": [
+        [65.28397871983715, -27.991784039321633, 46.502388635465046]
+      ],
+      "nextCameraPositions": [
+        [-79.58488708945238, -27.655720095636504, -10.46025300606663]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/5.jpg",
+      "links": [3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["3", "6"],
+      "modals": [
+        {
+          "title": "The Mosque",
+          "text": "The site of the Mosque was chosen to be close to farms and water streams which many pilgrims or commercial caravans visited.",
+          "image": null,
+          "position": [74.26881430301806 , 8.618966182052267 , -40.222713036000684]
+        }
+      ],
+      "positions": [
+        [81.39716904423445 , -15.749202547547345 , -18.288616423902898],
+        [-74.95854374511171, -20.623194109488157, 34.11613378351288]
+      ],
+      "nextCameraPositions": [
+        [-0.09390357018315951 , -0.022933955950032506 , 0.02561548694322288],
+        [-0.024113450617994175 , -0.02493212216497198 , 0.09379195479167968]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/6.jpg",
+      "links": [3, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["5", "7"],
+      "modals": [],
+      "positions": [
+        [14.677588492821851 , -21.41041974205742 , -80.83422741948054],
+        [-20.47231957467704 , -21.167371718061197 , 79.62936961813598]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [ 0.09253621085280148 , 0.0007673319752667095 , 0.0379006712690635]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/7.jpg",
+      "links": [5, 7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["6", "8"],
+      "modals": [],
+      "positions": [
+        [-71.05526446400258 , -13.399858268837562 , -44.49273188202451],
+        [74.56001652332223 , -40.02797805537122 , -6.8245812208981995]
+      ],
+      "nextCameraPositions": [
+        [0.01728809009755225 , -0.02521839781161064 , -0.09521110414544241],
+        [-0.09821272155302818 , -0.016019482450758207 , 0.009881169321351137]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/8.jpg",
+      "links": [6, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["7", "9"],
+      "modals": [
+        {
+          "title": "Water stream",
+          "text": "It is the main watercourse from which many irrigation ditches flow into farms. Farmers or passers-by used to gather at this stream as a public resting place that was covered by trees.",
+          "image": null,
+          "position": [59.24981624595681 , -12.780630565253304 , 59.44850508780574]
+        }
+      ],
+      "positions": [
+        [82.61435621942229 , -18.467492155931346 , -6.4676023317004905],
+        [ -83.32541334355676 , -13.880233306902051 , 8.498506602420205]
+      ],
+      "nextCameraPositions": [
+        [ -0.093975402836036 , -0.015381837898033763 , -0.030529047228555553 ],
+        [ 0.04703775068863713 , 0.003978693759648136 , 0.08815679217235935 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/9.jpg",
+      "links": [7, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["8"],
+      "modals": [],
+      "positions": [
+        [-58.56134015080863 , -30.854339141098745 , -53.165676859298536 ]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/10.jpg",
+      "links": [8, 10],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["11"],
+      "modals": [
+        {
+          "title": "Buildings",
+          "text": "These buildings feature the architecture of proficient builders who excelled in trimming the construction stones which were extracted from the surroundings of the Village. All the building elements are local such as the timber pieces that were used for making columns or roofs.",
+          "image": null,
+          "position": [
+            -7.79767154581689, 1.2570463564809211, -84.53180556998187
+          ]
+        }
+      ],
+      "positions": [
+        [81.2478341799112, -22.47311112671156, -10.087552595160531]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/11.jpg",
+      "links": [11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["3", "10", "12"],
+      "modals": [],
+      "positions": [
+        [-49.254324886168284, -38.86040488021659, -57.20044066747583],
+        [48.269936812584014, -13.18654587071808, 68.5867203481009],
+        [-71.84617643982277, -8.164133481000693, -44.4913908018423]
+      ],
+      "nextCameraPositions": [
+        [-0.03986249222253785, 0.015737271249971756, 0.0903510930061885],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.03619683080399331, -0.0011867490729755487, 0.09321148569991197]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/12.jpg",
+      "links": [3, 10, 12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["11", "13"],
+      "modals": [],
+      "positions": [
+        [39.52557120665561, -35.14607869989245, -66.41153794942987],
+        [-30.731109352590288, -1.00754996295624, 79.1365513592252]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.0810396360308803 , -0.012421801420808454 , 0.05725623321040662]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/13.jpg",
+      "links": [11, 13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12", "14", "15"],
+      "modals": [],
+      "positions": [
+        [59.79626604845385 , -54.009262241683366 , -26.747264510069076],
+        [-61.032242293644615, -43.17255756048375, 40.23935479473515],
+        [-48.42816243766852, -39.83379781231047, -57.23627900867388]
+      ],
+      "nextCameraPositions": [
+        [-0.03568461334326127 , -0.030973148159551964 , -0.08813213071081627],
+        [-0.0691997665069269 , -0.012324703669095724 , 0.07113012016618414],
+        [-0.09920885782387964 , -0.0053900327771637425 , 0.011337992588741368]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/14.jpg",
+      "links": [12, 14, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["13"],
+      "modals": [],
+      "positions": [
+        [39.40799174511381 , -27.590336846461415 , -69.95565380522032]
+      ],
+      "nextCameraPositions": [
+        [ 0.0875923042231445 , -0.020167029327152333 , -0.04382783555000065 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/15.jpg",
+      "links": [13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["13", "16"],
+      "modals": [],
+      "positions": [
+        [81.26688387547011 , -24.43095785504979 , -2.6137871863714714],
+        [-80.98646359780312 , -25.36356415556249 , -2.42741163554464]
+      ],
+      "nextCameraPositions": [
+        [0.06590435397924319 , -0.018906961591784968 , 0.07279521227351002],
+        [0.04126153404203571 , -0.0008397726077879838 , -0.09108666527250378]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/16.jpg",
+      "links": [13, 16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "names": ["15", "17"],
+      "modals": [],
+      "positions": [
+        [-39.62883495291531 , -45.12619438367434 , 60.00993268386024],
+        [34.83391454342402 , -0.1742909169184769 , -77.42466028506493]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [ -0.006004882535461924 , -0.02694735624219646 , 0.09611337772283035]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/17.jpg",
+      "links": [15, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "names": ["16", "18"],
+      "modals": [],
+      "positions": [
+        [8.953442966137636 , -26.041052842373634 , -80.31008296542113],
+        [-5.098145272607186 , -22.878305449624783 , 81.60025768668297]
+      ],
+      "nextCameraPositions": [
+        [-0.05446921494184104 , -0.03031700656168419 , 0.0781919672137639],
+        [0.09096684332707013 , -0.0024745055759565057 , 0.04145974236850546]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/18.jpg",
+      "links": [16, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "names": ["17", "19"],
+      "modals": [],
+      "positions": [
+        [-67.52924550220013 , -23.531720729957414 , -45.761000004270855],
+        [65.86726827106625 , -3.017109644184321 , -53.482801159834146]
+      ],
+      "nextCameraPositions": [
+        [0.010695902669491119 , -0.028958712387860734 , -0.09511566980746097],
+        [-0.09103171772817892 , -0.02843366505702076 , 0.030079113332715176]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/19.jpg",
+      "links": [17, 19],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "names": ["18", "20"],
+      "modals": [],
+      "positions": [
+        [73.4306029183599 , -39.175317002572704 , -16.77054241204187],
+        [ -77.71281468152188 , -23.33701384696522 , 24.98223806991667 ]
+      ],
+      "nextCameraPositions": [
+        [ -0.08904188011086345 , -0.02441497052744445 , 0.03841162324696328],
+        [-0.08087623817260238 , -0.000528211058904221 , -0.05881118169298891]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/20.jpg",
+      "links": [18, 20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "names": ["19", "21"],
+      "modals": [],
+      "positions": [
+        [69.90439165442774 , -36.143654005760425 , 31.859414660917018],
+        [ 72.03309625794411 , -18.736057967453313 , -40.8436430223112 ]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.058659378668587454 , -0.013264504455664529 , -0.07989449427689577]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/21.jpg",
+      "links": [19, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "names": ["20", "22"],
+      "modals": [],
+      "positions": [
+        [ 43.82155150327698 , -47.61227492114967 , 54.96137644454063 ],
+        [ -83.25081184078657 , -15.5202334879123 , -6.0361146717601954]
+      ],
+      "nextCameraPositions": [
+        [-0.08132273613484091 , -0.015641811529559527 , 0.056053066995631784],
+        [0.04856014683083399 , -0.0008536989653677505 , -0.08741386238946532 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/22.jpg",
+      "links": [20, 22],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "names": ["21", "23"],
+      "modals": [],
+      "positions": [
+        [-55.39199666737693 , -35.48888418789217 , 53.668201053320956],
+        [-33.412061948661105 , -9.512911370941996 , -77.46708096725625]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [0.07670353186512487 , -0.010237823441435218 , 0.06333841780939717]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/23.jpg",
+      "links": [21, 23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "names": ["22"],
+      "modals": [],
+      "positions": [
+        [-80.71079239649106 , -20.149824480323954 , -16.963565785018783]
+      ],
+      "nextCameraPositions": [
+        [ 0.04166095122257476 , -0.005016324067913104 , 0.09077004812203149 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/thee-ain/lq/24.jpg",
+      "links": [22],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

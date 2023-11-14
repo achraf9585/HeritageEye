@@ -1,0 +1,590 @@
+{
+  "infos": {
+    "id": "albassam-heritage-house",
+    "title": "Albassam Heritage House",
+    "shortDescription": "",
+    "longDescription": "",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/albassam_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/albassam.png",
+      "url": "/images/sites/albassam.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "الجانب الامامي",
+      "names": ["المدخل 1"],
+      "modals": [],
+      "positions": [
+        [-83.397064671883 , 0.5516127948103942 , 15.894610853653791]
+      ],
+      "nextCameraPositions": [
+        [0.0754682609504519, -0.04347687505474091, -0.04913555662235799]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/1.jpg",
+      "links": [1],
+      "cameraPosition": [
+        -0.09821049014869798 , 0.0006495931621066585 , 0.01871789527367433
+      ]
+    },
+    {
+      "id": 1,
+      "name": "المدخل 1",
+      "names": ["الجانب الامامي", "المدخل 2"],
+      "modals": [
+        {
+          "title": "المدخل",
+          "text": "يسمى السيب مدخلاً يؤدي إلى الغرف. ",
+          "image": null,
+          "position": [74, -18, -37]
+        }
+      ],
+      "positions": [
+        [20, 0, 40],
+        [60, -40, -40]
+      ],
+      "nextCameraPositions": [
+        [-0.0008381223034523419, 0.005508776035586537, -0.09982463892627966],
+        [0.08407260285143486, -0.02196623514248014, -0.049490220887061925]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/2.jpg",
+      "links": [0, 2],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "المدخل 2",
+      "names": ["المدخل 1", "الممر 1"],
+      "modals": [],
+      "positions": [
+        [-47, -14, -68],
+        [71, -18, -42]
+      ],
+      "nextCameraPositions": [
+        [0.045787355387148516, 0.0015153199157408657, 0.08872134499818295],
+        [0.04408931425407925, -0.02688852213376721, 0.08556153306397944]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/3.jpg",
+      "links": [1, 3],
+      "cameraPosition": [
+        0.08407260285143486, -0.02196623514248014, -0.049490220887061925
+      ]
+    },
+    {
+      "id": 3,
+      "name": "الممر 1",
+      "names": ["المدخل 2", "الممر 2"],
+      "modals": [],
+      "positions": [
+        [-45, 0, -60],
+        [37, -22, 72]
+      ],
+      "nextCameraPositions": [
+        [-0.05649944642583301, -0.016513472392675477, -0.08059885842013724],
+        [0.006704803224179453, -0.008134758687707931, 0.10021355317240727]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/4.jpg",
+      "links": [2, 4],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "الممر 2",
+      "names": ["الممر 1", "قصة البسام", "الممر 3"],
+      "modals": [],
+      "positions": [
+        [0, -28, -80],
+        [54, -11, 64],
+        [5.6, -7, 84]
+      ],
+      "nextCameraPositions": [
+        [-0.06084645782921307, 0.002172282938706614, -0.07999152956015286],
+        [0.09965112319792385, -0.012694609982818674, 0.009538158742691647],
+        [0.021832084310092984, -0.006404807583397373, 0.0987084397482344]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/5.jpg",
+      "links": [3, 15, 5],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "الممر 3",
+      "names": ["الممر 4", "الممر 2"],
+      "modals": [],
+      "positions": [
+        [-16, -24, 80],
+        [-18, -22, -90]
+      ],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [0.002259066411886484, -0.016333591456451104, -0.10020410944967686]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/6.jpg",
+      "links": [6, 4],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "الممر 4",
+      "names": [
+        "الممر 3",
+        "الممر 5",
+        "غرفة الموقد",
+        "الحرف اليدوية للأطفال"
+      ],
+      "modals": [
+        {
+          "title": "القهوة الصغيرة (مجلس صغير)",
+          "text": "يسمى قديماً القهيوة تصغيراً للمجلس، وهو حجرة تستخدم لجلوس العائلة فيها، وتحتوي على جلسة أرضية عربية مكونة من مساند مصنوعة من القطن، ومفروش بالسجاد المصنوع من الصوف، وتوجد به العديد من الروازن (مفردها روزنة وهي: مثلث داخل الجدار يستخدم مثل الرف).\n ويضم المجلس (وجار) وهو موقد للنار يستخدم لإعداد الشاي والقهوة باستخدام الحطب أو الفحم، وعادة ما يتحلق أهل البيت في الماضي حول (الوجار) خصوصاً في فصل الشتاء للاستمتاع بالدفء المنبعث منه، واحتساء المشروبات الساخنة كالقهوة والشاي والحليب والزنجبيل، كما يضم (الكمر) والذي يصنع عادة بجانب (الوجار) وهو عبارة عن أرفف تضم مجموعة من دلال القهوة والأباريق والمباخر.",
+          "image": null,
+          "position": [27, 0.4, 80]
+        }
+      ],
+      "positions": [
+        [-78, -25, -21],
+        [-73, -29, 30],
+        [81, 1, -25],
+        [-46, -3, -70]
+      ],
+      "nextCameraPositions": [
+        [-0.019141608134699423, -0.023925063694706535, -0.09783094756404576],
+        [0.08345563949591855, -0.00912769054982481, 0.017115859055229818],
+        [0.10097632225713125, -0.011471579581911102, -0.011270792702534874],
+        [-0.09755251439268725, 0.0030270680538349547, 0.03081852966627535]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/7.jpg",
+      "links": [5, 7, 17, 16],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "الممر 5",
+      "names": ["الحرف اليدوية للأطفال", "الممر 4", "الممر 6"],
+      "modals": [],
+      "positions": [
+        [-78, 12, -30],
+        [-26, -25, -76],
+        [75, -10, 30]
+      ],
+      "nextCameraPositions": [
+        [-0.09755251439268725, 0.0030270680538349547, 0.03081852966627535],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227],
+        [0.026653629646468772, -0.00948835945406517, 0.09591431103615004]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/8.jpg",
+      "links": [16, 6, 8],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "الممر 6",
+      "names": ["قاعة القهوة", "الممر 5"],
+      "modals": [],
+      "positions": [
+        [22, -8, 81],
+        [37.7, -11, -75]
+      ],
+      "nextCameraPositions": [
+        [0.027045748922027078, 0.003636650302569158, -0.09620448139158312],
+        [-0.07298655781341781, -0.002691238316976529, -0.06830607304530005]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/9.jpg",
+      "links": [9, 7],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "قاعة القهوة",
+      "names": [
+        "الممر 7",
+        "غرفة الحرف اليدوية",
+        "المستكشف الصغير",
+        "الممر 6",
+        "غرفة التمور",
+        "الواقع الافتراضي",
+        "غرفة التحف",
+        "الساقية",
+        "غرفة الجصة"
+      ],
+      "modals": [
+        {
+          "title": "الرواق",
+          "text": "وهو مكان في داخل البيت مفتوح من الأعلى لدخول الشمس، ودائماً ما يكون في منتصف البيت، ويحتوي على غرف تحيط به تسمى قديماً الصفة بالمفرد، وهي غرف النوم قديماً.",
+          "image": null,
+          "position": [41, -0.5, 73]
+        }
+      ],
+      "positions": [
+        [-64.7, 1.7, -54.8],
+        [-61.3, 2, 58],
+        [-27.3, -2.1, 80.3],
+        [-15, 13, 82],
+        [12, -1, 83],
+        [74, -4, 39],
+        [77, -5, -35],
+        [63, -4, -55.8],
+        [22, 1.8, -81]
+      ],
+      "nextCameraPositions": [
+        [-0.0735603999151659, -0.03755471236481369, -0.056378286099498756],
+        [0.014715473438641942, -0.004637843793999012, 0.09880255688199094],
+        [0.03656800448671688, -0.08416126567231826, 0.03974496708129071],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227],
+        [-0.04403933825980052, 0.004295663378937165, -0.08967766701790192],
+        [-0.011713281141960836, -0.008558181784146591, 0.09894218801622921],
+        [0.09906030307983911, -0.007015096991321134, -0.011740731149836812],
+        [-0.061638770534817325, -0.007873448206058788, -0.0783496699438014],
+        [0.09583713262010049, 0.006769693181366151, -0.02773833566361559]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/10.jpg",
+      "links": [10, 21, 18, 8, 19, 20, 22, 23, 28],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "الممر 7",
+      "names": ["قاعة القهوة", "الممر 8"],
+      "modals": [],
+      "positions": [
+        [45, -9, 71],
+        [-62.5, -31.6, -48]
+      ],
+      "nextCameraPositions": [
+        [0.04909410792523413, -0.0005555479988320748, 0.0871175064694027],
+        [-0.06727096509809372, 0.018594736259407427, -0.07161601104651191]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/17.jpg",
+      "links": [9, 11],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "الممر 8",
+      "names": [
+        "الممر 7",
+        "الممر 9",
+        "الراعي",
+        "غرفة السجاد"
+      ],
+      "modals": [],
+      "positions": [
+        [81.2, -4.2, 24.2],
+        [-22, -24.5, -78.2],
+        [-77, 2.4, 35.4],
+        [-69.5, 8.4, -47.8]
+      ],
+      "nextCameraPositions": [
+        [0.054648330057380706, -0.008876127894543633, 0.08327529270761676],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227],
+        [0.056136117832035815, -0.00175511958094815, -0.08273847853329391],
+        [0.09270090177982675, 0.007996127360468145, -0.036641571424299836]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/18.jpg",
+      "links": [10, 12, 25, 24],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "الممر 9",
+      "names": ["الممر 10", "الممر 8"],
+      "modals": [],
+      "positions": [
+        [54.7, 0.7, -64.8],
+        [-17.2, -40.5, 72.5]
+      ],
+      "nextCameraPositions": [
+        [-0.06995636881348258, -0.014456348541399319, 0.06997942875789682],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/19.jpg",
+      "links": [13,11],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "الممر 10",
+      "names": ["الممر 9", "الممر 11"],
+      "modals": [
+        {
+          "title": "الليوان",
+          "text": "هو مكان مفتوح من الأعلى لدخول الشمس يسمى قديماً بالليوان، يكون بجانب المجالس للسماح بدخول الضوء والهواء عليها، ويستخدم أيضاً للجلوس فيه في الأجواء المعتدلة.",
+          "image": null,
+          "position": [-50.3, 23.6, 64.1]
+        }
+      ],
+      "positions": [
+        [27.6, -2.9, -80.2],
+        [-59.3, -12.2, 59.4]
+      ],
+      "nextCameraPositions": [
+        [-0.01936359314634757, -0.04695086226473726, 0.0861432980159244],
+        [0.06688519909968638, 0.006702804656229602, 0.07403676486135596]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/20.jpg",
+      "links": [12,14],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "الممر 11",
+      "names": ["غرفة ديفان", "الممر 10"],
+      "modals": [],
+      "positions": [
+        [56.7, 5.7, 62.85],
+        [-50, -35, 60]
+      ],
+      "nextCameraPositions": [
+        [-0.06845448193845312, -0.0015245295152143386, -0.07288113413151037],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/21.jpg",
+      "links": [26,13],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "قصة البسام",
+      "names": ["الممر 2"],
+      "modals": [],
+      "positions": [[60, 1.5, 59]],
+      "nextCameraPositions": [
+        [-0.04893034636241885, 0.006085435809080805, 0.08776948617528527]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/22.jpg",
+      "links": [4],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "الحرف اليدوية للأطفال",
+      "names": ["الممر 5"],
+      "modals": [],
+      "positions": [[74, -6, 39]],
+      "nextCameraPositions": [
+        [0.09305244999456962, -0.013622918166606048, 0.03912823369079433]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/23.jpg",
+      "links": [7],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "غرفة الموقد",
+      "names": ["الممر 4"],
+      "modals": [
+        {
+          "title": "المطبخ",
+          "text": "يسمى قديماً بالموقد نسبة لإيقاد النار فيه، يحتوي على أواني الطبخ من النحاس، ومركاب مثلث للقدور، ومغارف من الخشب للأكل، ومشب للطبخ باستخدام الحطب، بالإضافة إلى المنفاخ: وهو منفاخ هواء للنار، والملقاط لتوزيع الجمر، والكبريت لإيقاد النار. ",
+          "image": null,
+          "position": [68, 0, 50]
+        }
+      ],
+      "positions": [[-3, 4, -84]],
+      "nextCameraPositions": [
+        [-0.09864271830198855, -0.02456976579308081, -0.010634593880565289]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/24.jpg",
+      "links": [6],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "المستكشف الصغير",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[-59.8, -1.7, -60]],
+      "nextCameraPositions": [
+        [0.031613693449970934, 0.00008225859314388147, -0.09487132137782779]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/25.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/25.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "غرفة التمور",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[36, 4, 78]],
+      "nextCameraPositions": [
+        [-0.05576266370408477, -0.0037339556845824543, -0.08292516452543636]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/26.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/26.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "الواقع الافتراضي",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[54.5, 0.7, -65]],
+      "nextCameraPositions": [
+        [-0.05052904112223755, 0.0007604557712206237, -0.08629158539676518]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/27.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/27.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "غرفة الحرف اليدوية",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[-77.2, -0, -35]],
+      "nextCameraPositions": [
+        [0.08812064806190267, -0.004455202990947609, -0.047062751210056826]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/28.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/28.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "غرفة التحف",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[-65.8, 7.7, 53]],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/29.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/29.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "الساقية",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[-68.4, 12.8, 48.5]],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/30.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/30.jpg",
+      "links": [9],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "غرفة السجاد",
+      "names": ["الممر 8"],
+      "modals": [
+        {
+          "title": "المقلط",
+          "text": "يسمى المعشى قديماً نسبة لوجبة العشاء، حيث يعتبر مكان تقديم وجبة العشاء والأكل للضيوف، ويحتوي على بعض النقوش في الجدران، ويكون حجمه مقارباً للمجالس.",
+          "image": null,
+          "position": [78.6, 7, -31.1]
+        }
+      ],
+      "positions": [[-55.8, 9.8, 63.1]],
+      "nextCameraPositions": [
+        [0.0958863928230003, -0.005151120182581873, 0.02791532969996677]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/31.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/31.jpg",
+      "links": [11],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "الراعي",
+      "names": ["الممر 8"],
+      "modals": [],
+      "positions": [[6.5, -1.2, 84.6]],
+      "nextCameraPositions": [
+        [0.0958863928230003, -0.005151120182581873, 0.02791532969996677]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/32.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/32.jpg",
+      "links": [11],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 26,
+      "name": "غرفة ديفان",
+      "names": ["التراث العالمي", "الممر 11"],
+      "modals": [
+        {
+          "title": "مجلس الشتاء",
+          "text": "يسمى بقهوة الشتاء قديماً، وهو حجرة تستخدم لاستقبال الضيوف في فصل الشتاء، وتحتوي على جلسة أرضية عربية مكونة من مساند من القطن، والمجلس مفروش بالسجاد المصنوع من الصوف، وتوجد به العديد من الروازن (مفردها روزنة وهي: مثلث داخل الجدار يستخدم مثل الرف)، ويضم المجلس (وجار) وهو موقد للنار يستخدم لإعداد الشاي والقهوة باستخدام الحطب أو الفحم، وعادة ما يتحلق أهل البيت في الماضي حول (الوجار) خصوصاً في فصل الشتاء للاستمتاع بالدفء المنبعث منه، واحتساء المشروبات الساخنة كالقهوة والشاي والحليب والزنجبيل، كما يضم (الكمر) يصنع عادة بجانب (الوجار) وهو عبارة عن أرفف تضم مجموعة من دلال القهوة والأباريق والمباخر، وأيضاً جدرانه في الأعلى تحتوي على بعض النقوش الجبسية.",
+          "image": null,
+          "position": [-58.1, -1.3, -61.8]
+        }
+      ],
+      "positions": [
+        [24.7, -7.6, 80.8],
+        [70.7, -5.1, 46.6]
+      ],
+      "nextCameraPositions": [
+        [0.01429626629053055, 0.01363796532276409, -0.09802868290457283],
+        [-0.05807634572471291, -0.04129518764945613, 0.07015586607162509]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/33.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/33.jpg",
+      "links": [27,14],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 27,
+      "name": "التراث العالمي",
+      "names": ["غرفة ديفان"],
+      "modals": [
+        {
+          "title": "مجلس الصيف",
+          "text": " يسمى قديماً بقهوة الصيف، وهو حجرة تستخدم لاستقبال الضيوف في الصيف، وهي مشابهة لمجلس الشتاء، ولكن لا تحتوي على كمر ولا وجار، وتتزين جدرانه بنقوش جبسية. ",
+          "image": null,
+          "position": [-25.1, 26.3, 76.7]
+        }
+      ],
+      "positions": [[25.2, 11.6, 80.2]],
+      "nextCameraPositions": [
+        [-0.029138459397567262, 0.002062685851697099, -0.095638357948124]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/34.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/34.jpg",
+      "links": [26],
+      "cameraPosition": [40, 0, 0.1]
+    },
+    {
+      "id": 28,
+      "name": "غرفة الجصة",
+      "names": ["قاعة القهوة"],
+      "modals": [],
+      "positions": [[-81.1, 0.5, -25]],
+      "nextCameraPositions": [
+        [-0.03897320776210674, -0.002125527895576773, 0.09206829643203333]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/35.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/albassam/lq/35.jpg",
+      "links": [9],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

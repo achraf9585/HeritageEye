@@ -1,0 +1,1107 @@
+{
+  "infos": {
+    "id": "dumat-al-jandal",
+    "title": "Dumat Al-Jandal",
+    "shortDescription": "It is an ancient city that attests to successive civilizations from the Stone Age to the Islamic era. The construction of this city dates back to the 8 th century BCE. It includes a museum, the Marid Castle, Ad-Dir'district, and Umar Mosque.",
+    "longDescription": "It is an ancient city that attests to successive civilizations from the Stone Age to the Islamic era. The construction of this city dates back to the 8 th century BCE. It includes a museum, the Marid Castle, Ad-Dir'district, and Umar Mosque.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/jandal_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/p_jandal.png",
+      "url": "/images/sites/p_jandal.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "0",
+      "names": ["9", "47", "3"],
+      "modals": [],
+      "positions": [
+        [50.89024976304997, -8.584716671815702, 67.41287057171681],
+        [-65.83946278918046, -3.7713359361263934, 53.46917022816986],
+        [-51.315393192130514, -7.909214332421086, -67.17279769505564]
+      ],
+      "nextCameraPositions": [
+        [0.04979555709981933, 0.0027129250925023943, -0.0866778087549582],
+        [0.025710074140947867, 0.01027022728668906, 0.09609117815463973],
+        [0.054160775566944104, -0.021993026795369464, -0.08113517832830144]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/1.jpg",
+      "links": [9, 47, 2],
+      "cameraPosition": [
+        -0.09666022436881448, 0.01149978648286834, -0.022903186149941822
+      ]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/12.jpg",
+      "links": [0, 2],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["1", "3"],
+      "modals": [
+        {
+          "title": "The Mosque of Caliph Omar Ibn Al-Khattab (may Allah be pleased with him)",
+          "text": "The construction of this mosque is attributed to Caliph Omar Ibn Al-Khattab (may Allah be pleased with him). He ordered that it be built after he returned from Jerusalem. The importance of the Mosque stems from its design which is a continuation of the layout of mosques of early Islam. It is one of the oldest mosques whose layout has not changed.",
+          "image": null,
+          "position": [
+            -17.0053219347466, -6.744077019624994, -82.90564788389868
+          ]
+        },
+        {
+          "title": "The minaret",
+          "text": "It is located in the southwestern corner of the Mosque and protrudes from the qibla wall. The base is square, and its stone walls become narrower inwards as they are higher and end with a semi-conical top. The architecture of the minaret is unique, and thus it is one of the oldest minarets in the Arabian Peninsula. Its current height is 12,7 meters. The Mosque and minaret were built out of stone (Jandal stone)..",
+          "image": null,
+          "position": [78.30194138098186, 24.21757776618343, -22.14328121819663]
+        }
+      ],
+      "positions": [
+        [-18.791392826363147, -18.30139312149561, 80.746223227206],
+        [43.3383228729372, -42.133805461866814, -59.61998161575204]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.06786804006409854, -0.0015527527366272895, 0.07342695756189827]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/2.jpg",
+      "links": [0, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["2", "4", "6"],
+      "modals": [],
+      "positions": [
+        [-21.297431973842286, -10.860357748470664, -81.46460593960296],
+        [-80.11010401796362, -12.274867690410302, 25.29246641618751],
+        [1.2709545929246178, -25.652537127098782, 80.92182655727403]
+      ],
+      "nextCameraPositions": [
+        [-0.031161534274475627, 0.007617678989584167, 0.09471499220541767],
+        [-0.09978342818091215, -0.0016352220998339612, 0.006371303567478695],
+        [-0.06511459054913393, 0.00685409373092643, 0.0755851274838266]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/3.jpg",
+      "links": [2, 4, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["3", "5"],
+      "modals": [
+        {
+          "title": "The mihrab and the minbar",
+          "text": "They are in the middle of the qibla wall, and both are topped by a triangular arch consisting of two stone beams.",
+          "image": null,
+          "position": [
+            -7.323446666582076, -3.268366635882214, -84.52038161565042
+          ]
+        },
+        {
+          "title": "The qiblah porch",
+          "text": "The porch occupies most of the area of ​​the Mosque and consists of three rows of stone pillars that support the roof. Along its inner facade, the qibla wall includes square alcoves used to keep the Qur'an copies or install lamps.",
+          "image": null,
+          "position": [
+            77.63879851114834, -0.2943154710564692, 34.35317080196252
+          ]
+        }
+      ],
+      "positions": [
+        [84.62293759978371, -6.329474659424865, -2.6279616661617733],
+        [9.006104532998373, -16.571051782999316, 82.77862238492415]
+      ],
+      "nextCameraPositions": [
+        [-0.0160457961341641, 0.015317888856379974, -0.09750843403216175],
+        [-0.08760013308639789, 0.018562176729017305, -0.044515865467562386]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/8.jpg",
+      "links": [3, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["4"],
+      "modals": [],
+      "positions": [
+        [69.97322284296783, -31.128659940362965, 36.64375274566742]
+      ],
+      "nextCameraPositions": [
+        [0.002292350696127877, -0.0012633511789171357, -0.09996573949151127]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/5.jpg",
+      "links": [4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["3"],
+      "modals": [],
+      "positions": [
+        [45.44515796812977, -15.725572587174259, -69.96752092261985]
+      ],
+      "nextCameraPositions": [
+        [-0.03201485536731344, 0.008390841068855178, -0.09436441501947236]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/9.jpg",
+      "links": [3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/1.jpg",
+      "links": [6, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/1.jpg",
+      "links": [7, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["0", "10"],
+      "modals": [
+        {
+          "title": "Entrance",
+          "text": "The Castle includes a roofed entrance (a place for the governor to enter). On its side, there are stone terraces designed for sitting. The entrance is a rectangular-shaped room that includes two sub-entrances: one leading to the Castle's yard and rooms and the other leading to the well at the bottom of the Castle and the stairs leading to the top.",
+          "image": null,
+          "position": [
+            42.82526394321516, 12.311371014537697, -72.26643004837278
+          ]
+        }
+      ],
+      "positions": [
+        [-64.33078071714138, -6.37135097482682, -55.03604763315261],
+        [41.342647312411884, -23.058631672554615, -70.47762069331645]
+      ],
+      "nextCameraPositions": [
+        [-0.09872936463827947, 0.0015672380375213286, -0.01581316929193614],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/10.jpg",
+      "links": [0, 10],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["9", "11"],
+      "modals": [],
+      "positions": [
+        [-66.6768288179278, -21.243438385846943, 48.072100269610424],
+        [74.4933715392268, -31.138660067242007, 26.251313223064976]
+      ],
+      "nextCameraPositions": [
+        [-0.040684758789049945, 0.0018510118141994304, -0.09133084997710535],
+        [0.0914112178090482, -0.002536321208652377, 0.04046673119234236]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/11.jpg",
+      "links": [9, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["10", "12", "22"],
+      "modals": [],
+      "positions": [
+        [-31.930561102026356, -17.617038050546714, 76.6686979023079],
+        [79.16112268469163, -26.177533894631395, 16.008228337159103],
+        [-70.04067761915779, -29.678284547326495, -37.70295618352932]
+      ],
+      "nextCameraPositions": [
+        [-0.09345028058542727, -0.0038496662377881506, 0.03538679313476367],
+        [0.062082848301057494, 0.004895048153352108, -0.0782416669710216],
+        [-0.03933858252641805, -0.004878415068262367, 0.09180782641601937]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/12.jpg",
+      "links": [10, 12, 22],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["11", "13"],
+      "modals": [
+        {
+          "title": "Courtyard",
+          "text": "In the courtyard of the Castle, there are a number of mud-brick rooms and a mosque located on the northeastern and southeastern sides. On the northwestern side, there is a stone building.",
+          "image": null,
+          "position": [
+            -62.527214168319794, 5.264967857978496, -57.18948856042971
+          ]
+        }
+      ],
+      "positions": [
+        [-24.749061982110028, -12.538588806493996, 80.23887911572133],
+        [47.53997476735825, -6.616092151696003, -70.029908780172]
+      ],
+      "nextCameraPositions": [
+        [-0.037250036628773894, -0.0012272608860266847, 0.09279508931981606],
+        [-0.0060252561104758755, 0.002301384701760606, -0.09979178281430631]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/13.jpg",
+      "links": [11, 13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12", "14", "15"],
+      "modals": [],
+      "positions": [
+        [-21.920338799477147, -14.727726651310194, 80.68830655429834],
+        [21.821774823407246, -8.102738915886304, -81.64659065519817],
+        [-73.73354997185376, -6.970052491189734, -41.50652932754319]
+      ],
+      "nextCameraPositions": [
+        [-0.07000721345131083, 0.0013953194778585747, 0.07139357918144544],
+        [0.06400684321437707, 0.0013983002197894316, 0.0768190652001539],
+        [-0.09835574691019057, -0.017319837078585122, 0.0051156908927156835]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/14.jpg",
+      "links": [12, 14, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["13"],
+      "modals": [],
+      "positions": [
+        [-71.77041165728424, -45.353746938363955, 0.23590081560384002]
+      ],
+      "nextCameraPositions": [
+        [-0.07395942177248747, 0.00882676405594123, 0.066723999935406]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/15.jpg",
+      "links": [13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["13", "16"],
+      "modals": [],
+      "positions": [
+        [77.865163046047, -22.93543456004561, -24.879554364063345],
+        [-64.13997645786426, -22.34604422207172, -50.93847001638188]
+      ],
+      "nextCameraPositions": [
+        [0.05059217303846632, -0.002825349942370619, 0.0862116548092486],
+        [0.008318423639422258, 0.014058069032988556, 0.09865685238856364]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/16.jpg",
+      "links": [13, 16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "names": ["15", "17"],
+      "modals": [],
+      "positions": [
+        [-67.53356398285659, -5.123449719289766, -51.195488070213045],
+        [8.405465300256513, -4.127411720273912, 84.38200415715148]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/17.jpg",
+      "links": [15, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "names": ["16", "18"],
+      "modals": [],
+      "positions": [
+        [27.888561997689052, -22.138468979399786, 77.07221484393199],
+        [83.38316769003605, -15.440837405131635, 4.10339934732397]
+      ],
+      "nextCameraPositions": [
+        [-0.07807334622942397, -0.0003628105570475453, -0.062485366103114],
+        [-0.08174484899377678, -0.020198447845789152, -0.053942583990809846]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/18.jpg",
+      "links": [16, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "names": ["17", "19"],
+      "modals": [],
+      "positions": [
+        [76.25260598799369, -23.03373319646591, 29.37681424310357],
+        [-72.51286352733402, -43.76841329400817, -5.8498393816514564]
+      ],
+      "nextCameraPositions": [
+        [0.03518948639269114, -0.002598715510517252, 0.0935678722912625],
+        [-0.04911700816142903, -0.025445106114267847, -0.08330705902925496]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/19.jpg",
+      "links": [17, 19],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "names": ["18", "20"],
+      "modals": [],
+      "positions": [
+        [-59.04738641565019, -37.5079070859432, 48.110010013646246],
+        [-44.04668577495456, -22.320560880142857, -69.06295703369682]
+      ],
+      "nextCameraPositions": [
+        [0.09396355681991127, -0.006034687537443846, 0.03368133809807343],
+        [-0.0850496797378887, 0.010054153181157731, -0.05162815104468094]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/20.jpg",
+      "links": [18, 20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "names": ["19", "21"],
+      "modals": [],
+      "positions": [
+        [83.03774055540211, -17.27144804397376, -3.800095514331614],
+        [-60.663694117553696, -5.123422944041235, -59.17496728641558]
+      ],
+      "nextCameraPositions": [
+        [-0.0729982625200338, -0.01736271607213417, 0.06610438532846888],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/21.jpg",
+      "links": [19, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "names": ["20"],
+      "modals": [],
+      "positions": [
+        [-76.43812936545466, -20.881064404125308, 30.482839901505088]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/22.jpg",
+      "links": [20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "names": ["11", "23", "25"],
+      "modals": [],
+      "positions": [
+        [-9.001987537703647, -15.94850795571191, -82.90126244127782],
+        [43.23631993150462, -21.603865176116432, 69.79902326130905],
+        [-83.97140660351324, -10.663683306467018, 6.564962404068231]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [0.047280025332215744, -0.005173706601443571, 0.08796494736306729],
+        [0.09302533204426464, 0.02898389405494994, 0.0224993662903142]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/23.jpg",
+      "links": [11, 23, 25],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "names": ["22", "24"],
+      "modals": [],
+      "positions": [
+        [26.566054718037496, -45.02418391866803, -66.89602080225845],
+        [60.043675316878115, -26.470340520092805, 53.87103235683955]
+      ],
+      "nextCameraPositions": [
+        [-0.0536717128710779, -0.005718167365228709, -0.08418224159208272],
+        [-0.0973108509331277, 0.005333165140510374, 0.02240882951549733]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/24.jpg",
+      "links": [22, 24],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "",
+      "names": ["23"],
+      "modals": [
+        {
+          "title": "The well",
+          "text": " is located on the western side of the Castle, and there is a small entrance leading to a circular-shaped room, roofed with tamarisk planks and palm branches leading to the well corridor. The well is also roofed at the bottom of the Castle at about 70 meters. ",
+          "image": null,
+          "position": [
+            -82.59016030299424, 1.1877569498412606, 19.633253794361778
+          ]
+        }
+      ],
+      "positions": [
+        [79.67306123590859, -22.980336539293187, -18.22408971224587]
+      ],
+      "nextCameraPositions": [
+        [0.03572568588842576, -0.02008493918628824, -0.09121551724177539]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/25.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/25.jpg",
+      "links": [23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "",
+      "names": ["22", "26"],
+      "modals": [
+        {
+          "title": "Stairs",
+          "text": "One can climb up to the top of the Castle through the stairs along the walls leading to its upper entrance from the western facade.",
+          "image": null,
+          "position": [
+            82.34183792290276, 0.15477535934563696, 20.683514499875365
+          ]
+        }
+      ],
+      "positions": [
+        [-81.8637016921133, -21.59541752134553, 6.323154856829886],
+        [80.3768959871758, 19.217511959457585, 19.448697271406868]
+      ],
+      "nextCameraPositions": [
+        [0.007239772527171074, -0.0017449739184496526, -0.09972231826315878],
+        [-0.03306399023320305, 0.039672080984478525, -0.08563234517528764]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/26.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/26.jpg",
+      "links": [22, 26],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 26,
+      "name": "",
+      "names": ["25", "27"],
+      "modals": [],
+      "positions": [
+        [27.451389678111855, -45.06504841016041, 66.509943741747],
+        [-28.80175435640249, 29.16498181456715, -74.34966564652069]
+      ],
+      "nextCameraPositions": [
+        [-0.09831317899805839, -0.014362182861373056, -0.011324598834051108],
+        [-0.01730296757574352, 0.04945159295606647, -0.08517715226033484]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/27.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/27.jpg",
+      "links": [25, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 27,
+      "name": "",
+      "names": ["26", "28"],
+      "modals": [],
+      "positions": [
+        [-36.400410323782445, -26.937732473204743, 71.81489189201862],
+        [-53.1909552442151, 17.409926076825712, -63.84063560309664]
+      ],
+      "nextCameraPositions": [
+        [0.03663949774424733, -0.03924423465525262, 0.08436490533019488],
+        [0.019515750222828785, -0.023058190999342993, -0.09532814548221294]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/28.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/28.jpg",
+      "links": [26, 28],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 28,
+      "name": "",
+      "names": ["27", "29", "44"],
+      "modals": [],
+      "positions": [
+        [-45.492430408646996, -62.94435561824588, 34.29951707120979],
+        [-52.40428532412444, -41.16717505063936, -52.602895148630104],
+        [49.697578379020605, -42.1676802507333, -54.40631806631489]
+      ],
+      "nextCameraPositions": [
+        [-0.042719120335477936, -0.027546418601335537, 0.08611777737495858],
+        [-0.04560816331156601, -0.013565024205205755, 0.08795388313006823],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/29.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/29.jpg",
+      "links": [27, 29, 44],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 29,
+      "name": "",
+      "names": ["28", "30", "31", "32", "33"],
+      "modals": [
+        {
+          "title": "The Castle",
+          "text": " It was built on a rocky hill. At the top, there are 3 rooms that were built out of stone in the same period when the Castle was constructed, and the other 3 mud-brick rooms that were built some time afterward. All of these rooms are open to a yard. The Castle contains buildings that date back to different periods, some of which are well-constructed and date back to the Nabataean era, as proven by the archaeological probes that were conducted inside and outside the Castle. Artifacts dating back to the same period were also discovered. There are some annex buildings. The Castle was used as a seat for the governor of the city (Dumat Al-Jandal) and a haven for soldiers. It was also used for observation and defense.",
+          "image": null,
+          "position": [
+            55.96754019400501, 13.643710899159325, 62.365804713260914
+          ]
+        }
+      ],
+      "positions": [
+        [30.269468325479295, -8.880218634274406, -78.82202106201218],
+        [-38.72133065151956, -11.516705550219688, 74.67284677742796],
+        [69.85998485947, -11.439027874618455, 46.86940533779284],
+        [-58.834711081696575, 2.3296365149195566, -61.1642016676556],
+        [-52.19704565863107, 32.93618723884808, -58.298250356921734]
+      ],
+      "nextCameraPositions": [
+        [-0.04287445267818895, -0.03172877794252617, 0.08458762295879688],
+        [-0.001128917463402788, 0.008875195634232377, -0.09959897814643943],
+        [-0.04287445267818895, -0.03172877794252617, 0.08458762295879688],
+        [-0.04287445267818895, -0.03172877794252617, 0.08458762295879688],
+        [-0.06952729429380848, 0.004207162846710399, 0.0717513423495575]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/30.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/30.jpg",
+      "links": [28, 30, 31, 32, 33],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 30,
+      "name": "",
+      "names": ["29", "36", "37", "39", "40", "41", "42"],
+      "modals": [
+        {
+          "title": "Towers",
+          "text": "The Castle has four conical-shaped towers on its four sides.",
+          "image": null,
+          "position": [
+            54.231628253706766, 26.660535485316633, -59.63351695638893
+          ]
+        }
+      ],
+      "positions": [
+        [4.753559936408668, -2.231096257210047, 84.73745262528273],
+        [-20.504435159584027, -2.637761163823842, 82.34452231222814],
+        [-68.58037661464202, 4.958339243143927, -49.801172831006305],
+        [22.131795129018197, -21.683429509959375, -79.04443389039984],
+        [80.19430973159466, -14.422686266032057, 23.850970788306988],
+        [42.51946722327325, -8.329748132847543, 73.01178126228888],
+        [37.46991422664979, -15.198186726041948, -74.6527336946737]
+      ],
+      "nextCameraPositions": [
+        [0.04079957177883055, 0.00642858939159997, -0.09107177488716384],
+        [-0.000510626207078112, -0.0013815567491475898, 0.09998915222075605],
+        [0.09825116270924586, 0.003968624019881167, -0.018192279947001146],
+        [-0.06971514489116568, 0.008491223455424213, -0.07118776367490252],
+        [-0.000510626207078112, -0.0013815567491475898, 0.09998915222075605],
+        [0.0381995514118514, 0.0024906453003729553, 0.09238284991231323],
+        [-0.09392852049935009, -0.026134954270428695, 0.022235044458821417]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/31.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/31.jpg",
+      "links": [29, 36, 37, 39, 40, 41, 42],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 31,
+      "name": "",
+      "names": ["29"],
+      "modals": [],
+      "positions": [
+        [-28.354831382265104, -50.18575313763579, -62.33300666012826]
+      ],
+      "nextCameraPositions": [
+        [-0.06337382973756932, 0.01513272711459527, -0.07586012308498295]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/33.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/33.jpg",
+      "links": [29],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 32,
+      "name": "",
+      "names": ["29", "34", "35"],
+      "modals": [],
+      "positions": [
+        [-69.56048513609929, -46.98551829060103, 12.716523840818587],
+        [-36.82161978699743, -14.444057515621083, 75.12354836366046],
+        [-79.30084979817183, -1.3621131466259866, -30.290755504998213]
+      ],
+      "nextCameraPositions": [
+        [-0.0429904646819151, 0.0075400182886701085, 0.08997204049391963],
+        [-0.09792631873479843, 0.01914187105623515, -0.006635124076995786],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/34.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/34.jpg",
+      "links": [29, 34, 35],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 33,
+      "name": "",
+      "names": ["29"],
+      "modals": [],
+      "positions": [
+        [8.419429185752536, -60.004417105302345, -59.469262144733214]
+      ],
+      "nextCameraPositions": [
+        [0.08804643703414035, 0.009799656948466202, 0.04638740830533142]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/37.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/37.jpg",
+      "links": [29],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 34,
+      "name": "",
+      "names": ["32", "35"],
+      "modals": [],
+      "positions": [
+        [80.14149167677121, -18.071082488764922, 21.41932047256088],
+        [-84.2001520769947, -3.0508946232755627, 10.442051149493242]
+      ],
+      "nextCameraPositions": [
+        [-0.09525629402299521, -0.012956184945297582, -0.027538622345134194],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/36.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/36.jpg",
+      "links": [32, 35],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 35,
+      "name": "",
+      "names": ["34"],
+      "modals": [],
+      "positions": [
+        [10.919702943755324, -57.00027899397115, 61.96562177715636]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/35.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/35.jpg",
+      "links": [34],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 36,
+      "name": "",
+      "names": ["30"],
+      "modals": [],
+      "positions": [
+        [17.049756220074627, -63.57371995906712, -53.62553443465284]
+      ],
+      "nextCameraPositions": [
+        [0.027126382361671576, 0.0070863599085972655, -0.09598928525212704]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/32.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/32.jpg",
+      "links": [30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 37,
+      "name": "",
+      "names": ["30", "38"],
+      "modals": [],
+      "positions": [
+        [-24.914696465424807, -34.86540191673774, 73.29168881408104],
+        [83.56904700637308, 0.73360586404576, -14.956142714043802]
+      ],
+      "nextCameraPositions": [
+        [-0.004684029291646053, 0.008283243732301554, 0.09954620908335125],
+        [-0.09863622952514803, 0.009724872074058113, 0.013278595114149498]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/42.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/42.jpg",
+      "links": [30, 38],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 38,
+      "name": "",
+      "names": ["37"],
+      "modals": [],
+      "positions": [
+        [68.49891299199996, -48.70189376831944, -12.001435843004282]
+      ],
+      "nextCameraPositions": [
+        [-0.08408680019375298, -0.032569536969748, 0.043227714428964184]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/43.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/43.jpg",
+      "links": [37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 39,
+      "name": "",
+      "names": ["30"],
+      "modals": [],
+      "positions": [
+        [5.1962495653146314, -30.89917426761497, 78.90659047275159]
+      ],
+      "nextCameraPositions": [
+        [-0.0032024947379013296, 0.004479318777138672, 0.09984828356434788]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/41.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/41.jpg",
+      "links": [30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 40,
+      "name": "",
+      "names": ["30"],
+      "modals": [],
+      "positions": [
+        [65.81904965263541, -41.78995501573626, -33.60747480258901]
+      ],
+      "nextCameraPositions": [
+        [-0.0010677240653718513, 0.012866540671889817, 0.09916305812377293]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/40.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/40.jpg",
+      "links": [30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 41,
+      "name": "",
+      "names": ["30"],
+      "modals": [],
+      "positions": [
+        [-1.389224741710199, -40.5471026330487, -74.57890132391356]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/39.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/39.jpg",
+      "links": [30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 42,
+      "name": "",
+      "names": ["30", "43", "44"],
+      "modals": [
+        {
+          "title": "The well on top of the Castle",
+          "text": "There is a well on top of the Castle, with a depth of 34 meters and a diameter of nearly 70 cm. It was used to draw water and, at the same time, served as a secret exit when the city was under siege. At the bottom, the well is linked to a network of groundwater conduits called (tunnels) that are connected to the wells of Dumat Al-Jandal. Stone (Jandal stone) was used for constructing the Castle.",
+          "image": null,
+          "position": [
+            44.88333148868436, -39.553141006909485, 60.24156032976248
+          ]
+        }
+      ],
+      "positions": [
+        [-18.7509667116403, -40.88286233925328, 72.00696365164013],
+        [-80.92894528293156, -18.795053839714246, 17.47174194390796],
+        [75.34890645305937, -28.541364752394585, 26.75710736232294]
+      ],
+      "nextCameraPositions": [
+        [-0.04416951789714826, 0.014527255377154767, 0.08853255073666647],
+        [-0.08261002611340441, -0.03648826194781466, 0.04294403713637424],
+        [-0.09979383291519822, 0.0027335171765806637, -0.005806788780284651]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/44.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/44.jpg",
+      "links": [30, 43, 44],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 43,
+      "name": "",
+      "names": ["42"],
+      "modals": [],
+      "positions": [
+        [66.05716976521053, -30.96947724549424, -43.42063797033584]
+      ],
+      "nextCameraPositions": [
+        [0.09323669533429729, -0.01648584162225949, 0.03217352435070162]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/45.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/45.jpg",
+      "links": [42],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 44,
+      "name": "",
+      "names": ["28", "42"],
+      "modals": [],
+      "positions": [
+        [-84.4593152635471, -8.502588591332035, -1.5297230008438694],
+        [81.7789308128916, -16.76669529682403, -15.462677773391864]
+      ],
+      "nextCameraPositions": [
+        [-0.06908433709780668, -0.053047533802827784, 0.049125487531366516],
+        [-0.0953857522445172, -0.004403574809603338, 0.029701292861486678]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/46.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/46.jpg",
+      "links": [28, 42],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 45,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [-84.4593152635471, -8.502588591332035, -1.5297230008438694],
+        [82.14896548542782, -16.263890995354846, -13.965791039722948]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/1.jpg",
+      "links": [28, 42],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 46,
+      "name": "47",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [-25.803226228218538, -19.810958312274565, -78.42021070466909],
+        [2.0101475072729853, -26.316989712173566, 80.6931555925802]
+      ],
+      "nextCameraPositions": [
+        [0.013922943349545814, 0.008479025426152398, 0.09866234224012728],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/47.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/47.jpg",
+      "links": [0, 47],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 47,
+      "name": "47",
+      "names": ["1", "48"],
+      "modals": [],
+      "positions": [
+        [-25.803226228218538, -19.810958312274565, -78.42021070466909],
+        [2.0101475072729853, -26.316989712173566, 80.6931555925802]
+      ],
+      "nextCameraPositions": [
+        [0.09690203774605466, 0.006733927709591849, 0.0237623504364404],
+        [-0.08962868420306276, 0.0035869239581199823, 0.04420218257672715]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/47.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/47.jpg",
+      "links": [0, 48],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 48,
+      "name": "",
+      "names": ["47", "49"],
+      "modals": [
+        {
+          "title": "Entrance to Ad-Dar'i District",
+          "text": "Ad-Dar'i District dates back to the ninth century AH. It was constructed on the ruins of historical buildings dating back to the first century BC. The District consists of many habitations surrounded by palm trees. The entrance is located in the middle of the eastern facade and is next to the Mosque of Caliph Omar Ibn Al-Khattab (may Allah be pleased with him) and heads towards the middle square.",
+          "image": null,
+          "position": [-74.03254846916542, 19.6039431763671, 36.64528863439942]
+        }
+      ],
+      "positions": [
+        [80.91251452483583, -10.303888290696634, -23.55854153722338],
+        [-72.42159822136395, -26.568443988223773, 35.457578810572386]
+      ],
+      "nextCameraPositions": [
+        [0.0018786234216336413, 0.002712265463329972, -0.09994555713035035],
+        [-0.007270238049895106, -0.0012731916401492085, 0.09972724112169815]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/48.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/48.jpg",
+      "links": [47, 49],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 49,
+      "name": "",
+      "names": ["48", "50"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [24.839361416843946, -18.75249388369604, -78.98962018863837],
+        [-4.119308365145928, -25.57834058907946, 80.85041614798213]
+      ],
+      "nextCameraPositions": [
+        [0.09670573176610195, 0.0027122654633299948, -0.025310967181030004],
+        [0.09011698217839377, -0.0034591240061067744, 0.04320837863388817]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/49.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/49.jpg",
+      "links": [48, 50],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 50,
+      "name": "",
+      "names": ["49", "51"],
+      "modals": [
+        {
+          "title": "Centre of the District",
+          "text": "In the center of the district, there is a square with an area of 12x6 meters, topped by three pointed and parallel semi-circular arches that support its roof, with coverings consisting of tamarisk planks and palm branches. On the two sides of the square, there are stone terraces designed for sitting. Four lanes divide from this square, connecting parts of the district together. Abundant water is a distinguishing feature of this District. ",
+          "image": null,
+          "position": [-53.68331706498538, 3.997911166115842, 65.65156643377289]
+        }
+      ],
+      "positions": [
+        [-82.00981678455246, -21.693804015313695, -3.4320283083475007],
+        [71.97810790892805, -34.216639088946344, 29.264032382901366]
+      ],
+      "nextCameraPositions": [
+        [0.030157692926886775, 0.007543896083328369, -0.09504526915744703],
+        [0.09681562438834208, 0.0013999092160699718, -0.02499550216503433]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/50.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/50.jpg",
+      "links": [49, 51],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 51,
+      "name": "",
+      "names": ["50", "52", "53"],
+      "modals": [],
+      "positions": [
+        [-78.49279498654131, -16.900210965492217, -27.591194329398885],
+        [43.36948899934997, -19.440192252804152, -70.35038272183938],
+        [71.93605026421726, -19.79653006876174, 40.513109848796134]
+      ],
+      "nextCameraPositions": [
+        [-0.08207404447833312, 0.0066518979436941, -0.05674154982651865],
+        [0.028066989469310646, -0.008216820629995025, -0.09562807098788575],
+        [-0.011433266250165526, -0.004725284556985313, 0.09923180996388385]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/51.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/51.jpg",
+      "links": [50, 52, 53],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 52,
+      "name": "",
+      "names": ["51"],
+      "modals": [],
+      "positions": [
+        [20.775960574434325, -14.104082971140544, 81.10144453554902]
+      ],
+      "nextCameraPositions": [
+        [-0.09833494913306975, 0.003243854599123758, -0.017880581263939693]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/52.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/52.jpg",
+      "links": [51],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 53,
+      "name": "",
+      "names": ["51"],
+      "modals": [],
+      "positions": [
+        [42.52044886436882, -28.697200804818237, -67.64977527191452]
+      ],
+      "nextCameraPositions": [
+        [-0.09576831485546909, 0.0044615307540776025, -0.028434567221503063]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/53.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jandal/lq/53.jpg",
+      "links": [51],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

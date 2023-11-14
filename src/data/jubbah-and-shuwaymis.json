@@ -1,0 +1,1016 @@
+{
+  "infos": {
+    "id": "jubbah-and-shuwaymis",
+    "title": "Jubbah and Shuwaymis",
+    "shortDescription": "They are among the sites of rock art and ancient writings and are registered as a UNESCO World Heritage Site.",
+    "longDescription": "They are among the sites of rock art and ancient writings and are registered as a UNESCO World Heritage Site.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/jubbah_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/jubbah.png",
+      "url": "/images/sites/jubbah.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "",
+      "names": ["Shuwaymis", "Jubbah"],
+      "modals": [
+      ],
+      "positions": [
+        [ 69.85958930356976 , -0.5923914761034635 , -48.24206579893357 ],
+        [ 74.84272956828596 , -2.0231452697358474 , 40.03102374583563 ]
+      ],
+      "nextCameraPositions": [
+        [-0.023720214039659387, -0.003991981528989586, 0.09706397647626513],
+        [0.04872369963870179, -0.0003312179560409099, 0.08732634990759186]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/choice3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/choice3.jpg",
+      "links": [1, 21],
+      "cameraPosition": [ 0.09963949672773843 , 0.005030450531322541 , -0.006826206361876302 ]
+    },
+    {
+      "id": 1,
+      "name": "chwimes",
+      "names": ["0", "2", "18"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            50.16926162598878, -3.9180587707045373, -68.37911964461368
+          ]
+        }
+      ],
+      "positions": [
+        [0.37128230202760437, -10.897268627275764, -84.19692206914213],
+        [80.59988666148027, -8.9183496309949, -25.1422216603042],
+        [-39.19601443076223, -40.147864100192336, 63.716806738379226]
+      ],
+      "nextCameraPositions": [
+        [ 0.09963949672773843 , 0.005030450531322541 , -0.006826206361876302 ],
+        [0.027876331007089777, 0.0024845070084559676, -0.09600384051957557],
+        [-0.08462886168866936, 0.02688588926320428, -0.04599026775097949]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/18.jpg",
+      "links": [0, 2, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["1", "3"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-20.375831100474894, -6.231030113365337, 82.18278269011859],
+        [21.40619751386976, -6.991452579982632, -81.85905141656022]
+      ],
+      "nextCameraPositions": [
+        [-0.0884626738639125, -0.012676179601271601, 0.04487393233898003],
+        [-0.016543128890904406, 0.00486909709909797, 0.09850186180950328]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/2.jpg",
+      "links": [1, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["2", "4"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [12.34305177402978, 1.7335664205096601, -83.98007990213692],
+        [-57.5567609474196, -3.957966945704121, 62.28614426096954]
+      ],
+      "nextCameraPositions": [
+        [-0.02406340859364356, 0.001036169404993598, 0.09705605967593944],
+        [0.09963010117253454, 0.0060948836124840745, 0.006057667381163101]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/3.jpg",
+      "links": [2, 4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["3", "5"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-73.88712369196303, -17.83872066193371, -37.821726529523445],
+        [80.97714461358669, 0.31041398275987825, -25.50716945075596]
+      ],
+      "nextCameraPositions": [
+        [0.01503616870100347, 0.009970478624781875, -0.09835905238862216],
+        [0.004682249428303102, -0.020792831594681368, -0.09770227579010828]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/4.jpg",
+      "links": [3, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["4", "6"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            65.84720417034917, -6.145466161073311, -53.23897959776701
+          ]
+        }
+      ],
+      "positions": [
+        [-25.319703664556716, -15.785026484640753, 79.48431005687992],
+        [4.319639514229427, -26.140261989060654, -80.66001126711043]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.06497262240271527, 0.006730889757751171, -0.0757182505158643]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/5.jpg",
+      "links": [4, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["5", "7"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -19.176747728475423, -9.39619771127679, -82.17039500409506
+          ]
+        }
+      ],
+      "positions": [
+        [82.6942682019874, -18.88673557225435, -3.599892493049892],
+        [-55.12993748159335, -1.092962955679081, -64.55621910593216]
+      ],
+      "nextCameraPositions": [
+        [-0.026649123941166187, -0.01566315102752137, 0.09510252306357293],
+        [-0.05743341082621136, 0.002041892132520745, -0.08183662992442185]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/6.jpg",
+      "links": [5, 7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["6", "8"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [84.8199846777554, -1.502069552284385, 3.365113122235212]
+        }
+      ],
+      "positions": [
+        [31.653916616577416, -21.922747652891196, 75.6665890481289],
+        [-75.7709198477278, -12.45393378721201, -36.2170848999882]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.07764449966113765, 0.002989766389395776, 0.06294754140797273]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/7.jpg",
+      "links": [6, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["7", "9"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [83.04503660670575, -15.82184632452076, -7.823111521265168],
+        [-65.26800390289958, -8.786978742304466, 53.58065575479061]
+      ],
+      "nextCameraPositions": [
+        [0.037582567948922264, -0.011402063980348279, 0.0919649037587312],
+        [-0.07825051527251392, -0.0005829625861422605, -0.062261681748963606]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/8.jpg",
+      "links": [7, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["8", "10"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [-64.70007357295198, 8.37948213282825, 54.32950173561517]
+        }
+      ],
+      "positions": [
+        [59.599872253568954, -18.609108321517052, 57.52883029261335],
+        [-72.72398796797054, -15.54209010874903, -40.959431259308296]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [0.0966767426081314, 0.0040322493711922895, -0.025245760113128603]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/9.jpg",
+      "links": [8, 10],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["9", "11"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -48.815097762033844, 3.189189147480817, -69.38966279687969
+          ]
+        }
+      ],
+      "positions": [
+        [6.4109821433128635, -24.11777097322845, 81.1495066604907],
+        [76.25313135054958, -30.315652242812263, 21.781441373993236]
+      ],
+      "nextCameraPositions": [
+        [0.07075755808877444, -0.014364816087040743, 0.06918829403952095],
+        [0.008023119370411523, -0.0005772956244311743, -0.09967595640539471]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/10.jpg",
+      "links": [9, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["10", "12"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-19.870829925758542, -40.648589785241775, 71.83907200495227],
+        [-60.924440471775206, -5.637848486804182, -58.859470076114015]
+      ],
+      "nextCameraPositions": [
+        [-0.017430320426758385, -0.009343904677527956, 0.09802487120724927],
+        [0.01367701618975346, -0.006397880243523839, -0.09885345900136598]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/11.jpg",
+      "links": [10, 12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["11", "13"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [39.570421731655784, -49.97653976451389, 56.07617316779799],
+        [-65.04974581797381, -22.17784316750838, 49.84660310848073]
+      ],
+      "nextCameraPositions": [
+        [-0.01903683601220192, -0.019356144998148885, 0.09624416099408406],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/12.jpg",
+      "links": [11, 13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12", "14"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            65.30028251856935, -0.745280300760368, -54.252443818397026
+          ]
+        }
+      ],
+      "positions": [
+        [-69.70747744075952, -22.770866608899635, 42.78276782450739],
+        [37.94298813206477, -5.3790689624547605, -75.758862641325]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-0.09064317648839225, 0.024586513448220663, 0.03434119847289301]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/13.jpg",
+      "links": [12, 14],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["13", "15"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -83.66939972703994, 2.830686214992148, -14.121924970380727
+          ]
+        }
+      ],
+      "positions": [
+        [80.13661664867006, -18.053229366374502, -21.452589157236265],
+        [-38.88036908241907, -18.05322936637432, 73.28306632135389]
+      ],
+      "nextCameraPositions": [
+        [-0.08694931423849862, -0.004406922289151812, 0.04919751812228124],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/14.jpg",
+      "links": [13, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["14", "16"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            11.370570780877353, 24.889585956509308, 80.36932643136058
+          ]
+        }
+      ],
+      "positions": [
+        [-58.41304356360918, -17.79058741497178, -58.98662001730684],
+        [65.28645939042815, -50.34988292775273, 20.262712291881595]
+      ],
+      "nextCameraPositions": [
+        [0.09304275947869377, 0.004033835874494832, -0.0364248963859552],
+        [0.010572686082909706, 0.006376235251421886, 0.09923488264219778]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/15.jpg",
+      "links": [14, 16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "names": ["15", "17"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [64.09523737055726, -24.745537195779434, -49.87453193067799],
+        [8.476628691550484, -1.9058191353445373, 84.45427531776552]
+      ],
+      "nextCameraPositions": [
+        [-0.06943965048692992, -0.006282896689585596, -0.07168444844902558],
+        [0.03411499745327507, 0.017430103878783437, -0.09237076608720883]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/16.jpg",
+      "links": [15, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "names": ["16"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            34.78109306755156, -43.607075761399294, -64.00553498382698
+          ]
+        }
+      ],
+      "positions": [
+        [-6.809205943425722, -6.578940907302804, 84.37038728699919]
+      ],
+      "nextCameraPositions": [
+        [0.0776695488961255, -0.015545204606167555, -0.06103923154844555]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/17.jpg",
+      "links": [16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "names": ["1", "19"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [49.1238746472081, -27.9657274719946, 63.346452360077045],
+        [-79.50901145557756, 29.65920622076145, -2.5804231651383853]
+      ],
+      "nextCameraPositions": [
+        [0.05884112413681116, 0.01631113686062548, -0.07919386923638924],
+        [0.09481215475703085, 0.02258727489023823, 0.022371194053104174]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/1.jpg",
+      "links": [1, 19],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "names": ["18", "20"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [80.85400671019546, 6.524405766471646, -25.06135926684945]
+        }
+      ],
+      "positions": [
+        [-75.87118695839298, -38.03125768146215, 2.279567654359851],
+        [55.382090355001445, -11.980796717682207, 63.224161346118564]
+      ],
+      "nextCameraPositions": [
+        [0.06038930338849334, -0.018126624550891077, 0.07761802315598829],
+        [0.02939584892758159, 0.00754741377936184, 0.09528337006566201]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/19.jpg",
+      "links": [18, 20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "names": ["19", "18"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [15.358909913431587, -7.077945477296756, -83.19865728538838],
+        [-74.78112073581133, -35.20926724874748, -19.393336002407857]
+      ],
+      "nextCameraPositions": [
+        [0.01524675297334548, 0.005629734742232544, -0.0986703735196228],
+        [0.08696917951187952, 0.010335429838707645, 0.048265315756551574]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/shuwaymis/lq/20.jpg",
+      "links": [19, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "names": ["0", "22", "27"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-77.56723549478944, -9.97363211636562, -33.043314605276485],
+        [-38.49448427395377, -12.977532794355001, 74.55044146786634],
+        [62.09696946385148, -5.141488014591949, 57.6675080474378]
+      ],
+      "nextCameraPositions": [
+        [ 0.09963949672773843 , 0.005030450531322541 , -0.006826206361876302 ],
+        [0.08250415701250306, 0.0023770921588397603, 0.056457182966604236],
+        [0.02097520928951098, 0.01883340522017906, -0.0959444810454138]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/2.jpg",
+      "links": [0, 22, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "names": ["21", "23"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-76.86526051650789, -13.429935111913624, -33.4571153660797],
+        [65.77784662605652, -21.10535509640612, 49.35431976528085]
+      ],
+      "nextCameraPositions": [
+        [-0.09180632424083973, 0.006730889757751238, -0.03906781223020817],
+        [-0.08721007405808348, 0.007323411540039447, -0.0483815112020988]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/3.jpg",
+      "links": [21, 23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "names": ["22", "24"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [22.26814488605782, -9.870393650153026, 81.33089851049573],
+        [-76.50231520999978, -6.753456586170451, -36.191112053217566]
+      ],
+      "nextCameraPositions": [
+        [-0.09187644631523914, 0.0007009001748824656, -0.03947438855039846],
+        [-0.09326126357766364, 0.013448143136782371, 0.033488567632405014]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/4.jpg",
+      "links": [22, 24],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "",
+      "names": ["23", "25", "27"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [43.86140825280468, -6.776130725367525, -72.37590012202631],
+        [-79.79257971310572, -7.101967823632003, 28.119677732146325],
+        [84.75916166098814, 4.854555952682424, 0.5725391067459566]
+      ],
+      "nextCameraPositions": [
+        [0.05213359008877615, 0.000906310442158173, 0.08533034270315512],
+        [0.07974159194641026, 0.0036540542674577663, -0.06023227043091339],
+        [0.019163046802735655, 0.007534325607388632, -0.09785709772355826]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/5.jpg",
+      "links": [23, 25, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "",
+      "names": ["24", "26", "27"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-75.31667081165172, -38.88820129757884, 4.8080035033554145],
+        [55.4508836375012, -24.11777097322785, 59.594820472111756],
+        [-50.50742094624499, -11.321131257568046, 67.29667463112669]
+      ],
+      "nextCameraPositions": [
+        [0.09953311588509597, 0.0033825168359064807, -0.009039768916232096],
+        [-0.04108022151714006, 0.024181690284718404, 0.08790711720376616],
+        [0.019163046802735655, 0.007534325607388632, -0.09785709772355826]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/7.jpg",
+      "links": [24, 26, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 26,
+      "name": "",
+      "names": ["25", "24", "27"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            71.75047590076527, -2.224024927725319, -45.33136796010637
+          ]
+        }
+      ],
+      "positions": [
+        [61.818715939462805, -44.48390361599246, -37.51851114688722],
+        [-34.3890060476415, -28.55805405465891, -72.17924779094373],
+        [-63.21477179802238, -8.858808020982025, -55.9769965876282]
+      ],
+      "nextCameraPositions": [
+        [-0.06952613828744832, -0.010879193247385685, -0.07104758440032057],
+        [0.09813926847983777, 0.015625478688993832, -0.011159229273661074],
+        [0.019163046802735655, 0.007534325607388632, -0.09785709772355826]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/6.jpg",
+      "links": [25, 24, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 27,
+      "name": "",
+      "names": ["24", "28", "21"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [77.86273263085852, -3.2216896000617665, 33.690140744382425],
+        [-23.06414420096549, 1.9636074775771257, -81.68353259960708],
+        [-20.391786041805574, -1.24670576586557, 82.40528373082994]
+      ],
+      "nextCameraPositions": [
+        [0.03166443930339074, 0.010656600866960226, -0.09425391313661304],
+        [-0.01656919354900636, 0.003867886345037646, -0.09854187577044317],
+        [-0.0959042565332536, 0.0076047548557128496, -0.0272862837775396]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/10.jpg",
+      "links": [24, 28, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 28,
+      "name": "",
+      "names": ["27", "29", "33"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [9.378319438327438, 3.1761701516677374, 84.32063251470748],
+        [35.56917788243112, -9.776508101935654, -76.46740138190103],
+        [-66.047625329294, -4.946333599103994, -53.11548712275523]
+      ],
+      "nextCameraPositions": [
+        [0.04075137166113376, 0.01151692006948004, 0.09059076255253276],
+        [0.0922459380090929, 0.01888818522183639, -0.03367377881747465],
+        [0.05164910791778176, 0.008229034772463874, 0.08523293165209642]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/11.jpg",
+      "links": [27, 29, 33],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 29,
+      "name": "",
+      "names": ["28", "30"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [35.929641257360096, -6.334854359952531, -76.66120596074391],
+        [78.6667899430223, -12.225238400851605, -29.497283029166436]
+      ],
+      "nextCameraPositions": [
+        [-0.049695983980019946, 0.01240226258119957, 0.08588651267297207],
+        [-0.09058112389616746, 0.03683758730746543, 0.020929695532234487]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/12.jpg",
+      "links": [28, 30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 30,
+      "name": "",
+      "names": ["29", "31"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [69.31786556623439, -45.33698488786638, -18.64406915399187],
+        [-81.29003820224044, 17.094853667515633, 17.54154118555486]
+      ],
+      "nextCameraPositions": [
+        [0.04029811911445935, 0.0032937786720786785, -0.09146153627561818],
+        [-0.012543405332359193, -0.014111656911286234, 0.09820144663846003]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/13.jpg",
+      "links": [29, 31],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 31,
+      "name": "",
+      "names": ["30", "32"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -81.95333742567465, -14.684175790646817, 16.614315097014845
+          ]
+        }
+      ],
+      "positions": [
+        [48.11849810733339, -43.569648508658226, -54.72025099290508],
+        [-39.781546046679644, -49.35362640876615, 56.47705865605829]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/14.jpg",
+      "links": [30, 32],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 32,
+      "name": "",
+      "names": ["31"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-63.64217557590211, -53.90241889725993, 15.881206660401054]
+      ],
+      "nextCameraPositions": [
+        [0.06500070364553728, -0.029779883091229017, -0.06991471296270756]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/15.jpg",
+      "links": [31],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 33,
+      "name": "",
+      "names": ["28", "34"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-69.08444451502668, -6.826003721449279, -48.87489334254311],
+        [45.80622950012415, -8.299560658565232, 70.99941289797229]
+      ],
+      "nextCameraPositions": [
+        [0.011701739000410055, 0.014676917448542786, 0.09822248927091479],
+        [0.092045972287525, -0.006119611397838749, 0.038601675377937295]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/16.jpg",
+      "links": [28, 34],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 34,
+      "name": "",
+      "names": ["33", "35", "36"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-84.56888623575304, -0.4119464775359267, 7.479557536639929],
+        [9.195334065699905, 7.512635208627627, 84.06554670994691],
+        [77.51786090859002, -10.359166117202216, 33.04056472750884]
+      ],
+      "nextCameraPositions": [
+        [-0.08141572848064285, 0.0032992527733489594, -0.057970631246380154],
+        [0.028309067779641737, -0.0010689282409521719, -0.0959033579905487],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/17.jpg",
+      "links": [33, 35, 36],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 35,
+      "name": "",
+      "names": ["34"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            72.3490010360663, -36.25472037624408, -25.675422090466782
+          ]
+        }
+      ],
+      "positions": [
+        [-42.49336976689666, -31.500412628156795, 66.4081887278192]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/18.jpg",
+      "links": [34],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 36,
+      "name": "",
+      "names": ["34", "37"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-79.08590590127729, -4.158097146318896, 30.596400374816827],
+        [70.67728778501565, -9.220687244318583, -46.12710611014461]
+      ],
+      "nextCameraPositions": [
+        [-0.09834702251216684, 0.010524244217666822, 0.014734430651988352],
+        [-0.023703019337863555, -0.05131824412638371, -0.08249002784612056]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/19.jpg",
+      "links": [34, 37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 37,
+      "name": "",
+      "names": ["36", "38"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [54.77995421995309, -24.976206017343337, 59.86113721471609],
+        [1.260227167465876, -40.58292814919286, -74.56170444889139]
+      ],
+      "nextCameraPositions": [
+        [-0.09282850037069947, 0.004021536133096706, 0.03696886211472082],
+        [-0.00009087183522075147, 0.0013012841396874036, -0.09999149164752648]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/21.jpg",
+      "links": [36, 38],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 38,
+      "name": "",
+      "names": ["37"],
+      "modals": [
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -1.8502883536952035, -16.378954280901016, -83.2845501258927
+          ]
+        }
+      ],
+      "positions": [
+        [25.602572809255694, -11.455301404169015, 80.13297907407664]
+      ],
+      "nextCameraPositions": [
+        [0.05196925922475704, -0.006591043091295464, 0.08518071522709049]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/jubbah/lq/20.jpg",
+      "links": [37],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

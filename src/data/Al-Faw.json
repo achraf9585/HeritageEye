@@ -1,0 +1,1094 @@
+{
+  "infos": {
+    "id": "al-Faw",
+    "title": "Al-Faw",
+    "shortDescription": "Qaryah, as it was previously named, or the present-day Al-Faw Village, is located nearly 700 km southwest of Riyadh and 150 km southeast of Al-Khamasin, Wadi Al-Dawasir. It overlooks the northwest side of the Empty Quarter at the intersection of the Wadi Al-Dawasir and Tuwaiq mountains at a gap in the mountain called Al-Faw. It is located on the old trade route known as the Najran-Jarhaa Route. The Qaryah site is one of the most important archaeological sites throughout the Arabian Peninsula, if not worldwide, because it exemplifies a Pre-Islamic Arab city with all its dwellings, roads, markets, temples, cemeteries, wells and irrigation ditches dating back to the 3 rd century BCE.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/alfaw_init.jpg",
+    "longDescription": "Qaryah, as it was previously named, or the present-day Al-Faw Village, is located nearly 700 km southwest of Riyadh and 150 km southeast of Al-Khamasin, Wadi Al-Dawasir. It overlooks the northwest side of the Empty Quarter at the intersection of the Wadi Al-Dawasir and Tuwaiq mountains at a gap in the mountain called Al-Faw. It is located on the old trade route known as the Najran-Jarhaa Route. The Qaryah site is one of the most important archaeological sites throughout the Arabian Peninsula, if not worldwide, because it exemplifies a Pre-Islamic Arab city with all its dwellings, roads, markets, temples, cemeteries, wells and irrigation ditches dating back to the 3 rd century BCE.",
+    "image": {
+      "placeholder": "/images/sites/p_alfaw.png",
+      "url": "/images/sites/p_alfaw.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "",
+      "names": ["10", "48", "26", "43"],
+      "modals": [
+        {
+          "title": "Residential units in addition to stone buildings",
+          "text": "It depicts residential units and stone structures (restrooms) connected to residential units and located opposite the eastern cemeteries.",
+          "image": null,
+          "position": [
+            -79.50926628330842, -8.80054768230375, -0.816671646414207
+          ]
+        }
+      ],
+      "positions": [
+        [-73.83303817397268, -28.60490324975362, 11.414114116721072],
+        [-41.68512140932606, -4.406965746216506, -68.13786996229058],
+        [4.831867776950787, -3.6249693450080795, -79.77062534561466],
+        [52.068271526103025, -1.8300052946128558, -60.707381741451364]
+      ],
+      "nextCameraPositions": [
+        [3.15809265381393, -0.7371882054716138, 3.806967866904057],
+        [4.8949206396566405, 0.1356403931094098, -1.01555581590602],
+        [1.1454915835383352, -0.15638086844592697, -4.865531267356006],
+        [2.2782221889390133, 0.1610690386011242, -4.449017916645205]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/1.jpg",
+      "links": [10, 48, 26, 43],
+      "cameraPosition": [
+        -3.261773678621162, -0.7586295549983839, -3.7142043115231456
+      ]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "names": ["12"],
+      "modals": [],
+      "positions": [
+        [25.011782533603082, -24.90183939402742, -71.79240312374571]
+      ],
+      "nextCameraPositions": [
+        [-0.315340666150316, -0.4841806300347361, -4.967507361018305]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/2.jpg",
+      "links": [12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["18", "8"],
+      "modals": [],
+      "positions": [
+        [-66.31816562131415, -26.373920998892384, -36.14079712409138],
+        [19.949872188484427, -47.06965676976885, 61.53283699160871]
+      ],
+      "nextCameraPositions": [
+        [-4.952624439788208, -0.5627815792078756, -0.4059409470807424],
+        [4.732429287398381, -0.9290211120180408, -1.323265964649129]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/3.jpg",
+      "links": [18, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["9"],
+      "modals": [
+        {
+          "title": "Temple (wad Aftar)",
+          "text": "It depicts the Wed Aaftar Temple and its stone columns in the temple's inner courtyard, which is built from stone. The room depicts the Holy of Holies, which can be accessed via stairs. The stair has banisters on both sides, and the aligned stones on the stairs form a frieze on the temple's building. This building is located in the eastern of the residential area. ",
+          "image": null,
+          "position": [
+            71.2570141967031, -36.363112247586976, -0.04486019219704562
+          ]
+        }
+      ],
+      "positions": [
+        [78.45992209098128, -15.61644123307131, -0.08605630586950719]
+      ],
+      "nextCameraPositions": [
+        [4.690562461002304, -0.057672580964414806, -1.7335794394376232]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/4.jpg",
+      "links": [9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["6", "5"],
+      "modals": [
+        {
+          "title": "Main Street",
+          "text": "It depicts the residential area's main street leading to the courtyard's eastern gate. ",
+          "image": null,
+          "position": [
+            -11.247868941399657, -3.485541492752524, -79.12759608237823
+          ]
+        }
+      ],
+      "positions": [
+        [64.25912907366774, -33.11403208504657, -34.264635220016835],
+        [-35.50145865881721, -35.22455067747459, 62.43971075896269]
+      ],
+      "nextCameraPositions": [
+        [4.316742493174022, -0.8617956880183304, -2.373403134686289],
+        [-3.512569306912617, -0.007806345073332384, -3.5597466096777124]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/5.jpg",
+      "links": [6, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["2", "6"],
+      "modals": [
+        {
+          "title": "limestone wall",
+          "text": "It depicts a limestone wall of a residential unit. ",
+          "image": null,
+          "position": [
+            -33.54604632794795, -3.4697648034706132, -72.54283923977864
+          ]
+        }
+      ],
+      "positions": [
+        [43.35364567148327, -36.151986091538795, -56.68628869158105],
+        [55.20192476217196, -14.095939117299764, 56.159522967609725]
+      ],
+      "nextCameraPositions": [
+        [-4.11943371514186, -1.679506430082612, -2.284627763523778],
+        [-4.926513786986307, -0.8436948602293785, -0.16625549451468996]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/6.jpg",
+      "links": [2, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["4", "7"],
+      "modals": [],
+      "positions": [
+        [-53.82100837505987, -32.713109742673375, 49.32536391606397],
+        [68.31586769309146, -25.295970422969713, -33.05897939587467]
+      ],
+      "nextCameraPositions": [
+        [-4.6810630611932655, -1.613673556260683, 0.7026423492481018],
+        [3.424406188530547, -1.007679259624648, 3.502574020013849]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/7.jpg",
+      "links": [4, 7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["8", "6"],
+      "modals": [],
+      "positions": [
+        [-46.81460600217495, -12.045074010468669, 63.742833902643994],
+        [-50.878417261129485, -20.910777868200405, -58.08585062599826]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [-4.579089513172258, -0.2901353146619639, 1.989412156779438]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/8.jpg",
+      "links": [8, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["2", "7"],
+      "modals": [],
+      "positions": [
+        [-76.5977719104434, -8.705984099191745, -21.37351623427722],
+        [64.38081046238212, -30.002623853455145, -36.80752400137116]
+      ],
+      "nextCameraPositions": [
+        [-3.6104397326595383, -0.8669057114775063, -3.3501043900512983],
+        [3.817427768317345, -0.6890442731090206, -3.156336994583324]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/9.jpg",
+      "links": [2, 7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["12", "3"],
+      "modals": [
+        {
+          "title": "residential area's streets",
+          "text": "It depicts the residential area's streets that lead to the courtyard of the residential area, some of which lead to the residential units.",
+          "image": null,
+          "position": [65.08417645492084, -17.89481530492483, 42.93792702709294]
+        }
+      ],
+      "positions": [
+        [31.019661323874256, -21.904761835803818, 70.41166123069],
+        [-74.65207096919154, -8.74398320291552, 27.394362097966873]
+      ],
+      "nextCameraPositions": [
+        [-0.05077647565100389, -0.5732653043776335, 4.967775019092274],
+        [-4.985229337312882, 0.15179522981351642, 0.36666969141283745]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/10.jpg",
+      "links": [12, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["0", "11"],
+      "modals": [
+        {
+          "title": "Visible limestone wall",
+          "text": "It depicts a wall made of limestone, and on the other side is an entrance to the residential area.",
+          "image": null,
+          "position": [
+            -7.536505870021919, 0.6985233217078923, 79.64014792450322
+          ]
+        }
+      ],
+      "positions": [
+        [-44.68985801800656, -34.28576757981213, -56.807946176482375],
+        [45.9292785988395, -31.928144113958687, 57.19208859470923]
+      ],
+      "nextCameraPositions": [
+        [4.8949206396566405, 0.1356403931094098, -1.01555581590602],
+        [-4.866271707370218, -1.1517166823214304, -0.0542987450192697]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/11.jpg",
+      "links": [0, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["10", "12"],
+      "modals": [],
+      "positions": [
+        [75.98210637773606, -24.941490316850423, -2.1169761863232877],
+        [-75.07602799401138, -27.607947221593182, 1.10963410579629]
+      ],
+      "nextCameraPositions": [
+        [-2.7309030363474323, -2.157093370802223, -3.591534044904694],
+        [-4.657777549188201, -0.21255318924625333, 1.8082946231241228]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/12.jpg",
+      "links": [10, 12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["11", "1", "13", "9"],
+      "modals": [],
+      "positions": [
+        [78.85055639099312, -6.899128036642598, -11.611709872427276],
+        [-53.71658411608061, -31.452303082132623, 50.250584461539454],
+        [-77.41179507678494, -18.15564502055767, 8.810593275935302],
+        [-9.462481986283949, -30.02010866819002, -73.54654667083912]
+      ],
+      "nextCameraPositions": [
+        [4.97622169488217, -0.41265584561795693, -0.27736761970597734],
+        [-2.2189821883298184, -0.2202831800643359, 4.476337048129391],
+        [-1.7492153902673673, -0.028570164354612765, -4.685021799752967],
+        [-1.3660729690374882, -0.3170805840586255, -4.8003442112496595]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/13.jpg",
+      "links": [11, 1, 13, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12", "15"],
+      "modals": [],
+      "positions": [
+        [24.721832859013603, -15.288505896064018, 74.53142011630807],
+        [-32.12012256142164, -12.848855717811663, -72.13213327206338]
+      ],
+      "nextCameraPositions": [
+        [4.874544569073045, 0.4754263164657118, -1.0113283649400462],
+        [-4.7319509314043655, -0.8641248701830508, 1.3681844142923358]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/14.jpg",
+      "links": [12, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["15"],
+      "modals": [],
+      "positions": [
+        [70.12729196303607, -37.075447141740064, 10.364080189179097]
+      ],
+      "nextCameraPositions": [
+        [0.873836487860904, -0.5635571220083717, 4.8917086138400085]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/15.jpg",
+      "links": [15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["13", "14", "16"],
+      "modals": [],
+      "positions": [
+        [77.28132866022762, -12.850610655770035, -16.195618644568448],
+        [-17.631605439354686, -32.67165690996778, -70.86275002697028],
+        [-75.69513109428476, -13.823060779483866, 21.886300196751865]
+      ],
+      "nextCameraPositions": [
+        [32.19725966479988, 0.6138579076606511, 73.23113863339321],
+        [-4.990899777801946, 0.07651825067500909, -0.30832509669195246],
+        [-3.6390624857311877, -0.07511863834588421, 3.429516207151815]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/16.jpg",
+      "links": [13, 14, 16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "names": ["15", "17"],
+      "modals": [],
+      "positions": [
+        [55.160645148721606, -27.788306571450157, -50.84243563859344],
+        [-55.87494575578899, -18.900176192819494, 54.04270342668489]
+      ],
+      "nextCameraPositions": [
+        [4.894920639656637, 0.1356403931094097, -1.0155558159060194],
+        [-4.966664286139639, -0.5796948129203482, -0.07873876210760145]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/17.jpg",
+      "links": [15, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "names": ["16", "18", "21"],
+      "modals": [],
+      "positions": [
+        [73.50876105559385, -29.050681641007266, -12.343417730152966],
+        [-47.58415367509247, -15.027000857182713, -62.52821428171457],
+        [-79.41991988240693, -9.59513579091558, -0.49971193957844606]
+      ],
+      "nextCameraPositions": [
+        [3.644478725948907, -0.6215224724594609, -3.367712076816198],
+        [4.002976456878674, -0.13991178900574106, -2.9944288565554924],
+        [-4.9490731952678475, -0.31806383775455344, -0.6446005763215806]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/18.jpg",
+      "links": [16, 18, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "names": ["17", "2", "20"],
+      "modals": [
+        {
+          "title": "large courtyard",
+          "text": "It depicts the center of the residential area (a large courtyard) with a well and the 'Abat' temple.",
+          "image": null,
+          "position": [
+            -79.87505444744465, -1.3978404952340704, 4.22631470246079
+          ]
+        }
+      ],
+      "positions": [
+        [-67.49524081346044, -12.285980906843038, 41.14957056502869],
+        [74.53111374002567, -14.351628648170434, 25.278130010207907],
+        [-36.1058148262566, -13.58785226332559, -70.0826684965599]
+      ],
+      "nextCameraPositions": [
+        [1.676274246632383, -0.9289038714050357, 4.61922528653515],
+        [4.2512657924972, -0.4605470530661183, 2.593190230865299],
+        [-3.1117613613070176, -1.2707007472904015, -3.703006999873518]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/19.jpg",
+      "links": [17, 2, 20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "names": ["20"],
+      "modals": [
+        {
+          "title": "Residential Units",
+          "text": "It depicts several residential units from the interior, separated by a corridor. ",
+          "image": null,
+          "position": [77.49522771466687, -18.665783150885346, 6.77629971390399]
+        }
+      ],
+      "positions": [[21.88502129181452, -30.49640729409428, 70.64598362402593]],
+      "nextCameraPositions": [
+        [4.098553414430436, -0.38280751574178346, 2.8399504071290056]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/20.jpg",
+      "links": [20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "names": ["18", "19", "17"],
+      "modals": [],
+      "positions": [
+        [64.61470600462967, -25.66732216952064, 39.57231807182782],
+        [-49.77760496522284, -20.32689286978853, -59.23552554998532],
+        [79.9498879128276, -2.498104776636851, 1.2707919766229965]
+      ],
+      "nextCameraPositions": [
+        [1.5171331139933846, 0.25036901420592145, 4.758741689895584],
+        [-1.10276490264616, 0.119431943268624, -4.87643779622163],
+        [4.9567877522317945, -0.3135144181605058, -0.5847767855603812]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/21.jpg",
+      "links": [18, 19, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "names": ["17"],
+      "modals": [],
+      "positions": [
+        [77.50540413669222, -6.640693952500557, 18.672266344336354]
+      ],
+      "nextCameraPositions": [
+        [4.9316446109980205, -0.4797259311200999, -0.677306770839552]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/22.jpg",
+      "links": [17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/23.jpg",
+      "links": [21, 23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/24.jpg",
+      "links": [22, 24],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/25.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/25.jpg",
+      "links": [23, 25],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/26.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/26.jpg",
+      "links": [24, 26],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 26,
+      "name": "",
+      "names": ["0", "27"],
+      "modals": [
+        {
+          "title": "the street that leads to the market",
+          "text": "It depicts the street that leads to the market and its outer square in addition to the market from the interior and what it contains.",
+          "image": null,
+          "position": [
+            63.84161505358673, -6.385638280665797, -47.78401218791523
+          ]
+        }
+      ],
+      "positions": [
+        [-2.169684300256554, -1.9886679673826777, 79.94484148104497],
+        [61.63155869556082, -28.57135974500209, -42.25006964200177]
+      ],
+      "nextCameraPositions": [
+        [0.27904285849280147, -0.09125154830690956, 4.992375055587046],
+        [-1.5816016022417279, -0.8012708550022181, -4.676163154371585]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/27.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/27.jpg",
+      "links": [0, 27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 27,
+      "name": "",
+      "names": ["26", "28", "29", "30"],
+      "modals": [],
+      "positions": [
+        [28.588904265009038, -18.900987072208103, 72.28601005934036],
+        [-50.608116497171714, -14.60455441786384, -60.2110084996177],
+        [-70.9304840588795, -28.55205138683166, -23.526300228753612],
+        [0.7064583277072344, -28.54551786561632, -74.72947434641621]
+      ],
+      "nextCameraPositions": [
+        [-3.605346508525435, 0.0862510746779561, 3.46468436703437],
+        [4.906223549844674, -0.3497503786575556, -0.9036844632782064],
+        [3.906238523752916, -0.010266535524826821, -3.1226904507794173],
+        [4.976315665725766, 0.10322223900053576, 0.48541530880273054]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/28.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/28.jpg",
+      "links": [26, 28, 29, 30],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 28,
+      "name": "",
+      "names": ["27", "31"],
+      "modals": [],
+      "positions": [
+        [-71.34351115730323, -16.897055385921934, 32.006764046206285],
+        [72.55908260514268, -30.485777402286054, -14.34004593280764]
+      ],
+      "nextCameraPositions": [
+        [2.2613408993682294, 0.2662249586868034, 4.452579259913148],
+        [3.790961893032418, 0.1842565084636172, 3.2564793753771695]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/29.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/29.jpg",
+      "links": [27, 31],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 29,
+      "name": "",
+      "names": ["27"],
+      "modals": [],
+      "positions": [
+        [-54.98428051970152, -20.408763119035143, 54.406353428240045]
+      ],
+      "nextCameraPositions": [
+        [4.75160497926849, -0.5600401461364491, 1.4555430647350684]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/30.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/30.jpg",
+      "links": [27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 30,
+      "name": "",
+      "names": ["27"],
+      "modals": [],
+      "positions": [
+        [-73.51889788691558, -29.003671434747442, -12.393494522336336]
+      ],
+      "nextCameraPositions": [
+        [-1.3247974915499934, -0.6569572981817329, 4.7773757621041915]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/31.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/31.jpg",
+      "links": [27],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 31,
+      "name": "",
+      "names": ["28", "32", "35"],
+      "modals": [],
+      "positions": [
+        [-78.30676722907721, -16.2667067081289, 1.812310315459184],
+        [-45.733135502439225, -19.419529779783876, 62.699299756251705],
+        [59.67813627686596, -17.64655642269053, 50.268868165270014]
+      ],
+      "nextCameraPositions": [
+        [-4.988643647801481, 0.1318028095183991, 0.3256731985365277],
+        [4.909864114739906, -0.5764628277140247, -0.7555960830002275],
+        [4.581338590905384, -0.10754063493470187, -2.0024415559288937]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/32.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/32.jpg",
+      "links": [28, 32, 35],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 32,
+      "name": "",
+      "names": ["31", "33", "34"],
+      "modals": [],
+      "positions": [
+        [-62.93595286359372, -48.00941647675772, 11.575913630872483],
+        [-39.509429777786615, -50.434676299306204, -47.90812451865585],
+        [58.79675350667569, -53.81081986708427, 6.868584423599487]
+      ],
+      "nextCameraPositions": [
+        [3.5007228186477604, -0.6085545275677717, -3.519176266055405],
+        [2.7879405477711026, -0.220973069778231, 4.145908689553904],
+        [-0.23971062466159587, 0.5429473510351662, 4.965656799258308]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/33.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/33.jpg",
+      "links": [31, 33, 34],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 33,
+      "name": "",
+      "names": ["32"],
+      "modals": [],
+      "positions": [
+        [-29.329721335963043, -61.360498131741636, -42.12477566772278]
+      ],
+      "nextCameraPositions": [
+        [2.794699243308119, -0.36522325108049764, 4.131134054217466]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/34.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/34.jpg",
+      "links": [32],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 34,
+      "name": "",
+      "names": ["32"],
+      "modals": [],
+      "positions": [
+        [-3.8172769580787613, -48.85617151655526, -63.23245140785657]
+      ],
+      "nextCameraPositions": [
+        [-4.131878517073708, -0.8757414750778848, -2.6778082916006536]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/35.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/35.jpg",
+      "links": [32],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 35,
+      "name": "",
+      "names": ["31", "36"],
+      "modals": [
+        {
+          "title": "Al Faw Village market",
+          "text": "It depicts Al Faw Village market from the center area inside. The image includes an obelisk, a well, several drinking fountains at the edges of the entrances to stores, and several shops, stores, or residential units that may be used for rest and sleep or as warehouses. ",
+          "image": null,
+          "position": [
+            63.65575299782191, -7.975370812141866, -47.793080883803746
+          ]
+        }
+      ],
+      "positions": [
+        [-63.942320535404065, -18.639772829381833, 44.314540763651905],
+        [35.73603939297847, -49.06129339556542, -52.11300210633068]
+      ],
+      "nextCameraPositions": [
+        [-3.9972442319678545, -1.1652333509883126, 2.7702473256617868],
+        [4.021022084000615, -0.18857286163837012, -2.96746055296863]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/36.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/36.jpg",
+      "links": [31, 36],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 36,
+      "name": "",
+      "names": ["35", "37"],
+      "modals": [
+        {
+          "title": "Al Faw Village market",
+          "text": "It depicts the 'well' inside the market that is used daily to provide travelers, merchants, and shopkeepers with water.",
+          "image": null,
+          "position": [
+            73.84387355130428, -30.73740210074414, -1.4609793676980851
+          ]
+        }
+      ],
+      "positions": [
+        [-48.966852687897784, -29.296644822322353, 56.069545652458196],
+        [67.46753570773012, -14.096633631488443, -40.61103982247236]
+      ],
+      "nextCameraPositions": [
+        [-3.7646079095852745, -0.26942014624708616, 3.281027358842991],
+        [3.7088273730046986, -0.624751760361635, -3.2961015173638266]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/37.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/37.jpg",
+      "links": [35, 37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 37,
+      "name": "",
+      "names": ["36", "38", "39", "40"],
+      "modals": [
+        {
+          "title": "Stores Or Rooms",
+          "text": "It depicts the outer and inner 'stores or rooms' of the market",
+          "image": null,
+          "position": [37.52111898898069, 0.3327989657241863, 70.65334305140735]
+        }
+      ],
+      "positions": [
+        [-67.21435629380457, -24.987307772373313, 35.46413354326978],
+        [43.33893402444649, -40.92426526060586, -53.355237045494675],
+        [5.079871878296979, -3.79391022691122, 79.7473583046292],
+        [66.40241104880198, -7.469138214006682, 43.986040864377536]
+      ],
+      "nextCameraPositions": [
+        [-3.61250307377578, -0.25336398718444547, 3.4490040141395255],
+        [-0.7514430763460748, -0.3342916976205295, -4.932908150523943],
+        [4.151032560768868, -0.4669203337276131, 2.7497117192499214],
+        [-4.3379840061750325, 0.06744968222289495, 2.4874375891928757]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/38.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/38.jpg",
+      "links": [36, 38, 39, 40],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 38,
+      "name": "",
+      "names": ["37"],
+      "modals": [],
+      "positions": [
+        [0.5583240488772322, -51.064716423108536, 61.578592226200165]
+      ],
+      "nextCameraPositions": [
+        [-1.5845812325988322, -0.08928262893511241, 4.7424815642296405]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/39.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/39.jpg",
+      "links": [37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 39,
+      "name": "",
+      "names": ["37"],
+      "modals": [],
+      "positions": [
+        [-42.075769922946144, -29.853885922521666, -61.14094446762373]
+      ],
+      "nextCameraPositions": [
+        [-1.7988576532721448, -1.3402803847650278, -4.469648765962528]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/40.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/40.jpg",
+      "links": [37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 40,
+      "name": "",
+      "names": ["37"],
+      "modals": [],
+      "positions": [
+        [58.37039057670501, -38.94822639599871, -38.415793291374584]
+      ],
+      "nextCameraPositions": [
+        [-4.317138374101242, -0.5603110436327488, -2.4613752763115335]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/41.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/41.jpg",
+      "links": [37],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 41,
+      "name": "",
+      "names": ["45", "42"],
+      "modals": [
+        {
+          "title": "Cemeteries of Al Faw",
+          "text": "It depicts the 'Cemeteries of Al Faw' and its exterior and interior design.",
+          "image": null,
+          "position": [-14.85160713311174 , -34.162963433974255 , -70.79662212739623]
+        }
+      ],
+      "positions": [
+        [-12.028388844206706 , -27.336031865214974 , 74.21522238296669],
+        [0.8882484054454273 , -11.920670350436259 , -79.10087637215618 ]
+      ],
+      "nextCameraPositions": [
+        [2.801636831806319 , 0.6607639533879005 , 4.0895259527433545],
+        [3.43301725319609 , 0.07085463357666982 , -3.635845516210867]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/42.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/42.jpg",
+      "links": [45, 42],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 42,
+      "name": "",
+      "names": ["41"],
+      "modals": [],
+      "positions": [
+        [-44.36984647469452 , -14.652965927347445 , 64.93417684871903]
+      ],
+      "nextCameraPositions": [
+        [-0.48903448020801704 , -0.8474931826802092 , 4.904345118369039]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/43.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/43.jpg",
+      "links": [41, 43],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 43,
+      "name": "",
+      "names": ["0", "44", "45"],
+      "modals": [],
+      "positions": [
+        [-45.87166633570054, -10.106994586837507, 64.75707604335207],
+        [75.10293694797146, -27.459339352720306, -2.3180927026017732],
+        [-48.04109919766689, -4.426069273526902, -63.81459635806337]
+      ],
+      "nextCameraPositions": [
+        [-4.127642589247952 , -0.6870411012401644 , 2.738711674898466],
+        [-4.910568131736576 , 0.2767884669689691 , -0.9053779463396042],
+        [-2.5156462671982323 , 0.07079974370869989 , -4.32163299138351]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/44.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/44.jpg",
+      "links": [0, 44, 45],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 44,
+      "name": "",
+      "names": ["43"],
+      "modals": [],
+      "positions": [
+        [65.06859909291151 , -11.535912856918555 , 45.08702847072784]
+      ],
+      "nextCameraPositions": [
+        [ -4.997922056757453 , 0.07079974370868101 , -0.16050846849973857]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/45.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/45.jpg",
+      "links": [43],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 45,
+      "name": "",
+      "names": ["43", "41","46"],
+      "modals": [],
+      "positions": [
+        [27.33565957322775 , -11.291568846759581 , 74.3310311939245],
+        [-55.36576874202549 , -24.161235732219197 , -52.44717675121677],
+        [-23.882701376694683 , -38.15667965837727 , 66.1326272128689]
+      ],
+      "nextCameraPositions": [
+        [2.77716961148383 , 0.022160845398235304 , 4.158946778160787],
+        [-0.8145577223153023 , 0.3623315080315243 , -4.920895452343619],
+        [-4.862757341525838 , -0.16572323250076731 , 1.1559097305750325]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/46.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/46.jpg",
+      "links": [43,41, 46],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 46,
+      "name": "",
+      "names": ["45", "47"],
+      "modals": [],
+      "positions": [
+        [60.3020931689972 , -47.824837084733424 , -21.823898069157348],
+        [-57.785932935159444 , -49.04869759719515 , 25.590061127493282]
+      ],
+      "nextCameraPositions": [
+        [ 1.797421527821115 , 0.054587294576495166 , -4.666507959511909],
+        [-3.5953441439735103 , -0.5764628277140342 , -3.4280011015533978]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/47.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/47.jpg",
+      "links": [45, 47],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 47,
+      "name": "",
+      "names": ["46"],
+      "modals": [],
+      "positions": [
+        [47.307282207876824 , -40.701192149179406 , 50.05271238820691]
+      ],
+      "nextCameraPositions": [
+        [4.663223983987357 , -1.5256366528219099 , -0.9678715494958118]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/48.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/48.jpg",
+      "links": [46],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 48,
+      "name": "",
+      "names": ["0", "50"],
+      "modals": [],
+      "positions": [
+        [-76.0921084275401, -19.024967704247704, -15.744257638278755],
+        [49.89382319655657, -54.77692234752479, -30.165132100501054]
+      ],
+      "nextCameraPositions": [
+        [3.3251104067211648, -0.026833621352667546, 3.7353609193050814],
+        [-4.522329663588443, -1.2553301755417177, -1.727044012697546]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/49.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/49.jpg",
+      "links": [0, 50],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 49,
+      "name": "",
+      "names": ["50"],
+      "modals": [],
+      "positions": [
+        [73.79537302629856, -16.969412474922212, 25.809338810633758]
+      ],
+      "nextCameraPositions": [
+        [4.401481925194787, -1.413094010918609, 1.9079105419493727]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/50.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/50.jpg",
+      "links": [50],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 50,
+      "name": "",
+      "names": ["48", "49", "51", "52", "53"],
+      "modals": [],
+      "positions": [
+        [68.08639450972224, 27.61018648005633, 31.65060022937426],
+        [-61.1896744696249, -47.102608544201594, -20.9047366955369],
+        [28.058747568509343, -60.898654439565874, 43.63370923968876],
+        [60.1214275211291, -44.13527029837469, 28.9366874086809],
+        [53.09387077902663, -59.16952482088185, -8.935783560928131]
+      ],
+      "nextCameraPositions": [
+        [-4.926823018548397, -0.8012306778796977, -0.30731873082859273],
+        [-3.7408938794244326, -0.2794334350123318, -3.307208852775105],
+        [-4.8302290698931145, -0.6477176319110326, -1.122207404744352],
+        [1.1571500690460244, 0.5076966950416648, -4.838723823607062],
+        [-4.786809057373669, 0.14503391102374416, -1.4406334268267387]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/51.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/51.jpg",
+      "links": [48, 49, 51, 52, 53],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 51,
+      "name": "",
+      "names": ["50"],
+      "modals": [],
+      "positions": [
+        [71.34212705128161, -22.091134217399006, 28.672682233518735]
+      ],
+      "nextCameraPositions": [
+        [-0.6762840839169086, -1.858305549751023, -4.593401874340761]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/52.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/52.jpg",
+      "links": [50],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 52,
+      "name": "",
+      "names": ["50"],
+      "modals": [],
+      "positions": [
+        [-31.478947659956305, -33.51156341458922, 65.46671659254329]
+      ],
+      "nextCameraPositions": [
+        [-4.679779998472476, -1.0878702147324588, -1.3878753616182196]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/53.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/53.jpg",
+      "links": [50],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 53,
+      "name": "",
+      "names": ["50"],
+      "modals": [],
+      "positions": [[72.9983474013653, -29.28721740124151, 14.606169355402113]],
+      "nextCameraPositions": [
+        [-4.588388430444495, -1.667470371795655, 1.0845435114087238]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/54.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alfaw/lq/54.jpg",
+      "links": [50],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

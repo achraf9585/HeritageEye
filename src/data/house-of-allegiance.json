@@ -1,0 +1,561 @@
+{
+  "infos": {
+    "id": "house-of-allegiance",
+    "title": "House of Allegiance",
+    "shortDescription": "Bayt Al-Bay'ah (House of Allegiance) is one of the historical monuments and tourist attractions in the Al-Ahsa Governorate. It is located in the Al-Kut district in the heart of Al-Hofuf city and was constructed in 1203 AH (1789). The House was the place where the inhabitants of Al-Ahsa swore allegiance to the founding King Abdulaziz bin Abdurrahman, may his soul rest in peace. He stayed in the same house where the people of Al-Ahsa pledged allegiance to him on May 4, 1913. The House has been renovated and turned into a museum to tell the story of Al-Ahsa's people's allegiance to the Founding King.",
+    "longDescription": "Bayt Al-Bay'ah (House of Allegiance) is one of the historical monuments and tourist attractions in the Al-Ahsa Governorate. It is located in the Al-Kut district in the heart of Al-Hofuf city and was constructed in 1203 AH (1789). The House was the place where the inhabitants of Al-Ahsa swore allegiance to the founding King Abdulaziz bin Abdurrahman, may his soul rest in peace. He stayed in the same house where the people of Al-Ahsa pledged allegiance to him on May 4, 1913. The House has been renovated and turned into a museum to tell the story of Al-Ahsa's people's allegiance to the Founding King.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/allegiance_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/house_of_allegiance.png",
+      "url": "/images/sites/house_of_allegiance.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "Internal Courtyard",
+      "names": [
+        "Water Well",
+        "Womens Room",
+        "Kitchen",
+        "Historical documents",
+        "The story of the annexation of Al-Ahsa",
+        "The Allegiance Room",
+        "Al-Jissah"
+      ],
+      "modals": [
+        {
+          "title": "Al-Hoi",
+          "text": "The courtyard or yard 'Housh' of the house.\n It is usually located in the center of the house, just as the living room is in modern homes, and provides access to all house facilities, including the rooms, kitchen, second floor, and roof.",
+          "image": null,
+          "position": [9.890333319313063, 5.810980289954953, 84.12148248160301]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/jassah.jpg",
+          "position": [
+            -60.80988893630645, -9.272401503689235, 58.516578658602874
+          ]
+        }
+      ],
+      "positions": [
+        [53.408542266304806, -1.3216572980613817, -65.98326177883914],
+        [25.549168383111546 , -0.9273310337631826 , 80.95918710815306],
+        [ 84.15763300232382 , -3.128673642756063 , 10.757050423373814],
+        [-81.49441037501717 , -3.6778147367107725 , -23.519028073422433 ],
+        [-17.96817274932789 , -4.208018884455449 , -82.87006256933853],
+        [-17.72344085151028, -0.7930148794398517, 83.02566333239382],
+        [-43.87140522850171, -3.178756529812727, 72.61683902650105]
+      ],
+      "nextCameraPositions": [
+        [-0.06571893932381645, -0.008396742053530592, 0.07490337600561804],
+        [-0.018881621186374726, -0.023228549368063157, 0.09541445842025038],
+        [-0.09406878713625247, -0.00414776536718226, 0.0336728277573063],
+        [-0.026945254320025584, -0.00947957415911141, 0.09583366289248807],
+        [-0.09687165126469506, -0.006980411441062035, 0.023815059046006733],
+        [0.07132618545082088, -0.028981927640079876, -0.06381710694868793],
+        [-0.0003393696794526222, 0.01075651144711753, 0.0994192249502514]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/6.jpg",
+      "links": [1, 7, 6, 8, 9, 11, 10],
+      "cameraPosition": [
+        -0.017758343315443837, -0.004979652528071266, 0.09828450693466648
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Water Well",
+      "names": ["Internal Courtyard", "Entry"],
+      "modals": [
+        {
+          "title": "The Well",
+          "text": "It is the source of water, and some people used to dig wells in their homes so they could drink and use water for cooking and cleaning.",
+          "image": null,
+          "position": [
+            -70.87773479573573, 10.808615233365657, 45.47010608039539
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/bir1.png",
+          "position": [
+            -60.01900278034861, 11.183136681242328, -58.99717585801171
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/birmap1.png",
+          "position": [14.748900387962232, 8.53778943161787, -83.17202708223074]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/birmap2.png",
+          "position": [
+            35.160821522640234, 6.6132136564487265, -76.99345449443871
+          ]
+        }
+      ],
+      "positions": [
+        [70.73654722919656, -0.2643417099533769, -46.94977113418152],
+        [5.991892448751876, -2.6429942883260367, 84.64704251227249]
+      ],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/5.jpg",
+      "links": [0, 2],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "Entry",
+      "names": ["AlMajliss Entry", "Water Well"],
+      "modals": [
+        {
+          "title": "Entrance",
+          "text": "A vestibule leading to the Majlis, the roof and the courtyard.",
+          "image": null,
+          "position": [
+            -23.17857826695882, -17.95433749769769, -79.6768804267664
+          ]
+        }
+      ],
+      "positions": [
+        [-11.258367197513953, -8.297008055922754, -83.74018644214912],
+        [-63.41390644758426, -2.758601439900161, 56.38330060534602]
+      ],
+      "nextCameraPositions": [
+        [-0.018654466559745016, -0.014416491941473887, -0.09718114857045458],
+        [0.06894343614837127, 0.0017078410611910172, -0.07241468007914663]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/4.jpg",
+      "links": [3, 1],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "AlMajliss Entry",
+      "names": ["AlMajliss", "Entry"],
+      "modals": [],
+      "positions": [
+        [-50.61877296710131, -14.849054117401336, -66.52259326817875],
+        [14.813299753694709, -6.212697271424856, 83.36653131215681]
+      ],
+      "nextCameraPositions": [
+        [-0.07247556643937943, -0.01255728160404612, 0.06774663790925552],
+        [-0.08531017365101527, -0.0057375119460209845, 0.051858029545123294]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/1.jpg",
+      "links": [4, 2],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "AlMajliss",
+      "names": ["Entry", "AlMajliss 2"],
+      "modals": [
+        {
+          "title": "Majlis:",
+          "text": "It is a room used to receive guests. It has Arabic floor seating with cotton cushions and backrest pillows. The majlis is furnished with mats and carpets and includes a (wejar), a fire stove used to prepare tea and coffee using wood or coal. People in the house usually gather around (wejar), especially in the winter, to enjoy the warmth and drink hot drinks such as coffee, tea, milk, and ginger. It also includes (kumar), which is usually placed next to the (wejar). The (kumar) is a set of shelves on which coffee pots, kettles, and incense burners are placed.",
+          "image": null,
+          "position": [
+            -59.2319562401376, 1.9988866790953217, 60.791362972140696
+          ]
+        }
+      ],
+      "positions": [
+        [13.33331029399729, -10.923329693856038, -83.13190545755168],
+        [-44.557856283361374, -48.96545390906336, 53.1506516132277]
+      ],
+      "nextCameraPositions": [
+        [-0.08531017365101527, -0.0057375119460209845, 0.051858029545123294],
+        [0.05932414119678541, -0.03283343447341626, -0.07350246153662979]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/2.jpg",
+      "links": [2, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "AlMajliss 2",
+      "names": ["Entry", "AlMajliss"],
+      "modals": [
+        {
+          "title": "Majlis:",
+          "text": "It is a room used to receive guests. It has Arabic floor seating with cotton cushions and backrest pillows. The majlis is furnished with mats and carpets and includes a (wejar), a fire stove used to prepare tea and coffee using wood or coal. People in the house usually gather around (wejar), especially in the winter, to enjoy the warmth and drink hot drinks such as coffee, tea, milk, and ginger. It also includes (kumar), which is usually placed next to the (wejar). The (kumar) is a set of shelves on which coffee pots, kettles, and incense burners are placed.",
+          "image": null,
+          "position": [-92, 1, 80]
+        }
+      ],
+      "positions": [
+        [29.691517667642707, -6.455778603930519, -79.27639435045653],
+        [58.281776685579636, -33.055720879929346, -52.139848709796134]
+      ],
+      "nextCameraPositions": [
+        [-0.08531017365101527, -0.0057375119460209845, 0.051858029545123294],
+        [0.04952534794518607, -0.01686847883397639, -0.08522144291629852]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/3.jpg",
+      "links": [2, 4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "kitchen",
+      "names": ["Internal Courtyard"],
+      "modals": [
+        {
+          "title": "The Kitchen",
+          "text": "It is where food is cooked and prepared. It contains a variety of cooking implements, including two wooden funnels for pouring liquids, a wooden masher for mixing harees, a copper saucepan, a wooden ladle, and a tray with the inscription 'The climate, 1353 AH, hospitality of Ibn Saud' in Arabic. ",
+          "image": null,
+          "position": [-84.10942103575465, 8.096269013023374, 8.25019521580629]
+        }
+      ],
+      "positions": [[73.39021019893724, -0.87601571746328, 42.67457842109947]],
+      "nextCameraPositions": [
+        [-0.05425572644469381, -0.007871834573755673, -0.08363223283161797]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/13.jpg",
+      "links": [0],
+      "cameraPosition": [-60, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "Womens Room",
+      "names": ["Internal Courtyard"],
+      "modals": [
+        {
+          "title": "The Women’s Room",
+          "text": "This is a room where women can be welcomed and hosted. This room contains women's clothing (the dress) and children's toys, such as: (zanboor), a baby walker, and (menz): a palm leaf children's bed, (fanar 'light') lamp, and the bride basket that is used to store the clothes. The room is furnished with mats, carpets, cushions, and cotton mattresses.",
+          "image": null,
+          "position": [-53.10542031356354, 6.260575096503303, 65.94413948775735]
+        }
+      ],
+      "positions": [
+        [-78.62331883630239, 0.7053394718996945, -32.02945880583249]
+      ],
+      "nextCameraPositions": [
+        [-0.004941329509266304, -0.006097109408662458, -0.09969156694294472]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/12.jpg",
+      "links": [0, 2],
+      "cameraPosition": [-5, 0.1, -1]
+    },
+    {
+      "id": 8,
+      "name": "historique documents",
+      "names": ["Internal Courtyard"],
+      "modals": [
+        {
+          "title": "The Historical Documents:",
+          "text": "A room containing correspondence between King Abdulaziz bin Abdulrahman Al Saud and Al-Mulla family. One letter stated, 'In the name of Allah, the Most Gracious, the Most Merciful, this letter is sent by Abdulaziz bin Abdulrahman Al-Faisal to His Excellency the honorable Sheikh Ahmed bin Abdullatif Al-Mulla, peace and blessings of Allah be upon you. Your letter dated 25 Shaaban 1349 AH (14 January 1931 CE) was received. We are aware of the information you provided and delighted with the news that you shared. Regarding news from our side, Allah be praised, everything is fine and there are no noteworthy events to mention. We praise Allah for His blessings, and may they continue to flow. This is what must be stated, and may Allah protect you and grant you peace; it was written on the 22nd of Ramadan, 1349 AH (February 9, 1931 CE).'This room is similar to a residential apartment, with two lower and upper rooms referred to as (Kindia). ",
+          "image": null,
+          "position": [
+            -37.067719595363116, -20.799146598071587, 73.49414714650045
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document1.png",
+          "position": [
+            -75.40966531729453, -13.778213759391644, -36.4904535780817
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document2.png",
+          "position": [
+            -83.41229161346514, -15.67689375279522, 2.152814449463852
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document3.png",
+          "position": [
+            -70.20459381077355, -13.507696815154691, 45.79156182763544
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document4.png",
+          "position": [
+            -50.16231444683078, -9.964023179763965, 67.76776852907582
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document5.png",
+          "position": [
+            -24.975554545076676, -8.050868370143442, 80.74289562340779
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document6.png",
+          "position": [3.9566477402988474, -8.86980848275424, 84.34264304690984]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document7.png",
+          "position": [64.9713336639284, -8.048158461085494, 54.05518427788164]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document8.png",
+          "position": [
+            80.4236289406858, -14.050905005181072, -23.294247713679514
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/document9.png",
+          "position": [
+            61.52714471930011, -12.419672194954023, -57.16792986684219
+          ]
+        }
+      ],
+      "positions": [
+        [-12.523264972835726, -9.1192569714555, -83.47464876660881]
+      ],
+      "nextCameraPositions": [
+        [0.05860734208919085, -0.00018453932612502193, 0.08102558483884975]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/8.jpg",
+      "links": [0],
+      "cameraPosition": [30, 0, -15]
+    },
+    {
+      "id": 9,
+      "name": "The story of the annexation of Al-Ahsa",
+      "names": ["Internal Courtyard"],
+      "modals": [
+        {
+          "title": "The story of the annexation of Al-Ahsa:",
+          "text": "a room with information boards in Arabic and English telling visitors about Bait Al-Mulla 'Al-Mulla House' (Al-Bay'ah 'Allegiance'); the story of King Abdulaziz bin Abdulrahman Al Saud entering Al-Ahsa. The room is furnished with mats known locally as (Al-Madda) and has two wooden windows overlooking (Al-Hoi). The boards indicate that the late King Abdulaziz entered Al-Ahsa on the night of the twenty-eighth of Jumada I in the year 1331 AH / 1913 CE, and he proceeded with (600) men to the western side of the Kut district, also known as Nakhil (Al-Sifah), where some Al-Ahsa residents were waiting for him. According to the agreed-upon plan, he led a select group of his men toward a pre-prepared opening in the western wall of Kut, and the rest of his men followed in small groups; once his men's presence in the Kut district was complete, he divided them into three teams. The king then proceeded to the house of Sheikh Abdullatif bin Abdulrahman Al-Mulla, who had gathered the notables of Al-Ahsa in his house. And after discussions, everyone pledged allegiance to King Abdulaziz in accordance with the Book of Allah and the Sunnah (tradition) of His Prophet - peace be upon him - and vowed to listen and obey him. The herald shouted from the Kut wall early in the morning (Allah is the ruler of everything, and Abdullaziz bin Abdulrahman Al Saud is the ruler of our land). The following day, 1200 soldiers were deported to Al-Uqair prior to their transport to Bahrain. King Abdulaziz allowed them to carry their weapons, with the exception of ammunition and cannons.",
+          "image": null,
+          "position": [
+            -79.37657370990263, -23.591786711331327, 18.729579435840193
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/kingstory.png",
+          "position": [
+            -81.21025256162858, 14.639332861007224, 19.96483939983326
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story1.png",
+          "position": [
+            -7.5827256782082895, -11.674421239577168, -83.75094124850149
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story22.png",
+          "position": [-50.66445433249067, -10.03647947524222, -67.382432034871]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story32.png",
+          "position": [
+            -71.61107652807868, -11.130985956327564, -44.22629161629649
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story41.png",
+          "position": [-83.0166060935259, -9.76310319863144, -14.86387999969163]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story51.png",
+          "position": [
+            -67.02420883825573, -7.318104382672475, 51.59661595347309
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story61.png",
+          "position": [
+            -42.96427099728327, -6.200920356594648, 72.96320993763345
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story7.png",
+          "position": [
+            -11.250417892333301, -7.298443890601889, 83.8341864278744
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/story8.png",
+          "position": [32.42257611412342, -7.780354417454297, 78.07850308031445]
+        }
+      ],
+      "positions": [
+        [82.14342541481406, -8.706072197422309, -19.61305606003696]
+      ],
+      "nextCameraPositions": [
+        [0.007266107758863363, -0.005737511946021332, 0.099570500825826]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/7.jpg",
+      "links": [0],
+      "cameraPosition": [30, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "Al-Jissah",
+      "names": ["Internal Courtyard"],
+      "modals": [
+        {
+          "title": "Jussah",
+          "text": "It is a small built storage unit, approximately two meters high and one meter wide, with a small door in the front and a small hole at the bottom through which the liquid (molasses) secreted by dates that tastes and looks like honey leaks, and it results from the accumulation of wet dates inside the Jussah.",
+          "image": null,
+          "position": [
+            -45.575628815674676, -1.423637748666597, 71.6159571158301
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/degla.png",
+          "position": [
+            -26.44800638198166, 50.001330951127635, 63.31176716483645
+          ]
+        }
+      ],
+      "positions": [[43.79366664891402, -8.24014380516069, -72.26496240581648]],
+      "nextCameraPositions": [
+        [0.05710400925255853, -0.0040836917913780624, -0.08199058231673141]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/9.jpg",
+      "links": [0],
+      "cameraPosition": [30, 0, 0]
+    },
+    {
+      "id": 11,
+      "name": "The Allegiance Room",
+      "names": ["Bedroom(dar)", "Internal Courtyard"],
+      "modals": [
+        {
+          "title": "Al- Bay'ah (Allegiance) Room",
+          "text": "In this room, the late founder king received the peaple of Al-Ahsa who flocked to the house of Al-Mulla to pledge allegiance to king Abdulaziz bin Abdulrahman Al Saud in accordance to the Book of Allah and the Sunnah of his Prophet -peace be upon him - and on listening and obedience in hardship and ease. This room is a work of art with white plaster and decorations covering its walls; it is furnished with carpets, mats, cushions, and cotton mattresses; and its ceiling is decorated with palm trunks.",
+          "image": null,
+          "position": [
+            38.61652452811683, -26.119256405232264, -70.9546226697534
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/bayaaRoom.png",
+          "position": [
+            7.442900262928382, -18.277689079897577, 82.57444712242821
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/cheikhbayaa.png",
+          "position": [
+            -82.11231570210698, -18.752313842649034, -10.67372173069494
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/kingBayaa.png",
+          "position": [
+            -78.09447296821298, -21.16119151265033, 25.719005921341303
+          ]
+        }
+      ],
+      "positions": [
+        [79.58666129392607, -18.212613597205184, -23.286778438521438],
+        [-56.214143869749506, -3.5405858224050313, 63.52514683985617]
+      ],
+      "nextCameraPositions": [
+        [0.030801412366909545, -0.01594192919759455, 0.093793005547655],
+        [0.03497645378639447, -0.008311467000376516, -0.0933143461469341]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/10.jpg",
+      "links": [12, 0],
+      "cameraPosition": [-16, 0, 10]
+    },
+    {
+      "id": 12,
+      "name": "Bedroom (dar)",
+      "names": ["The Allegiance Room"],
+      "modals": [
+        {
+          "title": "Bedroom (dar)",
+          "text": "",
+          "image": null,
+          "position": [30.26335034893743, -14.57746706465758, 77.97202754601352]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/bedroom.png",
+          "position": [
+            -64.25070369308199, -30.828178831957192, 46.146294161597076
+          ]
+        },
+        {
+          "title": "",
+          "text": "",
+          "image": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/photos/kingbedroom.png",
+          "position": [72.2258726105246, -3.428560357655651, 44.493575935433476]
+        }
+      ],
+      "positions": [
+        [29.331457172635496, -20.06057004980419, -77.1054417626068]
+      ],
+      "nextCameraPositions": [
+        [-0.0971465486391373, -0.01778841553341459, 0.015688223618825457]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/allegiance/lq/11.jpg",
+      "links": [11],
+      "cameraPosition": [-19, 0, -2]
+    }
+  ]
+}

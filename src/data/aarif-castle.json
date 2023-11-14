@@ -1,0 +1,616 @@
+{
+  "infos": {
+    "id": "aarif-castle",
+    "title": "Aarif Castle",
+    "shortDescription": "The construction of the A'arif Fortress dates back to the early 13 th century AH. It is named after A'arif Mountain, on which it is located. It was built at that time to protect the area and inform fasting locals of the times to break their fast during Ramadan using a cannon. The Fortress consists of a number of towers, stores, rooms, and facilities and typically contains inscriptions on its wooden gates. It was built out of stone, mud, wood, and plaster.",
+    "longDescription": "The construction of the A'arif Fortress dates back to the early 13 th century AH. It is named after A'arif Mountain, on which it is located. It was built at that time to protect the area and inform fasting locals of the times to break their fast during Ramadan using a cannon. The Fortress consists of a number of towers, stores, rooms, and facilities and typically contains inscriptions on its wooden gates. It was built out of stone, mud, wood, and plaster.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/aarif_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/aarif.png",
+      "url": "/images/sites/aarif.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "1",
+      "names": ["The granite Stone stair 2"],
+      "modals": [
+        {
+          "title": "The granite stone stair 1",
+          "text": "The granite stone stair leads to the fort gate, which was previously a dirt road before 1996 CE",
+          "image": null,
+          "position": [
+            82.42333039854378, -11.044373654260799, -17.100480010735417
+          ]
+        }
+      ],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [-0.06416734182599418, 0.004962396638985799, 0.07653709468345009]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/1.jpg",
+      "links": [1],
+      "cameraPosition": [
+        0.09891501951101, 0.0003334609000894749, 0.014686991487865095
+      ]
+    },
+    {
+      "id": 1,
+      "name": "The granite stone stair 2",
+      "names": [
+        "The granite stone stair 2",
+        "The granite stone road",
+        "The granite stone stair 3"
+      ],
+      "modals": [
+        {
+          "title": "The granite stone stair 2",
+          "text": "The left of the image depicts the garanite stone stair leading to the fort gate.\n The right of the image depicts the granite stone stair leading to the eastern outer fort yard and the southern outer wall at the fort.",
+          "image": null,
+          "position": [
+            82.18158916861815, -15.681658988553162, -14.431977448956768
+          ]
+        }
+      ],
+      "positions": [
+        [13.529293230354703, -32.30125252788516, -77.34078684508499],
+        [83.49388988773737, -4.668345407220373, -14.662431673268706],
+        [-54.45822356087119, 4.104228049936061, 65.00359373687192]
+      ],
+      "nextCameraPositions": [
+        [-0.09355768998705678, -0.02201166885027431, -0.027612408057097165],
+        [0.07741958281197453, 0.005519893178060867, -0.06305346125727455],
+        [-0.0993375346183125, -0.0014651167441853848, -0.011397703667032235]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/2.jpg",
+      "links": [0, 4, 2],
+      "cameraPosition": [
+        -0.06417416054154881, 0.004967775080183291, 0.07653102854097958
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The granite stone stair 3",
+      "names": ["The granite stone stair 2", "The eastern yard"],
+      "modals": [],
+      "positions": [
+        [75.53544440515638, -21.675724629360555, 32.13362102701253],
+        [-84.32399277259447, -0.9267420435400987, -9.829312899291248]
+      ],
+      "nextCameraPositions": [
+        [0.06285981591431512, -0.008567133810213155, -0.07729972678797979],
+        [-0.07733628548582204, 0.009672964212708936, 0.06265407177985396]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/3.jpg",
+      "links": [1, 3],
+      "cameraPosition": [
+        -0.09932154625747289, -0.0010915689558776193, -0.011577518138152214
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The eastern yard",
+      "names": ["The granite stone stair 3"],
+      "modals": [
+        {
+          "title": "The eastern yard",
+          "text": "This image depicts the eastern yard, the fort's eastern wall, and exterior architectural details of the fort, such as the AI Tarma, which is hot water popured for defense.\n Embrasure is tiny openings in a parapet used to eject guns for defense.",
+          "image": null,
+          "position": [
+            -63.26544638911666, -23.32255262370818, 51.59023000821152
+          ]
+        }
+      ],
+      "positions": [
+        [4.751084556240151, -21.12976665469422, -82.09123069279464]
+      ],
+      "nextCameraPositions": [
+        [0.0891401536164824, -0.02523770216223913, 0.03764427450224054]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/4.jpg",
+      "links": [2],
+      "cameraPosition": [
+        0.08903775187287588, -0.02520547009863392, 0.03790729505690249
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The granite stone road",
+      "names": ["The yard 1", "The granite stone stair 2"],
+      "modals": [
+        {
+          "title": "The granite stone road",
+          "text": "This image depicts the granite stone road leading to the fort's southern outer gate made of tamarisk trees, the fort's southern wall, and architectural details such as AI Tarma and the Embrasure.\n In addition, the surface of the wall is covered with a layer of stucco to protect the wall from heavy rains.",
+          "image": null,
+          "position": [65.8424626671817, -5.404777187082594, -53.32512066070526]
+        }
+      ],
+      "positions": [
+        [65.91401920531095, 4.726660516520619, -53.3011327512227],
+        [-53.08401780840203, -19.519966111712115, 63.31720126722966]
+      ],
+      "nextCameraPositions": [
+        [0.037272216262809424, -0.005450360683630606, 0.09263409449698685],
+        [-0.0642019243970122, 0.004964953983850696, 0.07650792204509656]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/5.jpg",
+      "links": [5, 1],
+      "cameraPosition": [
+        0.07770883958709121, -0.0006705590415581809, -0.06293557500015011
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The yard 1",
+      "names": [
+        "The granite stone road",
+        "The storage room",
+        "Al Baaekah room",
+        "middle yard 1"
+      ],
+      "modals": [
+        {
+          "title": "The yard 1",
+          "text": "This image depicts the yard between the southern outer entrance gate and Al Baaekah, which served as a resting place for horses and a storage room for food and weapons.\n Also, the stairs lead to the fort's western central yard, which is between the west cannon yard and the western fort yard in front of the inner fort gate is shown.",
+          "image": null,
+          "position": [31.79073331867798, -4.841502518447942, 78.68205843378382]
+        }
+      ],
+      "positions": [
+        [-21.71193895294505, 1.4448960511951108, -82.16727556185394],
+        [42.57662055197448, -35.58621382558467, 64.25622746421509],
+        [18.2292045882153, -20.873474726423478, 80.35515754373928],
+        [-55.00357321977878, -16.964302691187957, 62.40856805966781]
+      ],
+      "nextCameraPositions": [
+        [-0.06257451911100634, -0.022665286575612356, 0.07463721821230805],
+        [0.09539656317838971, 0.00019837974618142586, -0.029990938285218875],
+        [-0.04375412397004922, 0.0019467742898222175, 0.08989875808640548],
+        [0.04100137532300345, -0.006418623712506354, -0.09098180307764546]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/6.jpg",
+      "links": [4, 6, 7, 8],
+      "cameraPosition": [
+        0.00011273318361513772, -0.00003032110500649691, 0.00022312399006349607
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The storage room",
+      "names": ["The yard 1"],
+      "modals": [
+        {
+          "title": "The storage room",
+          "text": "This image depicts the storage room located south of the fort and beneath the Al Baaekah, where food and weapons are stored.\n Also, there were soldiers to attack the enemy when entering the fort through the main gate.",
+          "image": null,
+          "position": [
+            71.25311640793157, -4.312791267404625, -45.96088808586659
+          ]
+        }
+      ],
+      "positions": [
+        [-28.8058852068355, -1.1830814741119145e-13, 79.86382771599804]
+      ],
+      "nextCameraPositions": [
+        [-0.04309046595080511, -0.012273207124839237, 0.08940123114931528]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/7.jpg",
+      "links": [5],
+      "cameraPosition": [
+        0.08392593216481925, -0.005079848371501323, -0.054135321655908786
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Al Baaekah room",
+      "names": ["The yard 1"],
+      "modals": [
+        {
+          "title": "Al Baaekah room",
+          "text": "Al Baaekah room is dedicated to use as a horse resting room.\n The horse count was approximately five.\n The horsemen's primary duty at the time was to go from the fort to the Governance Palace and notify the ruler if danger was coming to the city.",
+          "image": null,
+          "position": [
+            -37.18488418636635, 1.7100583089641772, 76.30445654499128
+          ]
+        }
+      ],
+      "positions": [
+        [-66.82699917226873, -31.116449368648098, -42.118033671076766]
+      ],
+      "nextCameraPositions": [
+        [-0.04309046595080511, -0.012273207124839237, 0.08940123114931528]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/8.jpg",
+      "links": [5],
+      "cameraPosition": [
+        -0.04379845016061993, 0.0020142029551992653, 0.08987568497643257
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Middle yard 1",
+      "names": ["The yard 1", "Canon", "Middle yard 2"],
+      "modals": [
+        {
+          "title": "Middle yard 1",
+          "text": "The left of the image depicts the middle yard and the gate leading to the western yard (the cannon).\n The right of the image depicts a bent entrance to the inner fort gate.\n The bent entrance was used to disperse the enemy if the attack was in the form of a group.",
+          "image": null,
+          "position": [
+            34.20428757432171, -15.863159299152365, -76.06863275084426
+          ]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            78.61696570787291, 18.036358484169423, -26.496650269754245
+          ]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            57.023221832166584, -8.738672641166229, 62.28962812820489
+          ]
+        }
+      ],
+      "positions": [
+        [-82.31011741449703, -17.70253516251444, 10.939598714379704],
+        [35.06824021268485, -5.120670283773145, -77.14925316702887],
+        [-75.0165418497631, -7.008532544491695, 39.13322016491286]
+      ],
+      "nextCameraPositions": [
+        [-0.025818726820204703, 0.0019467742898219976, -0.09658987221882093],
+        [-0.05493108705052212, -0.013884622541872732, -0.0824001998317826],
+        [-0.04425855119749996, -0.006507330062910488, 0.08943620799961637]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/9.jpg",
+      "links": [5, 9, 10],
+      "cameraPosition": [
+        0.041305347718121124, -0.00603141376180582, -0.09087073400121183
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Canon",
+      "names": ["Middle yard 1"],
+      "modals": [
+        {
+          "title": "Canon",
+          "text": "An image of the western yard where the cannon is located.\n The cannon is made in German and dates back to 1315 AH, as it is printed on it.",
+          "image": null,
+          "position": [
+            -46.68913341484775, -11.988795066718996, -69.88850845324116
+          ]
+        }
+      ],
+      "positions": [
+        [29.003797752564807, -14.54307918799871, 78.45564711134513]
+      ],
+      "nextCameraPositions": [
+        [-0.09595592742588277, -0.005761397351322949, 0.027554787104946264]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/10.jpg",
+      "links": [8],
+      "cameraPosition": [
+        -0.05499309000570994, -0.014121077817101287, -0.08231862008626756
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Middle yard 2",
+      "names": ["Middle yard 1", "Mihrab"],
+      "modals": [
+        {
+          "title": "Middle yard 2",
+          "text": "An image of the small middle yard shows the inner gate of the fort from the outside.\n This gate is considered the oldest one, which has remained unchanged throughout the fort's restoration.\n It was made of tamarisk trees and had layers of old iron (sheet iron).\n It is mentioned that the gate was made by the Al-Shagdali family.",
+          "image": null,
+          "position": [
+            -27.216446272918592, 11.352076105120043, 79.61410314998781
+          ]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -21.41604360459089, -10.679318067604148, 81.45744436168623
+          ]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [-71.02271638776594, 33.51036705226617, 32.26203739575908]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [-4.665784834985329, 54.64560657068736, 64.8081641029529]
+        }
+      ],
+      "positions": [
+        [50.89030020205662, -20.020124969890638, -64.94137311094151],
+        [-37.6082622564194, -5.341869961095138, 75.92820974691244]
+      ],
+      "nextCameraPositions": [
+        [-0.09595592742588277, -0.005761397351322949, 0.027554787104946264],
+        [-0.09962351810538832, -0.0018186730476260587, -0.00847626501775587]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/11.jpg",
+      "links": [8, 11],
+      "cameraPosition": [
+        -0.032209196604147984, 0.0004308460543699181, 0.09466985806365595
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mihrab",
+      "names": [
+        "Middle yard 2",
+        "Rest room",
+        "Control tower",
+        "First Floor 1",
+        "Kitchen"
+      ],
+      "modals": [
+        {
+          "title": "Mohrab",
+          "text": "An image of the fort's inner yard (the ground floor). The yard is used for prayer, as the mihrab is shown facing the qiblah on the left side of the image, and the columns are made of stone beads with a stone crown on top to distribute the weight of the first floor's ceiling. Furthermore, the left side of the image depicts the tower, as it is stated that it contains only soldiers with excellent hearing and sight.",
+          "image": null,
+          "position": [
+            -83.64322751534422, -11.473043020223683, -8.95487435268973
+          ]
+        }
+      ],
+      "positions": [
+        [84.10254200515462, -8.808408303866308, 7.562034873205961],
+        [-81.36257493822885, -6.258400411808774, 23.43019043257159],
+        [-83.54519799175569, 9.164311306867786, -12.00938344750297],
+        [-78.0277052652817, 15.919120535876576, -29.432444893324192],
+        [-71.90368427719936, -0.35304301109804553, -45.14139506037833]
+      ],
+      "nextCameraPositions": [
+        [0.05993237745418718, -0.02381383842105613, -0.0764265087017893],
+        [-0.09998409526938007, -0.001731427078110146, 0.0004276136536098601],
+        [0.015925275807774725, -0.008767193654725138, -0.098333727204184],
+        [0.08431868309555018, -0.00372834896418882, 0.05363263087928311],
+        [0.09934688839751663, -0.011177800899339518, -0.002291840480078258]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/12.jpg",
+      "links": [10, 12, 13, 15, 14],
+      "cameraPosition": [
+        -0.09991785606065375, 0.001721632760177271, -0.0036685175318562423
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Room 1",
+      "names": ["Mihrab"],
+      "modals": [
+        {
+          "title": "Room 1",
+          "text": "An image of the room located north of the fort used by the soldiers to rest and sleep.",
+          "image": null,
+          "position": [
+            -84.88623788011478, -1.4746117629100168, 0.40266451203779857
+          ]
+        }
+      ],
+      "positions": [
+        [67.86733718403227, -23.321711334879986, 45.36664329616422]
+      ],
+      "nextCameraPositions": [
+        [-0.09962351810538826, -0.0018186730476260576, -0.008476265017755866]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/13.jpg",
+      "links": [11],
+      "cameraPosition": [
+        -0.09998379020037051, -0.0017368807572556103, 0.00047428093290672544
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Room 2",
+      "names": ["Mihrab"],
+      "modals": [
+        {
+          "title": "Room 2",
+          "text": "An image of the ground floor of the fort's sole tower. When danger approached the city, the soldier used the wooden emergency stairs shown on the left side of the image to descend from the top of the tower to the bottom. The ceiling in the room is also made of tamarisk wood and palm leaves.",
+          "image": null,
+          "position": [
+            14.593579583267967, -13.882358390017338, -82.45696905393463
+          ]
+        }
+      ],
+      "positions": [
+        [-25.122235096722953, -25.972379159608703, 76.80594384302623]
+      ],
+      "nextCameraPositions": [
+        [-0.09962351810538826, -0.0018186730476260576, -0.008476265017755866]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/16.jpg",
+      "links": [11],
+      "cameraPosition": [
+        0.020398779492089347, -0.01940464065120796, -0.11525763913644203
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Room 4",
+      "names": ["Mihrab"],
+      "modals": [
+        {
+          "title": "Room 4",
+          "text": "An image of the room located south of the fort from the inside on the ground floor. The room was used for cooking. On the left side of the image is a pit in which a fire was lit to cook.",
+          "image": null,
+          "position": [
+            84.30548811476861, -9.655182197837707, -2.050930408560782
+          ]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [-35.91511989653, 68.02086934269832, -35.93432198722329]
+        },
+        {
+          "title": "Content under development",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [
+            -19.92767236383211, 63.79095523552304, -52.360403973797425
+          ]
+        }
+      ],
+      "positions": [
+        [-84.70333141685683, -5.251267761457176, 1.616792771875751]
+      ],
+      "nextCameraPositions": [
+        [-0.09962351810538826, -0.0018186730476260576, -0.008476265017755866]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/18.jpg",
+      "links": [11],
+      "cameraPosition": [
+        0.11784148311342692, -0.013495930281248633, -0.0028667728105460435
+      ]
+    },
+    {
+      "id": 15,
+      "name": "First Floor 1",
+      "names": ["Mihrab", "Room 3", "Roof Top", "First Floor 2"],
+      "modals": [
+        {
+          "title": "First Floor 1",
+          "text": "An image of the first floor depicts its tower and upper yard.   The mud staircase leading to the tower's first floor is also shown in the middle of the image. The left side of the image depicts (the toilet) gate.",
+          "image": null,
+          "position": [
+            71.01578113361248, -10.041203698884296, 45.395784422608614
+          ]
+        }
+      ],
+      "positions": [
+        [66.08441088951417, -52.84687947191021, 6.700906845409022],
+        [62.76786976581136, 25.67006722026469, 51.04984191016491],
+        [57.83720397923679, 47.468243854723355, 40.08076653828203],
+        [-32.651891638020395, -16.62724121052842, -76.56522061138119]
+      ],
+      "nextCameraPositions": [
+        [-0.09962351810538826, -0.0018186730476260576, -0.008476265017755866],
+        [0.11487319770895069, -0.012252151223029186, 0.027037139297716725],
+        [0.11476725883935948, -0.016317761441527943, 0.025282021733093844],
+        [0.05685377418443133, -0.03427544612612159, 0.09833522164879077]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/14.jpg",
+      "links": [11, 16, 17, 18],
+      "cameraPosition": [
+        0.0967797902175976, -0.003977256129308024, 0.06851880984076839
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Room 3",
+      "names": ["First Floor 1"],
+      "modals": [
+        {
+          "title": "Room 3",
+          "text": "An image of the tower's first floor. The gate leading to the inside of the tower's first floor is shown in the middle of the image. The wooden emergency stairs are depicted on the left side of the image, with an opening at the bottom for the soldier to descend from the tower's third upper floor.",
+          "image": null,
+          "position": [
+            83.7846008825773, -13.600725510228294, 0.07145366506482397
+          ]
+        }
+      ],
+      "positions": [
+        [54.685701908994474, -21.94600213150654, -61.095754208030705]
+      ],
+      "nextCameraPositions": [
+        [0.08431868309555018, -0.00372834896418882, 0.05363263087928311]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/17.jpg",
+      "links": [15],
+      "cameraPosition": [
+        0.11487872927003281, -0.011913891110790623, 0.027164506672833814
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Roof Top",
+      "names": ["First Floor 1"],
+      "modals": [
+        {
+          "title": "Roof Top",
+          "text": "An image of the roof of the sole tower in the fort. The left side of the image depicts an opening used by the soldiers to descend when they see any danger approaching the city since the mountains surround Hail on all three sides except the south side. Accordingly, Arif Fort was built on Arif mountain, located in the south of the center of Hail Old.",
+          "image": null,
+          "position": [
+            77.83072722570584, -27.390865447364412, 19.923919660692814
+          ]
+        }
+      ],
+      "positions": [
+        [29.86196375557234, -63.299249694191914, -48.02408035451405]
+      ],
+      "nextCameraPositions": [
+        [0.08431868309555018, -0.00372834896418882, 0.05363263087928311]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/19.jpg",
+      "links": [15],
+      "cameraPosition": [
+        0.11686826190642738, -0.010329709110600487, 0.017665789864503186
+      ]
+    },
+    {
+      "id": 18,
+      "name": "First Floor 2",
+      "names": ["Mihrab", "First Floor 1"],
+      "modals": [
+        {
+          "title": "First Floor 2",
+          "text": "A repeated image of the upper floor depicts the Taram used to pour the burning oil. It also depicts the inner wall coated with a layer of stucco to protect it from heavy rain, and the outer wall of the fort on top of it has triangle gutters with a layer of stucco to protect the wall from rain, and also was used for shooting. (Shooting target).",
+          "image": null,
+          "position": [
+            41.502035649256236, -14.163039739393009, 72.67622394835763
+          ]
+        }
+      ],
+      "positions": [
+        [36.32279059965786, -42.89172253735534, 63.606597188621286],
+        [20.078676761857935, -10.227985869325096, 81.83568432922954]
+      ],
+      "nextCameraPositions": [
+        [-0.09962351810538832, -0.0018186730476260587, -0.00847626501775587],
+        [0.08431868309555018, -0.00372834896418882, 0.05363263087928311]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/aarif/lq/15.jpg",
+      "links": [11, 15],
+      "cameraPosition": [
+        0.058011186964208206, -0.019796974617030928, 0.1015861981072824
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* #1EA84C */
+/* #FFF2D6 */
+/* #6F5111 */
+:root {
+  /* #region  /**=========== Primary Color =========== */
+  /* !STARTERCONF Customize these variable, copy and paste from /styles/colors.css for list of colors */
+  --tw-color-primary: 30 168 76;
+  --color-primary: rgb(var(--tw-color-primary));
+  --tw-color-secondary: 255 242 214;
+  --color-secondary: rgb(var(--tw-color-secondary));
+  --tw-color-brownish: 111 81 17;
+  --color-brownish: rgb(var(--tw-color-brownish));
+  /* #endregion  /**======== Primary Color =========== */
+  --tw-color-danger-50: 255 241 242;
+  --tw-color-danger-100: 255 228 230;
+  --tw-color-danger-200: 254 205 211;
+  --tw-color-danger-300: 253 164 175;
+  --tw-color-danger-400: 251 113 133;
+  --tw-color-danger-500: 244 63 94;
+  --tw-color-danger-600: 225 29 72;
+  --tw-color-danger-700: 190 18 60;
+  --tw-color-danger-800: 159 18 57;
+  --tw-color-danger-900: 136 19 55;
+  --color-danger-50: rgb(var(--tw-color-danger-50)); /* #fff1f2 */
+  --color-danger-100: rgb(var(--tw-color-danger-100)); /* #ffe4e6 */
+  --color-danger-200: rgb(var(--tw-color-danger-200)); /* #fecdd3 */
+  --color-danger-300: rgb(var(--tw-color-danger-300)); /* #fda4af */
+  --color-danger-400: rgb(var(--tw-color-danger-400)); /* #fb7185 */
+  --color-danger-500: rgb(var(--tw-color-danger-500)); /* #f43f5e */
+  --color-danger-600: rgb(var(--tw-color-danger-600)); /* #e11d48 */
+  --color-danger-700: rgb(var(--tw-color-danger-700)); /* #be123c */
+  --color-danger-800: rgb(var(--tw-color-danger-800)); /* #9f1239 */
+  --color-danger-900: rgb(var(--tw-color-danger-900)); /* #881337 */
+
+  --tw-color-success-50: 240 253 250;
+  --tw-color-success-100: 204 251 241;
+  --tw-color-success-200: 153 246 228;
+  --tw-color-success-300: 94 234 212;
+  --tw-color-success-400: 45 212 191;
+  --tw-color-success-500: 20 184 166;
+  --tw-color-success-600: 13 148 136;
+  --tw-color-success-700: 15 118 110;
+  --tw-color-success-800: 17 94 89;
+  --tw-color-success-900: 19 78 74;
+  --color-success-50: rgb(var(--tw-color-success-50)); /* #f0fdfa */
+  --color-success-100: rgb(var(--tw-color-success-100)); /* #ccfbf1 */
+  --color-success-200: rgb(var(--tw-color-success-200)); /* #99f6e4 */
+  --color-success-300: rgb(var(--tw-color-success-300)); /* #5eead4 */
+  --color-success-400: rgb(var(--tw-color-success-400)); /* #2dd4bf */
+  --color-success-500: rgb(var(--tw-color-success-500)); /* #14b8a6 */
+  --color-success-600: rgb(var(--tw-color-success-600)); /* #0d9488 */
+  --color-success-700: rgb(var(--tw-color-success-700)); /* #0f766e */
+  --color-success-800: rgb(var(--tw-color-success-800)); /* #115e59 */
+  --color-success-900: rgb(var(--tw-color-success-900)); /* #134e4a */
+
+  --tw-color-warning-50: 255 247 237;
+  --tw-color-warning-100: 255 237 213;
+  --tw-color-warning-200: 254 215 170;
+  --tw-color-warning-300: 253 186 116;
+  --tw-color-warning-400: 251 146 60;
+  --tw-color-warning-500: 249 115 22;
+  --tw-color-warning-600: 234 88 12;
+  --tw-color-warning-700: 194 65 12;
+  --tw-color-warning-800: 154 52 18;
+  --tw-color-warning-900: 124 45 18;
+  --color-warning-50: rgb(var(--tw-color-warning-50)); /* #fff7ed */
+  --color-warning-100: rgb(var(--tw-color-warning-100)); /* #ffedd5 */
+  --color-warning-200: rgb(var(--tw-color-warning-200)); /* #fed7aa */
+  --color-warning-300: rgb(var(--tw-color-warning-300)); /* #fdba74 */
+  --color-warning-400: rgb(var(--tw-color-warning-400)); /* #fb923c */
+  --color-warning-500: rgb(var(--tw-color-warning-500)); /* #f97316 */
+  --color-warning-600: rgb(var(--tw-color-warning-600)); /* #ea580c */
+  --color-warning-700: rgb(var(--tw-color-warning-700)); /* #c2410c */
+  --color-warning-800: rgb(var(--tw-color-warning-800)); /* #9a3412 */
+  --color-warning-900: rgb(var(--tw-color-warning-900)); /* #7c2d12 */
+
+  --tw-color-info-50: 240 249 255;
+  --tw-color-info-100: 224 242 254;
+  --tw-color-info-200: 186 230 253;
+  --tw-color-info-300: 125 211 252;
+  --tw-color-info-400: 56 189 248;
+  --tw-color-info-500: 14 165 233;
+  --tw-color-info-600: 2 132 199;
+  --tw-color-info-700: 3 105 161;
+  --tw-color-info-800: 7 89 133;
+  --tw-color-info-900: 12 74 110;
+  --color-info-50: rgb(var(--tw-color-info-50)); /* #f0f9ff */
+  --color-info-100: rgb(var(--tw-color-info-100)); /* #e0f2fe */
+  --color-info-200: rgb(var(--tw-color-info-200)); /* #bae6fd */
+  --color-info-300: rgb(var(--tw-color-info-300)); /* #7dd3fc */
+  --color-info-400: rgb(var(--tw-color-info-400)); /* #38bdf8 */
+  --color-info-500: rgb(var(--tw-color-info-500)); /* #0ea5e9 */
+  --color-info-600: rgb(var(--tw-color-info-600)); /* #0284c7 */
+  --color-info-700: rgb(var(--tw-color-info-700)); /* #0369a1 */
+  --color-info-800: rgb(var(--tw-color-info-800)); /* #075985 */
+  --color-info-900: rgb(var(--tw-color-info-900)); /* #0c4a6e */
+
+  --tw-color-gray-50: 249 250 251;
+  --tw-color-gray-100: 243 244 246;
+  --tw-color-gray-200: 229 231 235;
+  --tw-color-gray-300: 209 213 219;
+  --tw-color-gray-400: 156 163 175;
+  --tw-color-gray-500: 107 114 128;
+  --tw-color-gray-600: 75 85 99;
+  --tw-color-gray-700: 55 65 81;
+  --tw-color-gray-800: 31 41 55;
+  --tw-color-gray-900: 17 24 39;
+  --color-gray-50: rgb(var(--tw-color-gray-50)); /* #f9fafb */
+  --color-gray-100: rgb(var(--tw-color-gray-100)); /* #f3f4f6 */
+  --color-gray-200: rgb(var(--tw-color-gray-200)); /* #e5e7eb */
+  --color-gray-300: rgb(var(--tw-color-gray-300)); /* #d1d5db */
+  --color-gray-400: rgb(var(--tw-color-gray-400)); /* #9ca3af */
+  --color-gray-500: rgb(var(--tw-color-gray-500)); /* #6b7280 */
+  --color-gray-600: rgb(var(--tw-color-gray-600)); /* #4b5563 */
+  --color-gray-700: rgb(var(--tw-color-gray-700)); /* #374151 */
+  --color-gray-800: rgb(var(--tw-color-gray-800)); /* #1f2937 */
+  --color-gray-900: rgb(var(--tw-color-gray-900)); /* #111827 */
+}
+
+input[type="radio"]:after {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  cursor: pointer;
+  position: relative;
+  background-color: #535353;
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+input[type="radio"]:checked:after {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  cursor: pointer;
+  position: relative;
+  background-color: #4f46e5;
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+@layer base {
+  /* inter var - latin */
+  /* @font-face {
+    font-family: "var(--main-font)";
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: optional;
+  } */
+
+  body {
+    @apply !pr-0;
+  }
+  /* #region  /**=========== Typography =========== */
+  .h0 {
+    @apply font-primary text-3xl font-bold md:text-5xl;
+  }
+
+  h1,
+  .h1 {
+    @apply font-primary text-2xl font-bold md:text-4xl;
+  }
+
+  h2,
+  .h2 {
+    @apply font-primary text-xl font-bold md:text-3xl;
+  }
+
+  h3,
+  .h3 {
+    @apply font-primary text-lg font-bold md:text-2xl;
+  }
+
+  h4,
+  .h4 {
+    @apply font-primary text-base font-bold md:text-lg;
+  }
+
+  body,
+  .p {
+    @apply font-primary text-sm md:text-base;
+  }
+  /* #endregion  /**======== Typography =========== */
+
+  .layout {
+    /* 1100px */
+    max-width: 68.75rem;
+    @apply mx-auto w-11/12;
+  }
+
+  .bg-dark a.custom-link {
+    @apply border-gray-200 hover:border-gray-200/0;
+  }
+
+  /* Class to adjust with sticky footer */
+  .min-h-main {
+    @apply min-h-[calc(100vh-56px)];
+  }
+
+  html {
+    @apply bg-gray-50;
+    scrollbar-color: #00000080 transparent;
+    scrollbar-width: auto;
+    transition-property: background-color;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+
+  html[class*="dark"] {
+    @apply bg-dark;
+    scrollbar-color: #110404b3 transparent;
+    scrollbar-width: auto;
+  }
+
+  ::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-black/50 dark:bg-white/70;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-black/60 dark:hover:bg-white/80;
+  }
+  :root {
+    @apply scroll-smooth antialiased;
+  }
+}
+
+@layer utilities {
+  .scrollbar::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 10px;
+    height: 10px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    background: var(--color-gray-800);
+    border-radius: 0;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    background: var(--color-gray-500);
+    cursor: pointer;
+    border-radius: 5px;
+    -webkit-transition: color 0.2s ease;
+    transition: color 0.2s ease;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb:hover {
+    background: var(--color-gray-400);
+  }
+
+  .animate-status-dot {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    border-radius: 50%;
+    position: relative;
+    -ms-transform: none;
+    transform: none;
+  }
+  .animate-status-dot:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: currentColor;
+    animation: status-dot 2s infinite;
+    opacity: 1;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+  }
+  @keyframes status-dot {
+    0% {
+      opacity: 0.5;
+    }
+    70% {
+      opacity: 0;
+      transform: scale(2.5);
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  .position-unset {
+    position: unset !important;
+  }
+
+  .height-inherit {
+    height: inherit;
+  }
+
+  .z-max {
+    z-index: 9999999;
+  }
+}
+button {
+  /* Disables tap highlight color on Chrome */
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Input darkmode fix for checkbox / radio */
+.dark [type="checkbox"]:checked,
+.dark [type="radio"]:checked {
+  background-color: currentColor;
+}
+.lds-dual-ring {
+  position: absolute;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  left: calc(50% - 32px);
+  top: calc(50% - 32px);
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.9s linear infinite;
+}
+.lds-dual-ring:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  border-color: #fff #fff #fff transparent;
+  animation: lds-dual-ring 1.3s ease-in-out infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.bg-pattern-light {
+  background-image: url("/pattern-black.svg");
+  background-size: 20.52px 22.7px;
+  opacity: 0.085;
+  @apply bg-repeat block w-full h-full;
+}
+.bg-pattern-dark {
+  background-image: url("/pattern-white.svg");
+  background-size: 20.52px 22.7px;
+  opacity: 0.095;
+  @apply bg-repeat block w-full h-full;
+}
+
+.footer-links[dir="ltr"] > li::before {
+  /* content: url("/images/footer-arrow.svg"); */
+  @apply font-primary text-sm font-normal mr-4;
+}
+.footer-links > li {
+  @apply font-semibold text-base;
+}
+
+.cursor-image-1 {
+  cursor: url(../../public/images/cursor/1.png) 20 20, pointer;
+}
+
+.cursor-image-2 {
+  cursor: url(../../public/images/cursor/2.png) 20 20, pointer;
+}
+
+.cursor-image-3 {
+  cursor: url(../../public/images/cursor/3.png) 20 20, pointer;
+}
+
+.cursor-image-4 {
+  cursor: url(../../public/images/cursor/4.png) 20 20, pointer;
+}
+
+.cursor-image-5 {
+  cursor: url(../../public/images/cursor/5.png) 20 20, pointer;
+}
+
+.cursor-image-6 {
+  cursor: url(../../public/images/cursor/6.png) 20 20, pointer;
+}
+
+.cursor-image-7 {
+  cursor: url(../../public/images/cursor/7.png) 20 20, pointer;
+}
+
+.cursor-image-8 {
+  cursor: url(../../public/images/cursor/8.png) 20 20, pointer;
+}
+
+.cursor-image-9 {
+  cursor: url(../../public/images/cursor/9.png) 20 20, pointer;
+}
+
+.cursor-image-10 {
+  cursor: url(../../public/images/cursor/10.png) 20 20, pointer;
+}
+
+.cursor-image-11 {
+  cursor: url(../../public/images/cursor/11.png) 20 20, pointer;
+}
+
+.cursor-image-12 {
+  cursor: url(../../public/images/cursor/12.png) 20 20, pointer;
+}
+
+.cursor-image-13 {
+  cursor: url(../../public/images/cursor/13.png) 20 20, pointer;
+}
+
+.cursor-image-14 {
+  cursor: url(../../public/images/cursor/14.png) 20 20, pointer;
+}
+
+.cursor-image-15 {
+  cursor: url(../../public/images/cursor/15.png) 20 20, pointer;
+}
+
+.cursor-image-16 {
+  cursor: url(../../public/images/cursor/16.png) 20 20, pointer;
+}
+
+.cursor-image-17 {
+  cursor: url(../../public/images/cursor/17.png) 20 20, pointer;
+}
+
+.cursor-image-18 {
+  cursor: url(../../public/images/cursor/18.png) 20 20, pointer;
+}
+
+.cursor-image-19 {
+  cursor: url(../../public/images/cursor/19.png) 20 20, pointer;
+}
+
+.cursor-image-20 {
+  cursor: url(../../public/images/cursor/20.png) 20 20, pointer;
+}
+
+.cursor-image-21 {
+  cursor: url(../../public/images/cursor/21.png) 20 20, pointer;
+}
+
+.cursor-image-22 {
+  cursor: url(../../public/images/cursor/22.png) 20 20, pointer;
+}
+
+.cursor-image-23 {
+  cursor: url(../../public/images/cursor/23.png) 20 20, pointer;
+}
+
+.cursor-image-24 {
+  cursor: url(../../public/images/cursor/24.png) 20 20, pointer;
+}
+
+.cursor-image-25 {
+  cursor: url(../../public/images/cursor/25.png) 20 20, pointer;
+}
+
+.cursor-image-26 {
+  cursor: url(../../public/images/cursor/26.png) 20 20, pointer;
+}
+
+.cursor-image-27 {
+  cursor: url(../../public/images/cursor/27.png) 20 20, pointer;
+}
+
+.cursor-image-28 {
+  cursor: url(../../public/images/cursor/28.png) 20 20, pointer;
+}
+
+.cursor-image-29 {
+  cursor: url(../../public/images/cursor/29.png) 20 20, pointer;
+}
+
+.cursor-image-30 {
+  cursor: url(../../public/images/cursor/30.png) 20 20, pointer;
+}
+
+.cursor-image-31 {
+  cursor: url(../../public/images/cursor/31.png) 20 20, pointer;
+}
+
+.cursor-image-32 {
+  cursor: url(../../public/images/cursor/32.png) 20 20, pointer;
+}
+
+.cursor-image-33 {
+  cursor: url(../../public/images/cursor/33.png) 20 20, pointer;
+}
+
+.cursor-image-34 {
+  cursor: url(../../public/images/cursor/34.png) 20 20, pointer;
+}
+
+.cursor-image-35 {
+  cursor: url(../../public/images/cursor/35.png) 20 20, pointer;
+}
+
+.cursor-image-36 {
+  cursor: url(../../public/images/cursor/36.png) 20 20, pointer;
+}
+
+.cursor-image-37 {
+  cursor: url(../../public/images/cursor/37.png) 20 20, pointer;
+}
+
+.cursor-image-38 {
+  cursor: url(../../public/images/cursor/38.png) 20 20, pointer;
+}
+
+.cursor-image-39 {
+  cursor: url(../../public/images/cursor/39.png) 20 20, pointer;
+}
+
+.cursor-image-40 {
+  cursor: url(../../public/images/cursor/40.png) 20 20, pointer;
+}
+
+.cursor-image-41 {
+  cursor: url(../../public/images/cursor/41.png) 20 20, pointer;
+}
+
+.cursor-image-42 {
+  cursor: url(../../public/images/cursor/42.png) 20 20, pointer;
+}
+
+.cursor-image-43 {
+  cursor: url(../../public/images/cursor/43.png) 20 20, pointer;
+}
+
+.cursor-image-44 {
+  cursor: url(../../public/images/cursor/44.png) 20 20, pointer;
+}
+
+.cursor-image-45 {
+  cursor: url(../../public/images/cursor/45.png) 20 20, pointer;
+}
+
+.cursor-image-46 {
+  cursor: url(../../public/images/cursor/46.png) 20 20, pointer;
+}
+
+.cursor-image-47 {
+  cursor: url(../../public/images/cursor/47.png) 20 20, pointer;
+}
+
+.cursor-image-48 {
+  cursor: url(../../public/images/cursor/48.png) 20 20, pointer;
+}
+
+.cursor-image-49 {
+  cursor: url(../../public/images/cursor/49.png) 20 20, pointer;
+}
+
+.cursor-image-50 {
+  cursor: url(../../public/images/cursor/50.png) 20 20, pointer;
+}

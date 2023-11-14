@@ -1,0 +1,55 @@
+{
+  "Visit": "Visit",
+  "Visit3D": "Visit",
+  "comingsoon": "Coming Soon",
+  "social": "Social",
+  "site": "Site map",
+  "description": "Heritage Eye offers an immersive augmented reality experience that is innovative and unique. It caters to your aspirations and takes you on a virtual tour of cultural heritage sites, showcasing their historical significance. This experience celebrates and introduces authentic heritage, emphasizing its value and promoting a sense of belonging to national identity. Through this journey, you can learn about the story of civilization written by our ancestors. Embark on a unique journey across various cultural, historical, and archaeological monuments, enabling you to discover cultural heritage through a realistic experience full of action, sound, and image.",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "ourMission": "Our Mission",
+    "heritageSites": "Heritage Sites",
+    "map": "Map",
+    "downloadApps": "Download our Apps",
+    "visitVRXp": "Visit VR Experience"
+  },
+  "about": {
+    "about": "About",
+    "mainDescription": "Heritage Eye offers an immersive augmented reality experience that is innovative and unique. It caters to your aspirations and takes you on a virtual tour of cultural heritage sites, showcasing their historical significance. This experience celebrates and introduces authentic heritage, emphasizing its value and promoting a sense of belonging to national identity. Through this journey, you can learn about the story of civilization written by our ancestors. Embark on a unique journey across various cultural, historical, and archaeological monuments, enabling you to discover cultural heritage through a realistic experience full of action, sound, and image.",
+    "mission": "Mission",
+    "missionDescription": "Support the Kingdom of Saudi Arabia's ambitious development visions, protecting its cultural and historical heritage that reflects tradition and authenticity, and strive to promote a deep sense of pride in the rich cultural history of this land."
+  },
+  "heritage": {
+    "title": "Heritage Sites",
+    "mainDescription": "Euismod arcu ut cursus feugiat porttitor lorem viverra. Consequat arcu interdum suspendisse leo sit in sed enim ullamcorper."
+  },
+  "downloadApp": {
+    "title": "Download Our Apps",
+    "mainDescription": "Download the 'Heritage Eye' application for a unique journey and an enjoyable tour of heritage sites and monuments."
+  },
+  "partners": {
+    "title": "Partners"
+  },
+  "cancel": "Cancel",
+  "menu": {
+    "info": {
+      "title": "Tutorial",
+      "quiz": "Quiz Elements",
+      "info": "Info Elements",
+      "video": "Video Elements",
+      "form": "Form Elements",
+      "navigation": "Navigation"
+    },
+    "quiz": "",
+    "screenshot": {
+      "title": "Screenshot",
+      "description": "Press the Download button to download this screenshot.",
+      "download": "Download",
+      "textpopup":"Congratulations! Your picture has been successfully downloaded."
+    },
+    "map": {
+      "title": "Map"
+    }
+  }
+}

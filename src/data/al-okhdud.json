@@ -1,0 +1,673 @@
+{
+  "infos": {
+    "id": "al-okhdud",
+    "title": "Al-Okhdood",
+    "shortDescription": "The historical city of Al-Ukhdood, previously known as &quot;Raqmat,&quot; is a historic city dating back to the era of the Himyarite Kingdom (110 BC - 525 AD). It is located on the banks of the Najran Valley in the Najran region. The city is noted for the historical massacre that Dhu Nawwas, King of Himyar, carried out against Christians in the region in 520 AD. This story is also told in the Holy Quran.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/okhdood_init.jpg",
+    "longDescription": "The historical city of Al-Ukhdood, previously known as &quot;Raqmat,&quot; is a historic city dating back to the era of the Himyarite Kingdom (110 BC - 525 AD). It is located on the banks of the Najran Valley in the Najran region. The city is noted for the historical massacre that Dhu Nawwas, King of Himyar, carried out against Christians in the region in 520 AD. This story is also told in the Holy Quran.",
+    "image": {
+      "placeholder": "/images/sites/p_alokhdood.png",
+      "url": "/images/sites/p_alokhdood.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "",
+      "names": ["1", "23"],
+      "modals": [
+        {
+          "title": "The western gate",
+          "text": "The western gate and the fort's western wall.",
+          "image": null,
+          "position": [55.366831521311816 , 0.5663865722541754 , -57.74108765375484]
+        }
+      ],
+      "positions": [
+        [41.08525561898699, -24.828927161230133, -63.995048063439896],
+        [-75.26459904095074, -0.07673049896711823, -27.11225319910912]
+      ],
+      "nextCameraPositions": [
+        [2.788729345584288, -0.8915001039155549, 4.054406910429634],
+        [4.29334960071062, 0.13516658051875247, -2.5610307290489156]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/1.jpg",
+      "links": [1, 23],
+      "cameraPosition": [
+        2.815202186951635, -0.7805255852849363, -4.058992049425366
+      ]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "names": ["0", "2"],
+      "modals": [
+        {
+          "title": "The fort's interior entrance ",
+          "text": "The fort's interior entrance from the western side.",
+          "image": null,
+          "position": [47.7175223781329 , -6.2908008244790015 , 63.90073483909459]
+        }
+      ],
+      "positions": [
+        [-55.242706280337906, -25.861604935021443, -51.76157670421513],
+        [43.580274974171736, -28.267980237071793, 60.840126202936624]
+      ],
+      "nextCameraPositions": [
+        [-2.229462793891107, 0.8615284437020205, 4.392865077018825],
+        [1.0831296356831703, -2.6867192128291473, 4.076563412638584]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/2.jpg",
+      "links": [0, 2],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["1", "3"],
+      "modals": [
+        {
+          "title": "The beginning of the corridor ",
+          "text": "The beginning of the corridor extending from the west to the east on the fort's western side.",
+          "image": null,
+          "position": [19.80195006778045 , -11.720948171613895 , 76.61815827444971]
+        }
+      ],
+      "positions": [
+        [-20.795374618975075, -38.75823290198743, -66.82209070860432],
+        [17.326392931404193, -42.97837603572652, 65.21115956042672]
+      ],
+      "nextCameraPositions": [
+        [-55.94592409584024, 3.8893457587459173, -57.05056175471512],
+        [2.117212945879338, -0.1174135148387833, 4.529196683947178]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/3.jpg",
+      "links": [1, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["2", "4"],
+      "modals": [
+        {
+          "title": "The buildings' foundations ",
+          "text": "The buildings' foundations are made up of large, trimmed stones ranging in height from 2 to 4 meters.\n The fort depicts the main period of settlement in Al-Ukhdood, which may have begun before 600 BC and continued until the end of the third century CE.\n It is Al-Ukhdood city's main lane.",
+          "image": null,
+          "position": [-50.17381502929616 , -1.100261367945691 , 62.29942006331471]
+        }
+      ],
+      "positions": [
+        [-21.223255757633833, -10.080930882547431, -76.4708328546546],
+        [30.194665742539538, -33.978202257300026, 65.83011440029159]
+      ],
+      "nextCameraPositions": [
+        [-1.3106872999020835, -2.4525703447136653, -4.156560681579237],
+        [1.9328698690098431, -0.2270244141593731, 4.606785558108108]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/4.jpg",
+      "links": [2, 4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["3", "5"],
+      "modals": [
+        {
+          "title": "The foundations",
+          "text": "The foundations of some of the fort's buildings and how they were constructed out of large, trimmed stones.",
+          "image": null,
+          "position": [78.48462393068412 , -0.7798448679584817 , -15.472416693527908]
+        }
+      ],
+      "positions": [
+        [-26.729305098377377, -24.663260360027127, -71.25382703594613],
+        [30.41264327529578, -22.424393434280642, 70.51281967139985]
+      ],
+      "nextCameraPositions": [
+        [0.8192821198629503, -0.7158143291954128, -4.881227903687283],
+        [-3.4699238019990686, -0.0028980743696937765, -3.6013358081452562]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/5.jpg",
+      "links": [3, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["4", "6"],
+      "modals": [
+        {
+          "title": "The middle of the main corridor",
+          "text": "The middle of the main corridor that runs from the fort's west to its east, in addition to how the buildings are distributed to it.",
+          "image": null,
+          "position": [62.17600509592754 , 0.15582693335291 , -50.33845585807327]
+        }
+      ],
+      "positions": [
+        [54.699056766871564, -20.139968457901993, 54.792653606358876],
+        [-54.10749697671941, -25.147449246381974, -53.29000466515367]
+      ],
+      "nextCameraPositions": [
+        [-1.1064530349204693, -0.39844076112879556, -4.860761857459215],
+        [1.0060017496461797, -0.6910331032377579, -4.849786894646236]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/6.jpg",
+      "links": [4, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["5", "7", "11"],
+      "modals": [
+        {
+          "title": "The distribution of buildings",
+          "text": "The distribution of buildings along the main corridor and secondary corridors.",
+          "image": null,
+          "position": [67.37482506137225 , -1.2337611134522781 , 43.115551850365755]
+        }
+      ],
+      "positions": [
+        [14.077587654693481, -26.601579131064632, 74.12164018325072],
+        [70.59722756061525, -16.892025480594874, -33.62336934060589],
+        [-10.489138578037506, -24.408361079138018, -75.45892863815591]
+      ],
+      "nextCameraPositions": [
+        [3.585726816651171, -0.010266535265374944, 3.4860374335549333],
+        [4.581704440365298, 0.08701144645261592, -2.002601463813279],
+        [1.8450543521275817, -1.2593317807613138, 4.474355495175095]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/7.jpg",
+      "links": [5, 7, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["6"],
+      "modals": [
+        {
+          "title": "ome of the buildings within the fort",
+          "text": "Some of the buildings within the fort; on the wall of one of these buildings, there is a drawing of a palm (hand), indicating handshaking.",
+          "image": null,
+          "position": [68.29926054543579 , 1.9052543520884808 , 41.61034780793937 ]
+        }
+      ],
+      "positions": [
+        [-67.68979160562922, -28.32193338639274, 31.871621099975105]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/8.jpg",
+      "links": [6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["9", "11"],
+      "modals": [
+        {
+          "title": "The wall of one of the buildings",
+          "text": "The wall of one of the buildings with writings in the southern Musnad script and animal drawings, such as two horse drawings.",
+          "image": null,
+          "position": [49.06336443037987 , -0.5639325359518329 , 63.184715562893736]
+        }
+      ],
+      "positions": [
+        [66.6765555960778, -29.023101346034323, -33.34271362678996],
+        [12.706554829800037, -30.975322005822523, -72.65612789634504]
+      ],
+      "nextCameraPositions": [
+        [4.146378175669266, -0.5595430358484056, -2.7394267299767536],
+        [4.256183630596471, -0.592877071954031, 2.5580064256639052]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/9.jpg",
+      "links": [9, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["8", "10", "11"],
+      "modals": [
+        {
+          "title": "One of the important buildings",
+          "text": "One of the important buildings inside the fort, and on the wall overlooking the main corridor, are drawings of snakes and a horse.",
+          "image": null,
+          "position": [58.40241060928853 , -1.624637676009733 , 54.64758930952865]
+        }
+      ],
+      "positions": [
+        [-63.29573267694543, -29.725648544909532, 38.85712384325862],
+        [63.30840284027876, -41.1326005404804, -26.457424902802085],
+        [11.085225915609255, -35.03894546921429, -71.0579347905812]
+      ],
+      "nextCameraPositions": [
+        [-3.9525962950081315, 0.15921605069382128, 3.0596784098060734],
+        [3.866230801917864, -0.6086617754589905, -3.1131638927208174],
+        [4.038601830494218, -0.3631912618733358, 2.9270781601405127]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/10.jpg",
+      "links": [8, 10, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["9", "11", "12"],
+      "modals": [
+        {
+          "title": "One of the important buildings",
+          "text": "One of the important buildings inside the fort, and on the wall overlooking the main corridor, are drawings of snakes.",
+          "image": null,
+          "position": [49.47350632439426 , 3.571244677965661 , 62.76510506099214]
+        }
+      ],
+      "positions": [
+        [-51.026189926368616, -48.280953420055546, 38.276853427962735],
+        [-49.126285017289696, -13.322612191106806, -61.71674128388947],
+        [46.960564854225574, -22.912859040541974, -60.57677994956059]
+      ],
+      "nextCameraPositions": [
+        [-3.4463353049898924, 0.02814128015021665, 3.623807421411312],
+        [4.896379435782712, 0.18183766563249612, -1.001200618130786],
+        [4.19271972860971, -0.44685373525128835, 2.6891303817708128]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/11.jpg",
+      "links": [9, 11, 12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["6", "8", "9", "10", "12"],
+      "modals": [
+        {
+          "title": "The middle of the main corridor",
+          "text": "The middle of the main corridor that runs from the fort's west to its east, in addition to how the buildings are distributed to it.",
+          "image": null,
+          "position": [-21.05482572897954 , 5.099422238534646 , -77.00993595798269]
+        }
+      ],
+      "positions": [
+        [-18.71073380574054, -11.526624731497385, -76.9212934930706],
+        [-61.10696810540486, -20.165383175210742, -47.530367137853254],
+        [-76.23907593147253, -16.696960614646695, 17.568575276477556],
+        [-37.794318163598625, -15.294201674085766, 68.82962254435388],
+        [30.92104224611074, -18.886891819192723, 71.32330960998306]
+      ],
+      "nextCameraPositions": [
+        [0.6439035824067619, -1.0035624138725765, 4.856773605138491],
+        [1.817092033759964, -0.6086617754589956, 4.619275546823887],
+        [3.153524280649456, -0.1717832824280832, 3.877599039196357],
+        [3.4139549606485255, -0.15688729096301557, 3.6510679394036964],
+        [4.19271972860971, -0.44685373525128835, 2.6891303817708128]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/12.jpg",
+      "links": [6, 8, 9, 10, 12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["10", "11", "13", "15"],
+      "modals": [
+        {
+          "title": "One of the secondary corridors that are in the main corridor",
+          "text": "One of the secondary corridors that are in the main corridort.",
+          "image": null,
+          "position": [13.569668421399191 , 2.4384243710715303 , 78.80201910748862]
+        }
+      ],
+      "positions": [
+        [-74.364544500066, -29.349443076621835, 2.8921864198207925],
+        [-58.74111601234627, -25.64985128276294, -47.86863742256906],
+        [-36.17199645094759, -14.597023909154714, 69.84521168731153],
+        [62.94195328267969, -16.706401645808192, 46.46554304973809]
+      ],
+      "nextCameraPositions": [
+        [1.1685324197072624, -0.20453375502436538, 4.858260709419851],
+        [-1.2796351878427186, -0.29850862103846526, -4.825290207100957],
+        [-4.921580547914686, 0.07528155187548988, -0.884520656558665],
+        [1.5901742468512068, -0.11897066354333102, -4.739956860501078]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/13.jpg",
+      "links": [10, 11, 13, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12", "14"],
+      "modals": [
+        {
+          "title": "An open yard inside the fort",
+          "text": "An open yard inside the fort and the buildings are distributed to it.\n Moreover, there are basins in front of one of the buildings.",
+          "image": null,
+          "position": [-75.2317258912981 , -21.11238779433048 , 17.155014746002227]
+        }
+      ],
+      "positions": [
+        [79.44345362301323, -7.5986859034235925, 5.55316836467402],
+        [15.500822178796412, -8.185245590493746, -78.05489284024286]
+      ],
+      "nextCameraPositions": [
+        [3.4840428769670067, -0.33429168917270885, -3.5720713166942075],
+        [-1.5467883696742437, -0.6784575881236113, 4.70713715904922]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/14.jpg",
+      "links": [12, 14],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["13"],
+      "modals": [
+        {
+          "title": "basins in front of the buildings",
+          "text": "There are basins in front of one of the buildings, and one has an inscription in the Musnad script on it.",
+          "image": null,
+          "position": [-72.51139411820564 , 1.2912684444397922 , -33.76788975840513]
+        }
+      ],
+      "positions": [
+        [33.081033327373476, -15.185506072562838, -71.23823179452532]
+      ],
+      "nextCameraPositions": [
+        [-0.9703754471377583, -0.3089794922910208, 4.896213063019189]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/15.jpg",
+      "links": [13, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["12", "16"],
+      "modals": [
+        {
+          "title": "The middle of the main corridor",
+          "text": "The middle of the main corridor and how the buildings are distributed to it.",
+          "image": null,
+          "position": [77.00173829700206 , -3.467352699256038 , -21.413775808953638]
+        }
+      ],
+      "positions": [
+        [-20.252327076718096, -18.651378811286172, 75.1119787138689],
+        [26.20374148329901, -17.39488549453232, -73.55692979458631]
+      ],
+      "nextCameraPositions": [
+        [-3.761217019486434, -1.4794143479994635, -2.945263810391663],
+        [-4.982320588662382, -0.3835150619317091, 0.1984866308000693]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/16.jpg",
+      "links": [12, 16],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "names": ["15", "17"],
+      "modals": [
+        {
+          "title": "The middle of the main corridor",
+          "text": "The middle of the main corridor and how the buildings are distributed to it.",
+          "image": null,
+          "position": [-4.414302605208387 , -0.9057070771228212 , 79.87198292954331]
+        }
+      ],
+      "positions": [
+        [78.16459656969813, -16.918798538484698, 1.9723409968015706],
+        [-77.43828154544973, -17.15926659730485, 10.42651193004816]
+      ],
+      "nextCameraPositions": [
+        [-1.6804861011539531, 0.06869797966613897, 4.709697043861958],
+        [-2.876118476427176, 0.07072514830330412, -4.090591602261901]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/17.jpg",
+      "links": [15, 17],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "names": ["16", "18"],
+      "modals": [
+        {
+          "title": "Buildings along the main corridor",
+          "text": "Buildings along the main corridor.\n There are inscriptions in the Musnad script on the wall of one of these buildings (a temple); a base is in front of this wall.",
+          "image": null,
+          "position": [-70.44244445076716 , -23.41948755298262 , 29.819953931108497]
+        }
+      ],
+      "positions": [
+        [61.69450889553776, -9.99452869360152, 49.937330707881735],
+        [-40.89626311670424, -8.185258457882346, -68.26666270562902]
+      ],
+      "nextCameraPositions": [
+        [4.991331233345139, -0.28351618331702166, 0.12739814117376216],
+        [1.567241529790783, -0.020219770180792167, -4.7490361487081545]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/18.jpg",
+      "links": [16, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "names": ["17", "19"],
+      "modals": [
+        {
+          "title": "The entrance to the interior of the fort",
+          "text": "The entrance to the interior of the fort from the eastern side and the secondary corridors distributed to it.",
+          "image": null,
+          "position": [22.089858791959546 , -2.1387456371386304 , -76.85898734401894]
+        }
+      ],
+      "positions": [
+        [-29.0923615887762, -17.106982503317077, 72.53154952650785],
+        [18.897399910926993, -21.426669137801834, -74.72366530198333]
+      ],
+      "nextCameraPositions": [
+        [3.865765622027182, -0.6761754488273416, 3.0997809779885808],
+        [-4.584567376505497, -1.0520951927360274, -1.6984807532754536]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/19.jpg",
+      "links": [17, 19],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "names": ["18", "20", "21"],
+      "modals": [
+        {
+          "title": "The entrance to the interior of the fort",
+          "text": "The entrance to the interior of the fort from the eastern side and the buildings distributed to it.",
+          "image": null,
+          "position": [-39.291327600909064 , -10.699721822201015 , 68.85889599886654]
+        }
+      ],
+      "positions": [
+        [73.48724837774596, -31.431913382412574, -3.3910436277267437],
+        [-73.33749642602032, -16.82994732120697, -27.169919415154972],
+        [-10.169616479881407, -27.800927643336934, 74.32043697879625]
+      ],
+      "nextCameraPositions": [
+        [-1.3593824059309658, -0.37394408719583033, 4.798150110994915],
+        [-4.191804530399326, 0.33901400571951984, -2.7062600533565826],
+        [-2.344474209404363 , 0.10933393028932525 , -4.416048682552001]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/20.jpg",
+      "links": [18, 20, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "names": ["19"],
+      "modals": [
+        {
+          "title": "The eastern gate of the fort",
+          "text": "The eastern gate of the fort.",
+          "image": null,
+          "position": [19.326255657491757 , -17.021931981081007 , 75.74027794898747]
+        }
+      ],
+      "positions": [
+        [65.52117617134401, -26.101640758910747, 37.75605716588572]
+      ],
+      "nextCameraPositions": [
+        [4.777959488394698, -0.7017926019725786, 1.2994573731444636]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/21.jpg",
+      "links": [19, 21],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "names": ["19", "22"],
+      "modals": [
+        {
+          "title": "The wall and the eastern gate of the fort",
+          "text": "The wall and the eastern gate of the fort.",
+          "image": null,
+          "position": [44.542258595558486 , -0.8356901046420073 , -66.44643595523058]
+        }
+      ],
+      "positions": [
+        [66.6879322224424 , -22.07030155290254 , 38.281346830486946],
+        [-0.3210223053555231 , -1.0778458714236656 , -79.99109464717979]
+      ],
+      "nextCameraPositions": [
+        [3.2959202922469344 , 0.039170977232461233 , -3.7610336684535963],
+        [ 3.216006660577464 , -0.3134836073085413 , -3.8169396616417965]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/22.jpg",
+      "links": [19, 22],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "names": ["21"],
+      "modals": [
+        {
+          "title": "Some of the building foundations within the fort on the eastern side of the fort",
+          "text": "Some of the building foundations within the fort on the eastern side of the fort.",
+          "image": null,
+          "position": [-67.04543091480627 , -19.17005042484348 , 39.20789958737979]
+        }
+      ],
+      "positions": [
+        [63.957947237208494 , -12.82872456889808 , -46.31031031028577 ]
+      ],
+      "nextCameraPositions": [
+        [ 1.5313144704216117 , -0.5970495729100531 , 4.723198809462637]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/23.jpg",
+      "links": [21, 23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "names": ["0", "24"],
+      "modals": [
+        {
+          "title": "Ziziphus spina-christi (Sidr trees)",
+          "text": "Ziziphus spina-christi (Sidr trees) are common at Al-Ukhdood, with ages ranging from 200 to 400 years.",
+          "image": null,
+          "position": [-63.40883058879812 , 1.9899578243611755 , -48.73602672680161]
+        }
+      ],
+      "positions": [
+        [-68.96040052603018, 0.3438840262430696, 40.54855031888503],
+        [10.624527980046118, -19.679431285228564, 76.80937064830266]
+      ],
+      "nextCameraPositions": [
+        [2.2632048928486794, 0.10120474274586122, 4.458436991432707],
+        [2.1240966393694016, 0.1842565038072982, -4.523744267856915]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/24.jpg",
+      "links": [0, 24],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "",
+      "names": ["23", "25"],
+      "modals": [
+        {
+          "title": "A model of the visitor paths within the Al-Ukhdood site",
+          "text": "A model of the visitor paths within the Al-Ukhdood site",
+          "image": null,
+          "position": [62.6633003590677 , -10.455710841706402 , -48.619223860537375 ]
+        }
+      ],
+      "positions": [
+        [-39.30429504378682, -30.017442066640267, 62.8805660978335],
+        [37.066550174869995, -31.929224247773647, -63.296410063813134]
+      ],
+      "nextCameraPositions": [
+        [-4.965892835097673, 0.2970499364715432, 0.5115358043302676],
+        [-0.18494446322617666, 0.40974762332463593, -4.980753118178591]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/25.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/25.jpg",
+      "links": [23, 25],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "",
+      "names": ["24"],
+      "modals": [
+        {
+          "title": "A big millstone discovered in Al-Ukhdood site",
+          "text": "A big millstone discovered in Al-Ukhdood site.",
+          "image": null,
+          "position": [67.64509394884685 , -30.943643716702006 , -29.43589998764517]
+        }
+      ],
+      "positions": [[65.20587159881607, -21.173695946470293, 41.2275264708216]],
+      "nextCameraPositions": [
+        [-2.750180509962433, -1.0039592690484926, 4.05445090514836]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/26.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/alokhdood/lq/26.jpg",
+      "links": [24],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

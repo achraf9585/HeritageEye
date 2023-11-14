@@ -1,0 +1,596 @@
+{
+  "infos": {
+    "id": "zaabal-castle",
+    "title": "Zaabal Castle",
+    "shortDescription": "The construction of Zaabal Castle dates back to the 1 st century AD. It was built on the ruins of an older castle. The purpose of building it at that time was to protect the trade route. The Castle consists of a wall surrounded and supported by four towers and two rooms. It was built out of mud, stone, and wood on a mountaintop overlooking the area.",
+    "longDescription": "The construction of Zaabal Castle dates back to the 1 st century AD. It was built on the ruins of an older castle. The purpose of building it at that time was to protect the trade route. The Castle consists of a wall surrounded and supported by four towers and two rooms. It was built out of mud, stone, and wood on a mountaintop overlooking the area.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/zaabal_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/zaabal.png",
+      "url": "/images/sites/zaabal.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "Entrance",
+      "names": ["Bornes Mountain", "Stairs 1", "Sisra Well 1", "El Maskouf"],
+      "modals": [
+        {
+          "title": "The Entrance",
+          "text": "The castle has an entrance in the form of a passage leading to Birnce mountain and the castle's stairs.",
+          "image": null,
+          "position": [
+            -84.19720397161711, 10.901383517677997, 0.026091423950279108
+          ]
+        }
+      ],
+      "positions": [
+        [-46.166171994308456, -0.2752536109702201, -71.25039507849468],
+        [77.08174890149031, -5.7758712601281506, -35.11485864237569],
+        [-77.80929099503216, -10.979328333482885, 32.14309543581619],
+        [-65.5936493585533, -21.77426588729847, 49.30886846092084]
+      ],
+      "nextCameraPositions": [
+        [0.08277932894378669, -0.00022651151018554367, -0.05610286438455837],
+        [0.09944732861810272, 0.0015204189695538644, -0.010388318289314557],
+        [0.08711388466465199, -0.04405029166425212, 0.02169661040181238],
+        [0.08787331894681479, -0.03500612197897656, -0.03244766927322169]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/1.jpg",
+      "links": [1, 2, 24, 18],
+      "cameraPosition": [
+        0.09028738031293411, -0.0061560906133941405, -0.042547520545706125
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Bornes Mountain",
+      "names": ["Entrance"],
+      "modals": [
+        {
+          "title":"Birnce mountain",
+          "text":"It is located next to the castle and contains rock arts, including human figures drawings with the same shapes and untidy long hair, arms outstretched with open fingers, and atrophied waists of thirteen women wearing headdresses. The schematic style, unique to the Al-Jouf region, was used to execute these drawings.",
+          "image":null,
+          "position":[ 81.20707436579308 , 24.502259888119198 , -3.613908316991233 ]
+        }
+      ],
+      "positions": [
+        [-66.10473399703436, -16.882624846807886, 50.52871581054951]
+      ],
+      "nextCameraPositions": [
+        [0.00770960832067475 , 0.005588996987068308 , 0.09954559283172876]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/2.jpg",
+      "links": [0],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "stairs1",
+      "names": ["Stairs 2", "Entrance"],
+      "modals": [
+        {
+          "title": "The Stairs",
+          "text": "The ascent to the castle is via the main entrance on the castle's southeastern side. The only way to access this entrance from the mountain is with a stone staircase that narrows and widens to a height of 30 meters.",
+          "image": null,
+          "position": [
+            82.06420571286063, -12.42701135755021, -17.861845633545563
+          ]
+        }
+      ],
+      "positions": [
+        [84.43078199676923, 1.290835705151231, -8.81968222762805],
+        [-83.75984035794224, -13.707931509847015, 2.0956519113099388]
+      ],
+      "nextCameraPositions": [
+        [0.049899371533682714, -0.01829408758069394, -0.08470760934020861],
+        [-0.09765573871946026, -0.006043542026755588, 0.020659920012607753]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/3.jpg",
+      "links": [3, 0],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "stairs2",
+      "names": ["Stairs 1", "Stairs 3"],
+      "modals": [],
+      "positions": [
+        [-8.342233813867901, -19.56847438672256, 82.19179974407997],
+        [42.364566432096616, -15.531680356009156, -71.9167603298371]
+      ],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [-0.09326941465379905, -0.023947229650246735, -0.02696936191710959]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/4.jpg",
+      "links": [2, 4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "stairs3",
+      "names": ["Stairs 4", "Stairs 2"],
+      "modals": [],
+      "positions": [
+        [-79.1857330410754, -20.33119797305948, -22.896988267626057],
+        [77.87307401696681, -22.122644962390353, 25.580909346933552]
+      ],
+      "nextCameraPositions": [
+        [0.09540723182524567, 0.0017659428587813001, 0.02990554398875488],
+        [-0.010518775546083771, -0.022914054944892813, 0.09676932079431745]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/5.jpg",
+      "links": [5, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "stairs4",
+      "names": ["Stairs 3", "Stairs 5"],
+      "modals": [],
+      "positions": [
+        [-70.77121065283568, -44.90962369862552, -13.511900013684558],
+        [81.00073981963358, 1.4992854871053234, 25.38980684645289]
+      ],
+      "nextCameraPositions": [
+        [0.09175156985761009, -0.025255072847368488, 0.03072182813795749],
+        [0.08705077233423825, -0.04768316502549848, 0.012185188105388003]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/6.jpg",
+      "links": [4, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "Stairs 5",
+      "names": ["The Castle 1", "Stairs 4"],
+      "modals": [],
+      "positions": [
+        [73.90610571176832, -40.48300710664823, 10.345224701474432],
+        [-74.84154256445579, -39.14859099653958, -8.610535962320382]
+      ],
+      "nextCameraPositions": [
+        [0.02846607274662677, -0.01957430961179826, -0.09384310899370936],
+        [-0.08382423382391936 , -0.05240446342586785 , -0.015075477998384422]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/7.jpg",
+      "links": [7, 5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "The Castle 1",
+      "names": ["Stairs 5", "The Castle 2"],
+      "modals": [],
+      "positions": [
+        [-46.453073384637676, -65.49045855806509, 27.588436182136665],
+        [-55.04072669838127, -35.3158321168147, -54.141669778563895]
+      ],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [0.09845802636470447, -0.007614471329223462, 0.015749186351795084]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/8.jpg",
+      "links": [6, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "The Castle 2",
+      "names": [
+        "The Castle 1",
+        "The Castle 3",
+        "Tower 3",
+        "Tower 4",
+        "Southern Room"
+      ],
+      "modals": [
+        {
+          "title": "The Castle",
+          "text": "The Castle can be entered through the gate at the top of the Castle. The Castle comprises a wall surrounded by four cylindrical towers, two rooms, and a yard. The Castle's walls have graduated balconies at the top and square and circular openings known as ((Al-Mazaghil)). The Castle's history dates back to the first century CE. It was built on the ruins of an older castle, with the primary purpose of protecting the trade route and providing fortification. The Castle was constructed out of mud, stone, and wood. The Castle is notable for its location on top of a mountain overlooking the surrounding area.",
+          "image": null,
+          "position": [79.9214819406788, -18.97110716011099, 21.46308033636684]
+        },
+        {
+          "title": "Water Basin",
+          "text": "The castle's courtyard has a square carved basin to store water on the castle's rocky floor. It is located directly opposite the entrance. It has 1.60-meter-long sides and a 1-meter-depth. ",
+          "image": null,
+          "position": [22.0768201583262, -19.50729308603552, -79.62467914002814]
+        }
+      ],
+      "positions": [
+        [-77.32581713164464, -15.1469014434468, -31.611696910889844],
+        [61.75274407521948, -13.089934577222879, -56.773781025614895],
+        [-83.50085202638957, -9.817299011724497, 11.799930126123149],
+        [-54.36288185480074, -12.533155753138221, 63.99693026472877],
+        [-28.854552694544466, -21.70776336712974, -76.83877796005387]
+      ],
+      "nextCameraPositions": [
+        [0.07644503804455116, -0.013493267583370862, 0.06304036713321594],
+        [0.06006168432730062, -0.001071897443269339, 0.07994651406808681],
+        [0.06479276571647996, 0.004652620699067986, 0.07602795953752767],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227],
+        [0.038238979189687806, -0.005963565902897421, 0.09220746364721472]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/9.jpg",
+      "links": [7, 9, 16, 17, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "The Castle 3",
+      "names": [
+        "The room in the Middle of the Castle",
+        "The Castle 4",
+        "The Castle 2"
+      ],
+      "modals": [],
+      "positions": [
+        [41.33544441822594, -1.7515655885396704, 74.13719075293315],
+        [69.78455229054744, -0.36063803100404496, 48.35283033927222],
+        [-32.34818925189385, -27.393749956660926, -73.56077157993654]
+      ],
+      "nextCameraPositions": [
+        [0.010845115370631143, -0.030247795304321146, 0.09469664382556328],
+        [-0.05348698766818897, -0.02020293607382676, 0.08204257141374757],
+        [-0.09296692226202204, -0.027618852981553168, 0.024379301161241398]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/10.jpg",
+      "links": [14, 10, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "The Castle 4",
+      "names": ["The Castle 3", "The Castle 5"],
+      "modals": [],
+      "positions": [
+        [-46.99476556855252, -12.13470699763801, -69.6580999973317],
+        [-65.51615700389488, -7.078542146166394, 53.530714664815974]
+      ],
+      "nextCameraPositions": [
+        [-0.03796126028630519 , -0.03331077672007146 , -0.08630952943783748],
+        [0.08625593532892412, -0.02340621476075191, 0.04485602223900398]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/11.jpg",
+      "links": [9, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "The Castle 5",
+      "names": ["The Castle 4", "Tower 1", "Tower 2"],
+      "modals": [
+        {
+          "title":"The Towers",
+          "text":"The towers rise about 5 meters above the castle floor and have a diameter of about 3 meters. The towers have equal-length square balconies at the tops and small square openings throughout their diameter. In addition, each tower has a small entrance that leads into it.",
+          "image":null,
+          "position":[79.9214819406788, -18.97110716011099, 21.46308033636684]
+        }
+      ],
+      "positions": [
+        [-17.029836234832537, -17.03471922031551, -81.41138138429908],
+        [1.8665640818565017, -25.234467237508667, 81.04164115914378],
+        [70.73987378774649, -15.95469080064773, -44.151195883570644]
+      ],
+      "nextCameraPositions": [
+        [0.09316010267809517 , -0.01381444090036397 , -0.033620774702810094],
+        [0.09120164727807198, -0.002997156721998175, -0.04090570357969569],
+        [0.09910212672303588, 0.005731001896779573, -0.012079904644923938]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/12.jpg",
+      "links": [10, 12, 13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "Water Well",
+      "names": ["The Castle 5"],
+      "modals": [],
+      "positions": [
+        [-63.4850385541502, -52.24132661001946, 21.177905321427232]
+      ],
+      "nextCameraPositions": [
+        [-0.022031712397050967, -0.018931175283782294, -0.09568810924680424]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/13.jpg",
+      "links": [11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "Water Well",
+      "names": ["The Castle 5"],
+      "modals": [],
+      "positions": [[-52.44906862742176, -57.53824982790036, 33.8593415006572]],
+      "nextCameraPositions": [
+        [-0.08853161022145603, -0.00542664048701395, 0.046181225239494],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/14.jpg",
+      "links": [11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "The room in the Middle of the Castle",
+      "names": ["The Castle 3"],
+      "modals": [
+        {
+          "title": "The room in the Middle of the Castle",
+          "text": " is situated on a rocky hill in the castle's center. It measures 5.20-meters-long and 4.60-meters-wide, with a small entrance leading inside",
+          "image": null,
+          "position": [9.20750294966584, -25.680378213368645, 80.39745060790322]
+        }
+      ],
+      "positions": [
+        [-3.683207951586463, -66.06487898670923, -53.196576427969845]
+      ],
+      "nextCameraPositions": [
+        [-0.03795837487360884, -0.03192605004613074, -0.08683253483232271]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/15.jpg",
+      "links": [9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "The Southern Room",
+      "names": ["The Castle 2"],
+      "modals": [
+        {
+          "title": "The Southern Room",
+          "text": " is located on the Castle's southern wall, next to the Entrance. It measures 8.20-meters in length and 3.80-meters in width.",
+          "image": null,
+          "position": [9.20750294966584, -25.680378213368645, 80.39745060790322]
+        }
+      ],
+      "positions": [
+        [-32.81523437776539, -11.063990795672165, -77.51618218414531]
+      ],
+      "nextCameraPositions": [
+        [12.706541097744333, -11.301059260040196, 83.17956403427705]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/16.jpg",
+      "links": [8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 16,
+      "name": "Water Well",
+      "names": ["The Castle 2"],
+      "modals": [],
+      "positions": [
+        [-40.20903983392672, -12.33981284584104, -73.74938735042693]
+      ],
+      "nextCameraPositions": [
+        [0.0712411058681899, -0.012850498835965585, -0.06898963338317002]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/17.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/17.jpg",
+      "links": [8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 17,
+      "name": "Water Well",
+      "names": ["The Castle 2"],
+      "modals": [],
+      "positions": [
+        [-68.7205191742005, -11.063990795671824, -48.611607174641215]
+      ],
+      "nextCameraPositions": [
+        [0.005926339771805893, -0.029144155796778554, -0.09547511026336766]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/18.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/18.jpg",
+      "links": [8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 18,
+      "name": "Water Well",
+      "names": ["Al Dula Neighborhood 1", "Entrance"],
+      "modals": [
+        {
+          "title": "Al Masqoof(The Roofed)",
+          "text": "It is where the neighborhood residents gather on the roadside of the neighborhood to welcome strangers. After that, the neighborhood's people take turns inviting them to their private majlises during breakfast, lunch, or dinner times.Al Masqoof does not belong to a specific person but all neighborhood residents. Gathering occurs at particular times from morning to evening, depending on who passes by or who has time to sit with the neighborhood residents, where they discuss the town's situation and what is happening. It is conventional to gather at Al Masqoof when summoning men to discuss an emergency event.",
+          "image": null,
+          "position": [
+            84.87619940541082, -1.1863627829356125, 1.6227500855668202
+          ]
+        }
+      ],
+      "positions": [
+        [74.60444778584575, -29.720197560151107, -27.5480712129652262],
+        [-67.61852769453932, -25.675476644572537, 44.45800953143123]
+      ],
+      "nextCameraPositions": [
+        [83.43585974575191, -0.755247696581847, -15.681100388812773],
+        [0.09048052152436867, -0.006895508612760179, -0.04202055670323288]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/19.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/19.jpg",
+      "links": [19, 0],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 19,
+      "name": "Al Dula Neighborhood 1",
+      "names": ["Al Dula Neighborhood 2", "El Maskouf"],
+      "modals": [
+        {
+          "title": "Al Dula Neighborhood",
+          "text": "It is adjacent to Zaabal Castle. Al Dula Neighborhood dates back to the 12th century AH. It consists of a group of houses with the authentic urban fabric of the region. The neighborhood contains corridors (Suwaiq) that lead to the houses.",
+          "image": null,
+          "position": [
+            84.87619940541082, -1.1863627829356125, 1.6227500855668202
+          ]
+        }
+      ],
+      "positions": [
+        [-2.958860389983786, -40.10410165710735, 74.77242924680851],
+        [-64.47418518246621, -54.68180133202412, -7.809612547502038]
+      ],
+      "nextCameraPositions": [
+        [0.09485726916568202, -0.01640242917303004, -0.027075058700824363],
+        [-0.07998452427376025, -0.029791922723115028, 0.052104867499689525]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/20.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/20.jpg",
+      "links": [20, 18],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 20,
+      "name": "Al Dula Neighborhood 2",
+      "names": ["Al Dula Neighborhood 3", "Al Dula Neighborhood 1"],
+      "modals": [],
+      "positions": [
+        [78.98986864600674, -21.162531860103645, -22.820120432563414],
+        [-78.28026009009623, -26.45698475241015, 19.49971379373622]
+      ],
+      "nextCameraPositions": [
+        [0.027111249008046817, -0.026193766479927463, 0.09262217215558438],
+        [0.03580082374350235, -0.008842670399854678, -0.0929521823277227]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/21.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/21.jpg",
+      "links": [21, 19],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 21,
+      "name": "Al Dula Neighborhood 3",
+      "names": ["Al Dula Neighborhood 4", "Al Dula Neighborhood 2"],
+      "modals": [],
+      "positions": [
+        [23.017450407831745, -22.238507741458413, 78.63622416009113],
+        [12.25785475828993, -34.84447205087842, -76.44355933772461]
+      ],
+      "nextCameraPositions": [
+        [-0.09905237541668722, -0.010274291483830215, 0.009114047334579135],
+        [-78.10163778326323, -26.86568402836551, 19.656530651668348]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/22.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/22.jpg",
+      "links": [22, 20],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 22,
+      "name": "Al Dula Neighborhood 4",
+      "names": ["Al Dula Neighborhood 3", "Al Dula Neighborhood 5"],
+      "modals": [],
+      "positions": [
+        [78.2547204579715, -32.42749137590444, -5.7154640328131805],
+        [84.44803566260988, -6.255333132782684, -6.11637802334678]
+      ],
+      "nextCameraPositions": [
+        [12.741705475844022, -35.42137629069383, -76.09852195174307],
+        [-0.09758326741531063, 0.0008720469647717916, -0.021834501474574598]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/23.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/23.jpg",
+      "links": [21, 23],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 23,
+      "name": "Al Dula Neighborhood 5",
+      "names": ["Al Dula Neighborhood 3", "Al Dula Neighborhood 4"],
+      "modals": [],
+      "positions": [
+        [75.81264863054757, -37.127094242368116, -9.05710664282205],
+        [83.14206069072641, 0.38963640800235444, 17.18301276171105]
+      ],
+      "nextCameraPositions": [
+        [0.014323567613409905, -0.041134394021321866, -0.09001553776611407],
+        [-0.09580675705690875, -0.028083501344703127, 0.005690540788054183]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/24.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/24.jpg",
+      "links": [21, 22],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 24,
+      "name": "Sisra Well 1",
+      "names": ["Sisra Well 2", "Entrance"],
+      "modals": [],
+      "positions": [
+        [73.95968808028954, -37.39869762295005, 18.4204222311387],
+        [-81.53078383828941, 0.30471656017438303, -23.678015848716775]
+      ],
+      "nextCameraPositions": [
+        [0.09665850304220401 , -0.02179755634979388 , 0.013490749675900188],
+        [0.09108005245823192, -0.007867913148456614, -0.040528014840281346]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/25.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/25.jpg",
+      "links": [25, 0],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 25,
+      "name": "Sisra Well 2",
+      "names": ["Sisra Well 3", "Sisra Well 1"],
+      "modals": [],
+      "positions": [
+        [81.87505467115922, -18.7515059863941, 12.36391709115344],
+        [5.991892448751876, -2.6429942883260367, 84.64704251227249]
+      ],
+      "nextCameraPositions": [
+        [0.09998000599800072 , -6.123233995736767e-18 , 0.0019996001199600304],
+        [-0.09538660737990781 , 0.0006681509166632216 , -0.03001580761705203]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/26.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/26.jpg",
+      "links": [26, 24],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 26,
+      "name": "Sisra Well 3",
+      "names": ["Sisra Well 2"],
+      "modals": [
+        {
+          "title": "Sisira Well",
+          "text": "The Sisira Well dates back to the Nabataean period, which lasted from the first century BC to the end of the first century CE. It was excavated from a high-altitude rock. The essential characteristic of this Well is a channel opening on the eastern side that was used to supply water to the farms. It has an orifice dimension of (9m x 8m) and a depth of (15m). There is a ladder engraved on its sides inside.",
+          "image": null,
+          "position": [
+            84.53229455347146, -3.3288906187187233, -7.1567915139220695
+          ]
+        }
+      ],
+      "positions": [
+        [-81.26645409513912, 4.196937718882637, 24.210723917026247]
+      ],
+      "nextCameraPositions": [
+        [-0.09876690005065568, -0.002835249314574654, -0.015396779394015936]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/27.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/zaabal/lq/27.jpg",
+      "links": [25],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

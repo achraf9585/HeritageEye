@@ -1,0 +1,268 @@
+{
+  "infos": {
+    "id": "ushaiqer-heritage-village",
+    "title": "Ushaiqer Heritage Village",
+    "shortDescription": "Ushaiqer is one of the oldest villages in Najd. It dates back to the pre-Islamic era and was called &quot;Akl.&quot; It is located in the heart of Najd, on an area of oases 200 km northwest of the capital, Riyadh. It reflects the originality and deep-rootedness of Saudi society. Ushaiqer is a small village with limited space and population. It contains a number of schools, shops, and mosques located on its narrow heritage roads. This takes you on a live heritage exploration journey to discover part of the Village's originality and heritage.",
+    "longDescription": "Ushaiqer is one of the oldest villages in Najd. It dates back to the pre-Islamic era and was called &quot;Akl.&quot; It is located in the heart of Najd, on an area of oases 200 km northwest of the capital, Riyadh. It reflects the originality and deep-rootedness of Saudi society. Ushaiqer is a small village with limited space and population. It contains a number of schools, shops, and mosques located on its narrow heritage roads. This takes you on a live heritage exploration journey to discover part of the Village's originality and heritage.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/ushaiqer_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/ushaiqer.png",
+      "url": "/images/sites/ushaiqer.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "Entrance",
+      "names": ["Passage 1"],
+      "modals": [
+        {
+          "title": "The Village Entrance",
+          "text": "The main gate and passage leading to the village.The village of Ushaiger is one of the oldest villages in Najd, dating back to the pre-Islamic era. It was previously called 'Akal'. Ushaiger is located in the heart of Najd, on an area of oases 200 km northwest of the capital Riyadh; and it reflects a spirit of originality and authenticity of the Saudi society.The Bedouins settled there for the first time 1,500 years ago, and in no time; its urbanization prospered, and its architecture thrived, to become a popular stopping point for pilgrims' convoys heading to 'Makkah Al-Mukarramah', for its picturesque wells, orchards and palm trees.Ushaiger was named after ـJabal Al-Ashqar that borders it from the north, and above itsmud houses. Despite being a small village with a limited number of residents;It has a number of schools, shops, and mosques lurking among its narrow heritage lanes, which will take you on a live heritage exploration journey to unveil part of the originality and heritage that abounds in Ushaiger.Ushaiger is surrounded by thick walls which throw their shades over the winding alleys and narrow wood-framed passages, to penetrate the hundreds of ancient mud houses decorated with palm groves, and to paint a painting of the ancient Najdi architectural design with its windows, triangular roofs, and wooden doors, on some of which the names of the families where they lived were carved.",
+          "image": null,
+          "position": [ 53.511396911566344 , -1.1607320558381553 , -65.90290738473158 ]
+        }
+      ],
+      "positions": [[ 76.79167150276903 , -1.1726150294613658 , -36.18942196135003 ]],
+      "nextCameraPositions": [
+        [ -0.046941663959362154 , -0.010701843395605622 , -0.08764673828878203 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/1.jpg",
+      "links": [2],
+      "cameraPosition": [ 0.08584299200216929 , 0.011084031665155251 , -0.05008040416331861 ]
+    },
+    {
+      "id": 2,
+      "name": "Passage 1",
+      "names": ["Entrance","Passage 2"],
+      "modals": [
+      ],
+      "positions": [[ 69.62395195877897 , -5.91031788964168 , 48.224303583203955 ],[ -66.26207104359477 , -6.964635552791467 , -52.619785182290435 ]],
+      "nextCameraPositions": [
+        [ 0.08584299200216929 , 0.011084031665155251 , -0.05008040416331861 ],
+        [ 0.013225661210460128 , -0.012247239221879378 , 0.09836202019574511 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/3.jpg",
+      "links": [0,3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "Passage 2",
+      "names": ["Passage 1","Passage 3"],
+      "modals": [
+        {
+          "title": "Al-Modaraj Restaurant",
+          "text": "a traditional restaurant that serves many traditional dishes, and traditional themed seats.",
+          "image": null,
+          "position": [ -58.43870227488723 , -19.243019617251395 , 58.503284287612175 ]
+        }
+      ],
+      "positions": [[ -1.3337192421330952 , -4.5871605868184835 , -84.7654950480082 ],[ 75.16935044590635 , -10.39790609937562 , 38.071804557823185 ]],
+      "nextCameraPositions": [
+        [ 0.08195901042345996 , -0.007293240011293452 , 0.05682894738198875 ],
+        [ -0.08092271947965964 , -0.0032492360893993043 , 0.058659661922411864 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/4.jpg",
+      "links": [2,5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "Passage 3",
+      "names": ["Passage 2","Passage 4"],
+      "modals": [],
+      "positions": [[ 63.57572197479133 , -5.6853528461290885 , -55.980481762834515 ],[ -46.91105055587745 , -1.9658849435454469 , 70.73541285758253 ]],
+      "nextCameraPositions": [
+        [ -0.039055739902031 , -0.0029380281923052135 , -0.0920109622330194 ],
+        [ -0.09164738713657045 , 0.000676456610464203 , 0.04000373529426642 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/6.jpg",
+      "links": [3,6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "Passage 4",
+      "names": ["Yard 1","Village Streets","Passage 3"],
+      "modals": [
+        {
+          "title": "The Old Mosque",
+          "text": "The Old Mosque and a part of the Heritage House, which is located at the opposite of the Old Mosque. The Heritage House consists of a large majlis that accommodates more than 500 people, along with a small museum.",
+          "image": null,
+          "position": [ 20.206171441938245 , 18.306079829451427 , -80.40278649982692 ]
+        }
+      ],
+      "positions": [[ -74.17234249172807 , -3.1257672850128273 , -41.191057138288365 ],[ -22.705976453700387 , -7.6100626245050975 , 81.4526585209784 ],[ 83.7389612004498 , -1.3415558216468524 , 13.928266404939595 ]],
+      "nextCameraPositions": [
+        [ -0.08919200262382204 , 0.0022209789233590825 , 0.045164742007168766 ],
+        [ 0.023224313739687495 , -0.005591776560701398 , -0.09710490866179605 ],
+        [ 0.08548142782945614 , -0.0055926520221752105 , -0.051591159510097656 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/7.jpg",
+      "links": [10,7,5],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "Village Streets",
+      "names": ["Passage 4","Mosquet Entrance"],
+      "modals": [
+        {
+          "title": "The Internal Passages of the Village",
+          "text": "branching passages that lead to houses, historical mosques, resorts, and museums, and tell in its narrow details the ancient history and authenticity of the village.",
+          "image": null,
+          "position": [ 44.836179391493005 , -7.120600505014637 , -71.74276316132412 ]
+        }
+      ],
+      "positions": [[ -3.532386820743824 , -5.802736995036707 , 84.62777609458415 ],[ -1.4751197005856767 , -7.384798064377076 , -84.56535212140558 ]],
+      "nextCameraPositions": [
+        [ 0.023799966362706957 , 0.0215619314834528 , -0.09470292873948993 ],
+        [ -0.07313780364961991 , -0.02087635088894624 , -0.06492333672009812 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/8.jpg",
+      "links": [6,8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "Mosquet Entrance",
+      "names": ["Mosquet","Village Streets"],
+      "modals": [
+        
+      ],
+      "positions": [[ -24.56517370659127 , -17.20664627666794 , -79.42602573888882 ],[ 80.27938307233447 , -9.902500923461224 , -25.79091175174363 ]],
+      "nextCameraPositions": [
+        [ 0.024170448352181458 , -0.013159202231460382 , -0.0961385709436439 ],
+        [ -0.011497802676096444 , -0.008244612772473276 , 0.09899407504418392 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/9.jpg",
+      "links": [9,7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "Mosquet",
+      "names": ["Mosquet Entrance"],
+      "modals": [
+        {
+          "title": "The North Mosque",
+          "text": "Where Sheikh Suleiman bin Ali Al Musharraf  was an imam (1079 AH / 1668 AD), and he is the grandfather of Sheikh Muhammad bin AbdAl-Wahhab. It is called the North Mosque due to its location at the north of Ushaiger  village at Al-Munaikh market. It was renovated with the same materials from which it was built the first time in its historical identity. ",
+          "image": null,
+          "position": [ 5.0480066333580265 , 0.1868513202893034 , -84.74958829170606 ]
+        }
+      ],
+      "positions": [[ 14.343647242143263 , -10.134099223689201 , 83.06364918974714 ]],
+      "nextCameraPositions": [
+        [ 0.09848019860898037 , -0.006980411441062369 , -0.015903595129695084 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/10.jpg",
+      "links": [8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "Yard 1",
+      "names": ["Passage 4","Yard 2"],
+      "modals": [],
+      "positions": [[ 62.528348174790224 , -3.54402040498926 , -57.320638463831045 ],[ -84.1143638881451 , -5.391814413835827 , -10.183915014348074 ]],
+      "nextCameraPositions": [
+        [ 0.023799966362706957 , 0.0215619314834528 , -0.09470292873948993 ],
+        [ -0.0016141547175505045 , -0.005716524728259337 , 0.09982342335133074 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/11.jpg",
+      "links": [6,11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "Yard 2",
+      "names": ["Yard 1","Yard 3"],
+      "modals": [],
+      "positions": [[ -8.778198134769763 , -15.084801654734715 , -83.08671371852444 ],[ -1.3704173552003793 , -4.853329494292181 , 84.75008642527985 ]],
+      "nextCameraPositions": [
+        [ 0.07363163257146173 , -0.003875865071440633 , -0.06755264876234857 ],
+        [ 0.09571271193216538 , -0.014408337504293494 , -0.025129197857327062 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/12.jpg",
+      "links": [10,12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "Yard 3",
+      "names": ["Mahasiri Market 1","Village Street 2","Yard 2"],
+      "modals": [],
+      "positions": [[ 46.47060525218297 , -0.9086747625197134 , -71.04693630039051 ],[ 83.04626774284566 , -7.770696980361606 , 15.841202051075323 ],[ -57.025442736838954 , -13.016885107847276 , 61.53592107668989 ]],
+      "nextCameraPositions": [
+        [ -0.031168314930938353 , -0.008839730545591689 , -0.09460652888805916 ],
+        [ -0.05206503467174805 , -0.004493722521928664 , 0.08525865717055119 ],
+        [ 0.0071354622956402245 , -0.011011359961649479 , -0.09913543831356411 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/13.jpg",
+      "links": [14,13,11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "Village Street 2",
+      "names": ["Yard 3"],
+      "modals": [],
+      "positions": [[22, -5, -60]],
+      "nextCameraPositions": [
+        [ -0.09811515027473228 , 0.01475399114241018 , -0.012479464409035131 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/14.jpg",
+      "links": [12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "Mahasiri Market 1",
+      "names": ["Yard 3","Mahasiri Market 2"],
+      "modals": [],
+      "positions": [[ -71.08574718653563 , -7.768201745964187 , 45.76550653675696 ],[ -19.367892176788093 , -7.5049312332073645 , -82.31992929912622 ]],
+      "nextCameraPositions": [
+        [ -0.011279314217298764 , -0.00013623753220118296 , 0.0993617557721393 ],
+        [ 0.06875520643718641 , 0.00546303211898227 , -0.07240771276491784 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/15.jpg",
+      "links": [12,15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "Mahasiri Market 2",
+      "names": ["Mahasiri Market 1"],
+      "modals": [
+        {
+          "title": "The House of Sheikh Muhammad Al-Kharashi (the first official school at Ushaiger)",
+          "text": "The House of Sheikh Muhammad bin Abdullah Al-Kharashi is considered the first official school authorized by the government in Ushaiger during the period from 1369 AH to the end of 1373 AH (1950 AD – 1954 AD)",
+          "image": null,
+          "position": [ 0.7775901857218891 , 0.14660802380287596 , -84.89631240278005 ]
+        }
+      ],
+      "positions": [[ -81.99506866600622 , -7.490792784435629 , -20.705234553551204 ]],
+      "nextCameraPositions": [
+        [ -0.043928858767089886 , 0.0007978251171623293 , 0.08983105722690506 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/ushaiqer/lq/16.jpg",
+      "links": [14],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}

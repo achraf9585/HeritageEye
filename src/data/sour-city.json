@@ -1,0 +1,365 @@
+{
+  "infos": {
+    "id": "sour-city",
+    "title": "sour-city",
+    "shortDescription": "The construction of the Al-Sour district dates back to the 18 th century AH. The district consists of many heritage houses. It has a variety of Rwasheen and Mashrabiyas with Islamic decorations, manuscripts, and inscriptions. Furthermore, the district includes a number of heritage sites, and it was built out of limestone, wood, and plaster.",
+    "longDescription": "The construction of the Al-Sour district dates back to the 18 th century AH. The district consists of many heritage houses. It has a variety of Rwasheen and Mashrabiyas with Islamic decorations, manuscripts, and inscriptions. Furthermore, the district includes a number of heritage sites, and it was built out of limestone, wood, and plaster.",
+    "loadingImage": "https://d2vm0afvtrg4mc.cloudfront.net/images/landing/sour_init.jpg",
+    "image": {
+      "placeholder": "/images/sites/p_sour.png",
+      "url": "/images/sites/p_sour.png"
+    }
+  },
+  "photos": [
+    {
+      "id": 0,
+      "name": "",
+      "names": ["2", "1"],
+      "modals": [
+        {
+          "title": "",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [72.7788931409388 , -16.852119810080552 , -40.33917167080283]
+        },
+        {
+          "title": "",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [71.54960924074389 , -6.498771992846592 , 45.23747760520969]
+        }
+      ],
+      "positions": [
+        [34.51714392829422 , -11.42494255862418 , -76.7205804368395],
+        [79.11871576890091 , -19.272595954928033 , 24.01678288693062]
+      ],
+      "nextCameraPositions": [
+        [0.09109299188576128 , -0.002798602496431723 , 0.04116108178082298],
+        [-0.039298558811031 , 0.0004748160462545804 , 0.09195323716486634]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/1.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/1.jpg",
+      "links": [2, 1],
+      "cameraPosition": [0.09398619630577493 , 0.012288829066471198 , -0.03186815940947011]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "names": ["0", "3"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": [67.74979008566005 , -24.30034284572879 , -45.0274280958733]
+        }
+      ],
+      "positions": [
+        [ 38.1483771471163 , -14.091493083559836 , -74.5261104829533],
+        [-2.9215969168378875 , -9.000976885175016 , 84.37094693416728]
+      ],
+      "nextCameraPositions": [
+        [-0.09479779376811705 , 0.0007370083353813112 , -0.03182507054840768],
+        [ -0.06630557408422139 , -0.0008536989653680164 , -0.0748521345282708]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/2.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/2.jpg",
+      "links": [0, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "names": ["0", "3"],
+      "modals": [],
+      "positions": [
+        [-69.64240769855705 , -9.78638164439843 , -47.5622937236856 ],
+        [ 24.71862519500363 , -12.520371212744193 , 80.25110512113848 ]
+      ],
+      "nextCameraPositions": [
+        [-32.51803352757047 , 0.10989267267301911 , 78.42560435916509],
+        [-0.043275957046695505 , -0.008624017835248316 , -0.08973749415974282]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/3.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/3.jpg",
+      "links": [0, 3],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "names": ["1", "2", "4"],
+      "modals": [
+        {
+          "title": "",
+          "text": "Apologies dear visitor, This is beta version. Content under development.",
+          "image": null,
+          "position": [-63.66499644561663 , 1.7523631646019153 , -56.14006992264055]
+        }
+      ],
+      "positions": [
+        [55.2441623053106 , -7.595980781186724 , 64.01869732473742],
+        [36.730783207309216 , -7.595980781186628 , 76.1653506586131],
+        [-48.14416143411736 , -17.391316016879482 , -67.73250214636012]
+      ],
+      "nextCameraPositions": [
+        [0.00115868861239249 , 0.0001506080052869317 , -0.0999931735566396],
+        [-0.027397636789839638 , 0.0001189199411554677 , -0.09617356890736464],
+        [ -0.09311160429911282 , -0.0011778918644432842 , 0.036453281273447935 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/4.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/4.jpg",
+      "links": [1, 2, 4],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "names": ["3", "9"],
+      "modals": [],
+      "positions": [
+        [74.97378268353096 , -27.590465791360856 , -28.73513715885865],
+        [-73.19188512174323 , -8.969823229967668 , -42.07731245634249]
+      ],
+      "nextCameraPositions": [
+        [0.06002893444251048 , -0.000529497092902016 , 0.07997653820043339],
+        [-0.078667416924903 , -0.0011745729894959882 , 0.06172566640106709]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/5.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/5.jpg",
+      "links": [3, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/6.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/6.jpg",
+      "links": [4, 6],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/7.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/7.jpg",
+      "links": [5, 7],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/8.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/8.jpg",
+      "links": [6, 8],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "names": ["prec", "next"],
+      "modals": [],
+      "positions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 12.302713378367166, -17.240689960836928]
+      ],
+      "nextCameraPositions": [
+        [83.09913429616091, 2.302713378367165, -17.240689960836928],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/9.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/9.jpg",
+      "links": [7, 9],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "names": ["4", "10"],
+      "modals": [],
+      "positions": [
+        [66.49787423962336 , 3.069107823355773 , -52.69367418182049],
+        [-50.388409024163714 , -43.98810431234804 , 52.288286594796396]
+      ],
+      "nextCameraPositions": [
+        [0.08604570377906078 , 0.00011891994115568975 , 0.05095216108482263],
+        [66.79656258188608 , -1.8256748660193054 , -52.37266594825743]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/10.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/10.jpg",
+      "links": [4, 10],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "names": ["9", "11"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": [81.98221586188876 , 0.10219445355914222 , -22.066169551336664]
+        }
+      ],
+      "positions": [
+        [-54.3939209823141 , -46.926345022321925 , 45.24632032569914],
+        [57.561524022690456 , -44.60821852697477 , -43.643874622160844]
+      ],
+      "nextCameraPositions": [
+        [0.06770284022633138 , 0.0007673319752666864 , -0.0735916885723352],
+        [-0.013690023349008505 , -0.002474505575956548 , 0.09902757233648694]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/11.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/11.jpg",
+      "links": [9, 11],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "names": ["10", "12","14"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [14.243642016856471 , -21.44245537938367 , -80.90333595964249],
+        [-64.7028651742824 , -42.95556629371569 , 34.29822973018913],
+        [32.32148959778856 , -43.37935044595304 , 65.43365544631632]
+      ],
+      "nextCameraPositions": [
+        [-67.61243507374544 , -5.969305622775014 , 50.99937268026407],
+        [0.076996690288265 , -0.0015020723824758532 , 0.06379070044458512],
+        [83.09913429616091, 2.302713378367165, -17.240689960836928]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/12.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/12.jpg",
+      "links": [10, 12, 14],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "names": ["11", "13"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [-63.9299524555203 , -19.31763698452153 , -52.41946280122642],
+        [69.43789897002912 , -32.746036418446494 , 36.25031428153151]
+      ],
+      "nextCameraPositions": [
+        [0.08874383589468894 , -0.0023061969142197866 , -0.04603491117064697],
+        [ -0.04429765809622552 , -0.0010616235134265134 , 0.08964703253708758]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/13.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/13.jpg",
+      "links": [11, 13],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "names": ["12"],
+      "modals": [],
+      "positions": [
+        [27.592993099115088 , -53.48286528447393 , -59.885055337663346]
+      ],
+      "nextCameraPositions": [
+        [ -0.08118580741216468 , -0.006592828923739623 , -0.0580120615184222 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/14.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/14.jpg",
+      "links": [12],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "names": ["11", "15"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [ -76.23493369742512 , -20.07587656575702 , -31.51514023871202],
+        [81.80899432075988 , -19.272595954928057 , 11.994394248313354]
+      ],
+      "nextCameraPositions": [
+        [-0.041958003973524 , -0.000008021463699778117 , -0.09077183394761756],
+        [ -0.03210336832820491 , 0.0016476074788466571 , -0.09469244495512437 ]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/15.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/15.jpg",
+      "links": [11, 15],
+      "cameraPosition": [5, 0, 0.1]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "names": ["14"],
+      "modals": [
+        {
+          "title": "",
+          "text": "",
+          "image": null,
+          "position": []
+        }
+      ],
+      "positions": [
+        [24.428880658227246 , -28.38143617644243 , 76.19536646246029 ]
+      ],
+      "nextCameraPositions": [
+        [-0.09983099761618097 , -0.00020528965479219209 , -0.005807733733195833]
+      ],
+      "url": "https://d2vm0afvtrg4mc.cloudfront.net/sour/16.jpg",
+      "urlLQ": "https://d2vm0afvtrg4mc.cloudfront.net/sour/lq/16.jpg",
+      "links": [14],
+      "cameraPosition": [5, 0, 0.1]
+    }
+  ]
+}
