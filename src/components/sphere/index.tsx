@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import ReactPannellum, { getConfig } from "react-pannellum";
 
 class SphereViewer extends Component {
@@ -8,7 +7,7 @@ class SphereViewer extends Component {
   }
 
   render() {
-    const { imageSource } = this.props;
+    // const { imageSource } = this.props;
     const config = {
       autoRotate: -6,
       autoLoad: true,
