@@ -21,8 +21,8 @@
     "cardImage": "/images/sites/house_of_allegiance_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/house-of-allegiance.mp4",
     "geolaction": {
-      "latitude": 25.4766738,
-      "longitude": 49.2849668
+      "latitude": 21.4766738,
+      "longitude": 52.2849668
     },
     "link": "/house-of-allegiance"
   },
@@ -48,7 +48,7 @@
     "cardImage": "/images/sites/ushaiqer_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/ushaiqer-heritage-village.mp4",
     "geolaction": {
-      "latitude": 25.3398154,
+      "latitude": 22.3398154,
       "longitude": 45.1912727
     },
     "link": "/ushaiqer-heritage-village"
@@ -75,7 +75,7 @@
     "cardImage": "/images/sites/albassam_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/albassam-heritage-house.mp4",
     "geolaction": {
-      "latitude": 26.08942157,
+      "latitude": 24.08942157,
       "longitude": 43.9674238
     },
     "link": "/albassam-heritage-house"
@@ -102,8 +102,8 @@
     "cardImage": "/images/sites/aarif_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/aarif-fort.mp4",
     "geolaction": {
-      "latitude": 27.5170025,
-      "longitude": 41.7032043
+      "latitude": 24.9170025,
+      "longitude": 39.8
     },
     "link": "/aarif-castle"
   },
@@ -129,7 +129,7 @@
     "cardImage": "/images/sites/jubbah_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/jubbah-and-shuwaymis.mp4",
     "geolaction": {
-      "latitude": 28.011999308237645,
+      "latitude": 25.011999308237645,
       "longitude": 40.93242530002401
     },
     "link": "/jubbah-and-shuwaymis"
@@ -156,8 +156,8 @@
     "cardImage": "/images/sites/zaabal_l.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/zaabal-castle.mp4",
     "geolaction": {
-      "latitude": 30.193080796192363,
-      "longitude": 40.40194753921596
+      "latitude": 28.2,
+      "longitude": 37.40194753921596
     },
     "link": "/zaabal-castle"
   },
@@ -183,8 +183,8 @@
     "cardImage": "/images/sites/jandal.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/Jandal.mp4",
     "geolaction": {
-      "latitude": 29.611759192959506,
-      "longitude": 39.66720886769519
+      "latitude": 27.611759192959506,
+      "longitude": 38.66720886769519
     },
     "link": "/dumat-al-jandal"
   },
@@ -210,8 +210,8 @@
     "cardImage": "/images/sites/sour.png",
     "videoLink": "https://d2vm0afvtrg4mc.cloudfront.net/intro-videos/Sour.mp4",
     "geolaction": {
-      "latitude": 24.179556765505448,
-      "longitude": 37.190791217652074
+      "latitude": 23.179556765505448,
+      "longitude": 31.1
     },
     "link": "/sour-city"
   },

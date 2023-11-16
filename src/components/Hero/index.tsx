@@ -45,9 +45,20 @@ const Hero = ({ sites }: { sites: TSitesProps }) => {
     <>
       {isMobile ? (
         <>
-          <section className="px-8 max-h-[calc(calc(100vh-200px)-3rem)] md:max-h-[calc(calc(100vh-128px)-3rem)]">
+          <section
+            className={`px-8 ${
+              isMobile
+                ? "max-h-[calc(calc(100vh-200px)-3rem)] md:max-h-[calc(calc(100vh-128px)-3rem)]"
+                : "min-h-[calc(calc(100vh-200px)-3rem)] md:min-h-[calc(calc(100vh-128px)-3rem)]"
+            }`}
+          >
             <SphereViewer />
-            <div className="block md:flex max-2xl:gap-5 lg:gap-3 lg:px-12">
+            <div
+              className={clsx(
+                "block md:flex max-2xl:gap-5 lg:gap-3 lg:px-12",
+                isMobile && "flex-col"
+              )}
+            >
               <div className="order-1 md:order-2">
                 <PatternTile
                   numberOfTiles={6}

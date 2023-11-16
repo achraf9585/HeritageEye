@@ -1,11 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
-
 import Image from "next/image";
-
 import clsx from "helpers";
-
 import { TSitesProps } from "types/ISitesProps";
-
 import Site from "./Site";
 import SiteCard from "./Site/SIteCard";
 
@@ -17,7 +13,6 @@ const Map = ({ sites }: { sites: TSitesProps }) => {
   });
   const handleResize = () => {
     const { width, height } = imageRef?.current || { width: 0, height: 0 };
-
     setCurrentDimentions({ width, height });
   };
   const [currentSiteId, setCurrentSiteId] = useState<string | null>(null);
@@ -35,8 +30,8 @@ const Map = ({ sites }: { sites: TSitesProps }) => {
       window.removeEventListener("resize", handleResize);
     };
   }, []);
-  const selectedSite = useRef(sites[0]);
 
+  const selectedSite = useRef(sites[0]);
   selectedSite.current =
     sites.find((site) => site.id === currentSiteId) || selectedSite.current;
 
@@ -78,6 +73,26 @@ const Map = ({ sites }: { sites: TSitesProps }) => {
         )}
         onClick={() => setCurrentSiteId(null)}
       />
+      <div
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          zIndex: -20,
+        }}
+      >
+        <img
+          src="https://www.wtravelmagazine.com/wp-content/uploads/2022/04/30.200.1-Ras-Al-Sheikh-Hameed.jpg"
+          alt="background"
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+          }}
+        />
+      </div>
       <Image
         style={{
           objectFit: "cover",
@@ -86,7 +101,7 @@ const Map = ({ sites }: { sites: TSitesProps }) => {
         ref={imageRef}
         className="-z-20"
         alt="cover"
-        src="/images/map.jpeg"
+        src="/images/trksa.png"
         priority
       />
     </div>
