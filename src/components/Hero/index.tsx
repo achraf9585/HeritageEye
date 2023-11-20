@@ -97,7 +97,7 @@ const Hero = ({ sites }: { sites: TSitesProps }) => {
           </section>
           <p
             className="scroll-auto text-xs sm:text-base font-normal md:text-lg 3xl:text-3xl 6xl:text-6xl text-brownish my-[2vh] min-h-[20vh]"
-            style={{ color: "white", marginTop: "425px", textAlign: "center" }}
+            style={{ color: "white", marginTop: "420px", textAlign: "center" }}
           >
             {sites[currentSlide].shortDescription}
           </p>
@@ -105,7 +105,7 @@ const Hero = ({ sites }: { sites: TSitesProps }) => {
             className="bottom-[-9.25rem]"
             style={{
               color: "white",
-              marginTop: "-30px",
+              marginTop: "10px",
               textAlign: "center",
             }}
           >
